@@ -7,4 +7,4 @@ $(document).ready(function(){
 		    zoom: 8
 		  });
 		}
-});
+}); 
