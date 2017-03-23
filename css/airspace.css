@@ -805,3 +805,38 @@ footer .footer-manu ul li a {
 footer .footer-manu ul li a:hover {
   color: #000;
 }
+.logo-center {
+
+}
+#uber{
+  width: 60%;
+  margin-top: 12%;
+}
+#dropbox{
+  width: 40%;
+  margin: 3%;
+}
+#myeep {
+  width: 50%;
+  margin: -5%;
+}
+#missionhousing {
+  margin: -14%;
+}
+#impacthub {
+  width: 35% ;
+  /*margin-top: 20px;*/
+  margin-top: 2%;
+}
+#sfofficeofEcon {
+  width: 75%;
+  margin-top: 1%;
+}
+#jamestown {
+  width: 60%;
+  margin-top: -5%;
+}
+#usf {
+  width: 60%;
+  margin-top: 10%;
+}
