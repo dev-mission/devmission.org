@@ -15,15 +15,21 @@ function submitForm() {
 	$('#contact-form-submit').click(function(e) {
     e.preventDefault();
     var contactName = $('#contact-name').val();
+		var contactTitle = $('#contact-title').val();
     var contactEmail = $('#contact-email').val();
-    var contactNumber = $('#contact-number').val();
+		var contactAbout = $('#contact-about').val();
     var contactPurpose = $('#contact-purpose').val();
+		var contactAdditional = $('#contact-additional').val();
     // data validation code here
-    var url = "https://docs.google.com/forms/d/e/1FAIpQLSc4n_ZafSq1_QVjzJSxThtQjOUpD-YjlLcRW2eFhO_jSNaPUw/formResponse";
+    var url = "//docs.google.com/forms/d/e/1FAIpQLSdA4kqdrQE_HU-JlannPooeAR2nfwQp7AqFwUHKadimmcBBHg/formResponse";
     var data = {
-        'entry.564562331': contactName,
-        'entry.253022276': contactEmail,
-        'entry.587420216': contactPurpose,
+        'entry.2005620554': contactName,
+				'entry.2120814685': contactTitle,
+        'entry.99450920': contactEmail,
+				'entry.777197893': contactAbout,
+        'entry.1576241862': contactPurpose,
+				'entry.371473633"': contactAdditional
+
     };
     $.ajax({
             type: "POST",
