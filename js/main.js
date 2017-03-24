@@ -21,7 +21,7 @@ function submitForm() {
     var contactPurpose = $('#contact-purpose').val();
 		var contactAdditional = $('#contact-additional').val();
     // data validation code here
-    var url = "//docs.google.com/forms/d/e/1FAIpQLSdA4kqdrQE_HU-JlannPooeAR2nfwQp7AqFwUHKadimmcBBHg/formResponse";
+    var url = "https://docs.google.com/forms/d/e/1FAIpQLSdA4kqdrQE_HU-JlannPooeAR2nfwQp7AqFwUHKadimmcBBHg/formResponse";
     var data = {
         'entry.2005620554': contactName,
 				'entry.2120814685': contactTitle,
@@ -38,12 +38,12 @@ function submitForm() {
             data: data,
             statusCode: {
                     0: function() {
-                            console.log("unknown");
-                            window.location.href = "index";
+														// TEMP: CORS ERROR is returning a 401 but data is still getting passed through. Always return a success
+                            // window.location.href = "../volunteer";
+														window.location.href = "../success";
                     },
                     200: function() {
-                            console.log("success");
-                            window.location.href = "success";
+                            window.location.href = "../success";a
                     }
             }
     });
