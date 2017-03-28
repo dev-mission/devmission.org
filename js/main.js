@@ -1,4 +1,33 @@
 $(document).ready(function(){
+
+
+	$("#portfolio-contant-active").mixItUp();
+
+
+	$("#testimonial-slider").owlCarousel({
+	    paginationSpeed : 500,
+	    singleItem:true,
+	    autoPlay: 3000,
+	});
+
+
+
+
+	$("#clients-logo").owlCarousel({
+		autoPlay: 3000,
+		items : 5,
+		itemsDesktop : [1199,5],
+		itemsDesktopSmall : [979,5],
+	});
+
+	$("#works-logo").owlCarousel({
+		autoPlay: 3000,
+		items : 5,
+		itemsDesktop : [1199,5],
+		itemsDesktopSmall : [979,5],
+	});
+
+
 	// google map
 		var map;
 		function initMap() {
@@ -7,45 +36,14 @@ $(document).ready(function(){
 		    zoom: 8
 		  });
 		}
-	submitForm();
-});
 
-function submitForm() {
 
-	$('#contact-form-submit').click(function(e) {
-    e.preventDefault();
-    var contactName = $('#contact-name').val();
-		var contactTitle = $('#contact-title').val();
-    var contactEmail = $('#contact-email').val();
-		var contactAbout = $('#contact-about').val();
-    var contactPurpose = $('#contact-purpose').val();
-		var contactAdditional = $('#contact-additional').val();
-    // data validation code here
-    var url = "//docs.google.com/forms/d/e/1FAIpQLSdA4kqdrQE_HU-JlannPooeAR2nfwQp7AqFwUHKadimmcBBHg/formResponse";
-    var data = {
-        'entry.2005620554': contactName,
-				'entry.2120814685': contactTitle,
-        'entry.99450920': contactEmail,
-				'entry.777197893': contactAbout,
-        'entry.1576241862': contactPurpose,
-				'entry.371473633"': contactAdditional
+	// Counter
 
-    };
-    $.ajax({
-            type: "POST",
-            url: url,
-            dataType: "json",
-            data: data,
-            statusCode: {
-                    0: function() {
-                            console.log("unknown");
-                            window.location.href = "index";
-                    },
-                    200: function() {
-                            console.log("success");
-                            window.location.href = "success";
-                    }
-            }
+	$('.counter').counterUp({
+        delay: 10,
+        time: 1000
     });
+
+
 });
-}
