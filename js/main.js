@@ -22,7 +22,7 @@ function submitVolunteerForm() {
     var contactPurpose = $('#contact-purpose').val();
 		var contactAdditional = $('#contact-additional').val();
     // data validation code here
-    var url = "https://docs.google.com/forms/d/e/1FAIpQLSdA4kqdrQE_HU-JlannPooeAR2nfwQp7AqFwUHKadimmcBBHg/formResponse";
+    var url = "//docs.google.com/forms/d/e/1FAIpQLSdA4kqdrQE_HU-JlannPooeAR2nfwQp7AqFwUHKadimmcBBHg/formResponse";
     var data = {
         'entry.2005620554': contactName,
 				'entry.2120814685': contactTitle,
@@ -37,6 +37,7 @@ function submitVolunteerForm() {
             url: url,
             dataType: "json",
             data: data,
+						contentType : 'application/json',
             statusCode: {
                     0: function() {
 														// TEMP: CORS ERROR is returning a 401 but data is still getting passed through. Always return a success
@@ -65,8 +66,8 @@ function submitParticipateForm() {
 		var contactHomeNumber= $('#contact-home-number').val();
 		var contactMobileNumber = $('#contact-mobile-number').val();
 		var contactEmail = $('#contact-email').val();
-		var contactAge = $('#contact-gender').val();
-		var contactGender = $('#contact-date-of-birth').val();
+		var contactAge = $('#contact-age').val();
+		var contactGender = $('#contact-gender').val();
 		var contactIdentification = $('#contact-identification').val();
 		var programCommitment = $('#commmitment').val();
 		var joinReasoning = $('#join-reasoning').val();
@@ -77,14 +78,14 @@ function submitParticipateForm() {
     var url = "https://docs.google.com/forms/d/e/1FAIpQLSdKsQPVWx5rwN-O6GN-4JmqXnDld3idHVKNOtjkL9v-cTbvVw/formResponse";
     var data = {
 			'entry.164084543': contactFirstName,
-			'entry.164084543': contactMiddleName,
+			'entry.919386072': contactMiddleName,
 			'entry.206814970': contactLastName,
 			'entry.1358523807': contactAddress,
 			'entry.952400269': contactCity,
 			'entry.511556928': contactZipCode,
 			'entry.988194661': contactDateOfBirth,
 			'entry.2088293968': contactHomeNumber,
-			'entry.2088293968': contactMobileNumber,
+			'entry.1789819430': contactMobileNumber,
 			'entry.285442385': contactEmail,
 			'entry.84273717': contactAge,
 			'entry.966779481': contactGender,
@@ -98,7 +99,7 @@ function submitParticipateForm() {
             type: "POST",
             url: url,
             dataType: "json",
-            data: data,
+            data: JSON.stringify(data),
             statusCode: {
                     0: function() {
 														// TEMP: CORS ERROR is returning a 401 but data is still getting passed through. Always return a success
