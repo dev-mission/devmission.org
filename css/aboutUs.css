@@ -1,63 +1,18 @@
 
-
-/*---------------------------------------------
-					Work Start
------------------------------------------------*/
-
-/*--
-	Slider-work Start
-#global-header {
-  background: url("../img/slider-bg.jpg") no-repeat;
-  background-size: cover;
-  padding-top: 150px;
-  padding-bottom: 107px;
-  position: relative;
-  background-attachment: fixed;
-}
-#global-header:before {
-  content: "";
-  position: absolute;
-  left: 0;
-  top: 0;
-  bottom: 0;
-  right: 0;
-  width: 100%;
-  height: 100%;
-  background: linear-gradient(to left, #928dab, #1f1c2c 70%);
-  opacity: 0.8;
-}
-#global-header .block {
-  color: #E3E3E4;
-  margin: 0 auto;
-  padding-left: 90px;
-  text-align: center;
-}
-#global-header .block h1 {
-  font-weight: 100;
-  font-size: 45px;
-  letter-spacing: 6px;
-  padding-bottom: 15px;
-  margin-top: 0;
-  text-transform: capitalize;
-}
-#global-header .block p {
-  font-size: 16px;
-  font-weight: 300;
-  letter-spacing: 1px;
-  word-spacing: 3px;
-}*--/
-/*--
-	portfolio-work Start
---*/
 @import url('https://fonts.googleapis.com/css?family=Montserrat:700|Raleway');
-.font1{
+#container-img {
+  padding: 0;
+}
+.font1 {
   font-family: 'Raleway', sans-serif;
   color: black !important;
 }
-h4{
+
+h4 {
   font-family: 'Montserrat', sans-serif;
 }
-.about-text{
+
+.about-text {
   padding-top: 2%;
   padding-bottom: 2%;
   text-align: center;
@@ -65,38 +20,21 @@ h4{
   color: white;
 }
 
+.container-img{}
 #portfolio-work {
-
   overflow: hidden;
-
   padding: 80px 0;
-
-}
-
-
-
-#portfolio-work2 {
-
-  overflow: hidden;
-
 }
 
 #portfolio-work .block .portfolio-menu {
-
   padding-bottom: 3%;
-
   text-align: center;
-
 }
 
 #portfolio-work .block .portfolio-menu ul {
-
   border: 1px solid #999999;
-
   display: inline-block;
-
   margin-bottom: 40px;
-
 }
 
 #portfolio-work .block .portfolio-menu ul li {
@@ -168,106 +106,57 @@ h4{
 }
 
 #portfolio-work .block .portfolio-menu ul li:hover:before {
-
   content: "\f0d7";
-
   position: absolute;
-
   font-family: 'FontAwesome';
-
   bottom: -18px;
-
   font-size: 30px;
-
   width: 20px;
-
   left: 0px;
-
   right: 0px;
-
   top: 24px;
-
   margin: 0 auto;
-
   color: #fff;
-
   text-shadow: 0 1px 0px rgba(0, 0, 0, 0.9);
-
   -webkit-transition: all 0.4s ease-in-out;
-
   -moz-transition: all 0.4s ease-in-out;
-
   -o-transition: all 0.4s ease-in-out;
-
   -ms-transition: all 0.4s ease-in-out;
-
   transition: all 0.4s ease-in-out;
-
 }
-
-
 
 #portfolio-work .bios{
-
   color: black;
-
   text-align: center;
-
   font-size: 2em;
-
-
-
 }
 
-
-
-
-
-
-
 #portfolio-work .bios p{
-
   color: white;
-
   text-align: center;
-
   font-size: 2em;
-
 }
 
 #portfolio-work .bio-info{
-
   color: white;
-
   text-align: center;
-
 }
-
-
-
-
 
 #portfolio-work .block .portfolio-contant ul li {
-
-
-
   width: 23%;
   height: 392px;
-
   overflow: hidden;
-
   margin-left: 1%;
-
   margin-right: 1%;
-
   position: relative;
-
 }
+
 @media screen and (min-width: 0px) and (max-width: 970px){
   #portfolio-work .block .portfolio-contant ul li {
     height: 262px;
   }
 }
+
 #portfolio-work .block .portfolio-contant ul li:hover .overly {
 
   opacity: 100%;
@@ -390,24 +279,12 @@ h4{
 
 }
 
-
-
 #portfolio-contant-centered{
-
   padding-right: 15%;
-
-
-
 }
 
-
-
-
-
 #portfolio-work .block .mix {
-
   display: none;
-
 }
 
 /*--
@@ -532,65 +409,37 @@ h4{
 
 }
 
-
-/*--
-	images hovering
---*/
+/*--	images hovering --*/
 #portfolio-work .block img{
 
   margin-left: 0%;
   margin-right: 0%;
   height: auto;
   border-radius: 100%;
-
 }
-
-
-
-
 
 #portfolio-work .pic-container{
-
   display:block;
-
   width:100%;
-
   height:100%;
-
   position:relative;
-
 }
-
-
 
 #portfolio-work .pic-container .pic-box{
-
   display:block;
-
   width:100%;
-
-  height:100%px;
-
+  height:100%;
 }
 
-
-
 #portfolio-work .pic-container .pic-hover{
-
   position:absolute;
-
   top:0;
-
   left:0;
-
   display:none;
-
 }
 
 #portfolio-work .pic-container:hover .pic-hover{
-
   display: block;
-
 }
 
 /*---------------------------------------------
