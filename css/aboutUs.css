@@ -1,3 +1,5 @@
+
+
 /*---------------------------------------------
 					Work Start
 -----------------------------------------------*/
@@ -47,6 +49,21 @@
 /*--
 	portfolio-work Start
 --*/
+@import url('https://fonts.googleapis.com/css?family=Montserrat:700|Raleway');
+.font1{
+  font-family: 'Raleway', sans-serif;
+  color: black !important;
+}
+h4{
+  font-family: 'Montserrat', sans-serif;
+}
+.about-text{
+  padding-top: 2%;
+  padding-bottom: 2%;
+  text-align: center;
+  background-color: #40434E;
+  color: white;
+}
 
 #portfolio-work {
 
@@ -61,8 +78,6 @@
 #portfolio-work2 {
 
   overflow: hidden;
-
-  padding-left: 5%;
 
 }
 
@@ -236,7 +251,8 @@
 
 
 
-  width: 26%;
+  width: 23%;
+  height: 392px;
 
   overflow: hidden;
 
@@ -247,7 +263,11 @@
   position: relative;
 
 }
-
+@media screen and (min-width: 0px) and (max-width: 970px){
+  #portfolio-work .block .portfolio-contant ul li {
+    height: 262px;
+  }
+}
 #portfolio-work .block .portfolio-contant ul li:hover .overly {
 
   opacity: 100%;
