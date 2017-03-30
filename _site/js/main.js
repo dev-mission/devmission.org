@@ -1,21 +1,44 @@
 $(document).ready(function(){
-	// google map
-		var map;
-		function initMap() {
-		  map = new google.maps.Map(document.getElementById('map'), {
-		    center: {lat: -34.397, lng: 150.644},
-		    zoom: 8
-		  });
-		}
+
+	aboutUsPage();
 	submitParticipateForm();
 	submitVolunteerForm();
 });
+
+function aboutUsPage() {
+	$("#portfolio-contant-active").mixItUp();
+
+	$("#testimonial-slider").owlCarousel({
+	    paginationSpeed : 500,
+	    singleItem:true,
+	    autoPlay: 3000,
+	});
+
+	$("#clients-logo").owlCarousel({
+		autoPlay: 3000,
+		items : 5,
+		itemsDesktop : [1199,5],
+		itemsDesktopSmall : [979,5],
+	});
+
+	$("#works-logo").owlCarousel({
+		autoPlay: 3000,
+		items : 5,
+		itemsDesktop : [1199,5],
+		itemsDesktopSmall : [979,5],
+	});
+
+	// Counter
+	$('.counter').counterUp({
+				delay: 10,
+				time: 1000
+		});
+}
 
 function submitVolunteerForm() {
 
 	$('#volunteer-form-submit').click(function(e) {
     e.preventDefault();
-		console.log("IN volunteer")
     var contactName = $('#contact-name').val();
 		var contactTitle = $('#contact-title').val();
     var contactEmail = $('#contact-email').val();
@@ -49,8 +72,8 @@ function submitVolunteerForm() {
                             window.location.href = "../success";
                     }
             }
-    });
-});
+    	});
+	});
 }
 
 function submitParticipateForm() {
@@ -76,10 +99,8 @@ function submitParticipateForm() {
 		// var programSession = $('#session').val();
 
     // data validation code here
-		console.log("BEfore")
     var url = "https://docs.google.com/forms/d/e/1FAIpQLScHw0p9CJAyOZa2-Eosv4StopRoOAKdUPtM1jm-YrNyeS8_xA/formResponse";
-		console.log("After")
-    var dat = {
+    var data = {
 			'entry.1491274308': contactFirstName,
 			'entry.476609564': contactMiddleName,
 			'entry.1298586743': contactLastName
@@ -98,12 +119,11 @@ function submitParticipateForm() {
 			// 'entry.1717696693': gradGoals,
 			// 'entry.1221357470': programSession
     };
-		console.log("Almost")
     $.ajax({
             type: "POST",
             url: url,
             dataType: "json",
-            data: dat,
+            data: data,
 						contentType : 'application/json',
             statusCode: {
                     0: function() {
@@ -116,6 +136,6 @@ function submitParticipateForm() {
                             window.location.href = "../success";
                     }
             }
-    });
-});
+			});
+	});
 }

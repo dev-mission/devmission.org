@@ -1,4 +1,11 @@
 $(document).ready(function(){
+
+	aboutUsPage();
+	submitParticipateForm();
+	submitVolunteerForm();
+});
+
+function aboutUsPage() {
 	$("#portfolio-contant-active").mixItUp();
 
 	$("#testimonial-slider").owlCarousel({
@@ -21,18 +28,12 @@ $(document).ready(function(){
 		itemsDesktopSmall : [979,5],
 	});
 
-	// google map
-		var map;
-		function initMap() {
-		  map = new google.maps.Map(document.getElementById('map'), {
-		    center: {lat: -34.397, lng: 150.644},
-		    zoom: 8
-		  });
-		}
-
-	submitParticipateForm();
-	submitVolunteerForm();
-});
+	// Counter
+	$('.counter').counterUp({
+				delay: 10,
+				time: 1000
+		});
+}
 
 function submitVolunteerForm() {
 
@@ -71,8 +72,8 @@ function submitVolunteerForm() {
                             window.location.href = "../success";
                     }
             }
-    });
-});
+    	});
+	});
 }
 
 function submitParticipateForm() {
@@ -118,7 +119,6 @@ function submitParticipateForm() {
 			// 'entry.1717696693': gradGoals,
 			// 'entry.1221357470': programSession
     };
-		console.log("Almost")
     $.ajax({
             type: "POST",
             url: url,
@@ -136,11 +136,6 @@ function submitParticipateForm() {
                             window.location.href = "../success";
                     }
             }
-	// Counter
-	$('.counter').counterUp({
-        delay: 10,
-        time: 1000
-    });
-
-
-});
+			});
+	});
+}
