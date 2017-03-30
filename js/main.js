@@ -7,14 +7,15 @@ $(document).ready(function(){
 		    zoom: 8
 		  });
 		}
-	submitVolunteerForm();
 	submitParticipateForm();
+	submitVolunteerForm();
 });
 
 function submitVolunteerForm() {
 
 	$('#volunteer-form-submit').click(function(e) {
     e.preventDefault();
+		console.log("IN volunteer")
     var contactName = $('#contact-name').val();
 		var contactTitle = $('#contact-title').val();
     var contactEmail = $('#contact-email').val();
@@ -45,7 +46,7 @@ function submitVolunteerForm() {
 														window.location.href = "../success";
                     },
                     200: function() {
-                            window.location.href = "../success";a
+                            window.location.href = "../success";
                     }
             }
     });
@@ -59,55 +60,60 @@ function submitParticipateForm() {
     var contactFirstName = $('#contact-first-name').val();
 		var contactMiddleName = $('#contact-middle-name')
 		var contactLastName = $('#contact-last-name').val();
-    var contactAddress = $('#contact-address').val();
-		var contactCity = $('#contact-city').val();
-    var contactZipCode = $('#contact-zip-code').val();
-		var contactDateOfBirth = $('#contact-date-of-birth').val();
-		var contactHomeNumber= $('#contact-home-number').val();
-		var contactMobileNumber = $('#contact-mobile-number').val();
-		var contactEmail = $('#contact-email').val();
-		var contactAge = $('#contact-age').val();
-		var contactGender = $('#contact-gender').val();
-		var contactIdentification = $('#contact-identification').val();
-		var programCommitment = $('#commmitment').val();
-		var joinReasoning = $('#join-reasoning').val();
-		var gradGoals = $('#grad-goals').val();
-		var programSession = $('#session').val();
+    // var contactAddress = $('#contact-address').val();
+		// var contactCity = $('#contact-city').val();
+    // var contactZipCode = $('#contact-zip-code').val();
+		// var contactDateOfBirth = $('#contact-date-of-birth').val();
+		// var contactHomeNumber= $('#contact-home-number').val();
+		// var contactMobileNumber = $('#contact-mobile-number').val();
+		// var contactEmail = $('#contact-email').val();
+		// var contactAge = $('#contact-age').val();
+		// var contactGender = $('#contact-gender').val();
+		// var contactIdentification = $('#contact-identification').val();
+		// var programCommitment = $('#commmitment').val();
+		// var joinReasoning = $('#join-reasoning').val();
+		// var gradGoals = $('#grad-goals').val();
+		// var programSession = $('#session').val();
 
     // data validation code here
-    var url = "https://docs.google.com/forms/d/e/1FAIpQLSdKsQPVWx5rwN-O6GN-4JmqXnDld3idHVKNOtjkL9v-cTbvVw/formResponse";
-    var data = {
-			'entry.164084543': contactFirstName,
-			'entry.919386072': contactMiddleName,
-			'entry.206814970': contactLastName,
-			'entry.1358523807': contactAddress,
-			'entry.952400269': contactCity,
-			'entry.511556928': contactZipCode,
-			'entry.988194661': contactDateOfBirth,
-			'entry.2088293968': contactHomeNumber,
-			'entry.1789819430': contactMobileNumber,
-			'entry.285442385': contactEmail,
-			'entry.84273717': contactAge,
-			'entry.966779481': contactGender,
-			'entry.252558192': contactIdentification,
-			'entry.311765769': programCommitment,
-			'entry.2081252789': joinReasoning,
-			'entry.1717696693': gradGoals,
-			'entry.1221357470': programSession
+		console.log("BEfore")
+    var url = "https://docs.google.com/forms/d/e/1FAIpQLScHw0p9CJAyOZa2-Eosv4StopRoOAKdUPtM1jm-YrNyeS8_xA/formResponse";
+		console.log("After")
+    var dat = {
+			'entry.1491274308': contactFirstName,
+			'entry.476609564': contactMiddleName,
+			'entry.1298586743': contactLastName
+			// 'entry.1358523807': contactAddress,
+			// 'entry.952400269': contactCity,
+			// 'entry.511556928': contactZipCode,
+			// 'entry.988194661': contactDateOfBirth,
+			// 'entry.2088293968': contactHomeNumber,
+			// 'entry.1789819430': contactMobileNumber,
+			// 'entry.285442385': contactEmail,
+			// 'entry.84273717': contactAge,
+			// 'entry.966779481': contactGender,
+			// 'entry.252558192': contactIdentification,
+			// 'entry.311765769': programCommitment,
+			// 'entry.2081252789': joinReasoning,
+			// 'entry.1717696693': gradGoals,
+			// 'entry.1221357470': programSession
     };
+		console.log("Almost")
     $.ajax({
             type: "POST",
             url: url,
             dataType: "json",
-            data: JSON.stringify(data),
+            data: dat,
+						contentType : 'application/json',
             statusCode: {
                     0: function() {
 														// TEMP: CORS ERROR is returning a 401 but data is still getting passed through. Always return a success
                             // window.location.href = "../volunteer";
+														console.log("BROKEN")
 														window.location.href = "../success";
                     },
                     200: function() {
-                            window.location.href = "../success";a
+                            window.location.href = "../success";
                     }
             }
     });
