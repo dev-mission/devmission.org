@@ -1,0 +1,201 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:700|Raleway');
+
+/*---Program General Atributtes---*/
+
+.hide-sm {
+    display: block;
+}
+.img-justify{
+    width: 100% !important;
+}
+main {
+    text-align: center;
+}
+
+main p {
+    font-size: 110%;
+}
+
+main h1,
+main h2,
+main h4 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.p-font1 {
+    font-family: 'Raleway', sans-serif;
+}
+
+.div-top {
+    padding-top: 3%;
+}
+
+
+/*---Program Slider---*/
+
+.wrapper-program-slider {
+    padding: 150px 0 140px 0 !important;
+}
+
+#slider .program-slider {
+    color: white;
+}
+
+#slider table {
+    width: 100%;
+    margin: auto;
+}
+
+#slider th {
+    padding: 2%;
+    border: 1px solid white;
+    text-align: inherit;
+}
+
+#slider button {
+    margin-top: 5%;
+    font-family: 'Montserrat', serif;
+}
+
+
+/*---Sub-Menu of Program---*/
+
+.top {
+    top: 90px;
+}
+
+section .program-menu,
+.wrapper-sub-menu {
+    background-color: #1D3557;
+}
+
+.wrapper-sub-menu .sub-menu {
+    width: 466px;
+    margin: auto;
+    border-bottom: none;
+}
+
+.wrapper-sub-menu .sub-menu li {
+    font-family: 'Montserrat', serif;
+}
+
+.wrapper-sub-menu .sub-menu li a {
+    color: aquamarine;
+}
+
+.wrapper-sub-menu .nav-tabs li a:hover {
+    color: black;
+}
+
+.wrapper-sub-menu .navbar-fixed-top {
+    background-color: #40434E;
+}
+
+
+/*---Program Quote---*/
+
+.quote {
+    background-color: honeydew;
+}
+
+.quote-img,
+.quote-text {
+    float: left;
+    padding: 2% 0;
+    display: block;
+}
+
+.quote-img {
+    width: 25%;
+}
+
+.quote-img img {
+    width: 90px;
+    margin: 8% 0;
+}
+
+.quote-text {
+    width: 72%;
+    margin-right: 3%;
+}
+
+.quote-text h4 {
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+/*---Program details---*/
+
+main .overview {
+    margin-top: 4%;
+}
+
+.overview,
+.program,
+.curriculum,
+.hardware,
+.coding,
+.skills {
+    margin-top: 3%;
+}
+
+.hardware ul,
+.coding ul,
+.skills ul,
+#future ul{
+    list-style: disc;
+    padding-left: 4%;
+}
+
+.hardware ul li,
+.coding ul li,
+.skills ul li,
+#future ul li{
+    font-size: 15px;
+    padding: 1% 0;
+}
+
+#faqs .panel-default .panel-heading {
+    color: azure;
+    background-color: #1D3557;
+    border-color: black;
+}
+/*---Media Queries---*/
+
+@media screen and (min-width:468px) and (max-width:768px) {
+    .hide-sm {
+        display: none;
+    }
+    main p {
+        font-size: 101%;
+    }
+    .wrapper-sub-menu .sub-menu {
+        width: 466px;
+    }
+    .wrapper-program-slider {
+        padding: 90px 0 110px 0 !important;
+    }
+    .quote-text {
+        width: 75%;
+        margin-right: 0;
+    }
+}
+
+@media screen and (min-width:0px) and (max-width:468px) {
+    .hide-sm {
+        display: none;
+    }
+    main p {
+        font-size: 101%;
+    }
+    .wrapper-sub-menu .sub-menu {
+        width: 315px;
+    }
+    .wrapper-program-slider {
+        padding: 90px 0 110px 0 !important;
+    }
+    .quote-text {
+        width: 75%;
+        margin-right: 0;
+    }
+}
