@@ -19,7 +19,7 @@ permalink: /aboutUs/
     <div class="col-md-1"></div>
     <div class="col-md-10">
       <h1>About Us</h1>
-      <p class="lead">In early 2017, dev/Mission was founded by Leonardo Sosa and a team of technologists that care about STEM opportunities for diverse young adults. Our goal is to connect the most overlooked population in San Francisco, Bay Area and beyond; and expose them to careers in the tech industry.
+      <p class="lead">In early 2017, dev/Mission was founded by Leonardo Sosa and a team of technologists, that care about STEM opportunities for diverse young adults. Our goal is to connect the most overlooked population in San Francisco, Bay Area and beyond; and expose them to careers in the tech industry.
       </p>
     </div>
     <div class="col-md-1"></div>
@@ -30,21 +30,71 @@ permalink: /aboutUs/
 <section id="portfolio-work">
   <div class="container-fluid">
     <div class="row">
-        <div class="block">
+        <div class="col-md-12 block">
           <div class="portfolio-menu">
                 <ul>
-                    <li class="filter" data-filter=".mix">Our Great Team</li>
-                    <li class="filter active" data-filter=".leadershipTeam">Leadership Team</li>
-                    <li class="filter" data-filter=".techMentorTeam">Tech Mentors Team</li>
-                    <li class="filter" data-filter=".webDevelopmentTeam">Web Development Team</li>
-                    <li class="filter" data-filter=".designMediaTeam">Media and Design Team</li>
+                    <li id="portfolio-list-0" class="filter" data-filter=".mix">Our Great Team</li>
+                    <li id="portfolio-list-1" class="filter" data-filter=".leadershipTeam">Leadership Team</li>
+                    <li id="portfolio-list-2" class="filter" data-filter=".techMentorTeam">Tech Mentors Team</li>
+                    <li id="portfolio-list-3" class="filter" data-filter=".webDevelopmentTeam">Web Development Team</li>
+                    <li id="portfolio-list-4" class="filter" data-filter=".designMediaTeam">Media and Design Team</li>
                 </ul>
           </div>
-          <div class="row">
-            <div class="col-xs-12">
-                  <div class="portfolio-contant">
 
-                    <ul id="portfolio-contant-active">
+          <div class="row leadership hidden">
+            <div class="col-md-1"></div>
+            <div class="col-md-10 text-center">
+              <h1>Leadership Team</h1>
+              <p>Our values: Integrity, Community, Patience, Equality, Responsibility and Motivation.</p>
+            </div>
+            <div class="col-md-1"></div>
+          </div>
+
+          <div class="row mentors hidden">
+            <div class="col-md-1"></div>
+            <div class="col-md-10 text-center">
+              <h1>Tech Mentors Team</h1>
+              <p>Our tech mentors serve as adult role models and provide support and guidance as the youth experience new challenges and unfamiliar social environments.  At times they may need someone to help them navigate their career path, advice on education and training, or just a friend to talk to.</p>
+            </div>
+            <div class="col-md-1"></div>
+          </div>
+
+          <div class="row webTeam hidden">
+            <div class="col-md-1"></div>
+            <div class="col-md-10 text-center">
+              <h1>Web Development Team</h1>
+              <p>Four young adults came together to build our dev/Mission website using their skills, puting their time, hard work, and dedication. </p>
+            </div>
+            <div class="col-md-1"></div>
+          </div>
+
+          <div class="row media hidden">
+            <div class="col-md-1"></div>
+            <div class="col-md-10 text-center">
+              <h1>Media and Design Team</h1>
+              <p>Our logo and pictures are all thanks to our media and design team.</p>
+            </div>
+            <div class="col-md-1"></div>
+          </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+          <div class="row">
+
+            <div class="col-xs-12">
+              <div class="portfolio-contant">
+
+                <ul id="portfolio-contant-active">
 
                                 <li class="mix leadershipTeam">
                                     <a href="leonardo-sosa">
@@ -73,6 +123,19 @@ permalink: /aboutUs/
                                 </li>
 
                                 <li class="mix leadershipTeam">
+                                  <a href="jesse-martinez">
+                                    <div class="pic-container">
+                                        <div class="pic-box"><img src="{{ site.baseurl }}/img/about_images/JesseMartinez.png"></div>
+                                        <div class="pic-box pic-hover"><img src="{{ site.baseurl }}/img/about_images/coolJesse.jpg"></div>
+                                    </div>
+                                    <div class="bios">
+                                      <h4>Jesse Martinez</h4>
+                                      <p class="font1">Co-Founder</p>
+                                    </div>
+                                  </a>
+                                </li>
+
+                                <li class="mix leadershipTeam">
                                     <a href="deborah-jaramillo">
                                       <div class="pic-container">
                                           <div class="pic-box"><img src="{{ site.baseurl }}/img/about_images/deborah.jpg"></div>
@@ -98,18 +161,6 @@ permalink: /aboutUs/
                                     </a>
                                 </li>
 
-                                <li class="mix leadershipTeam">
-                                  <a href="jesse-martinez">
-                                    <div class="pic-container">
-                                        <div class="pic-box"><img src="{{ site.baseurl }}/img/about_images/JesseMartinez.png"></div>
-                                        <div class="pic-box pic-hover"><img src="{{ site.baseurl }}/img/about_images/coolJesse.jpg"></div>
-                                    </div>
-                                    <div class="bios">
-                                      <h4>Jesse Martinez</h4>
-                                      <p class="font1">Latino Startup Alliance</p>
-                                    </div>
-                                  </a>
-                                </li>
 
                                 <li class="mix leadershipTeam">
                                   <a href="francesc-campoy">
@@ -119,7 +170,7 @@ permalink: /aboutUs/
                                     </div>
                                     <div class="bios">
                                       <h4>Francesc Campoy</h4>
-                                      <p class="font1">Google Software Engineer</p>
+                                      <p class="font1">Developer advocate at Google</p>
                                     </div>
                                   </a>
                                 </li>
@@ -132,7 +183,7 @@ permalink: /aboutUs/
                                 </div>
                                 <div class="bios">
                                   <h4>Aimee Gonzalez</h4>
-                                  <p class="font1">Engineering Development</p>
+                                  <p class="font1">Engineering Development Specialist</p>
                                 </div>
                               </a>
                             </li>
@@ -165,6 +216,86 @@ permalink: /aboutUs/
                                   </a>
                                 </li>
 
+                                <li class="mix techMentorTeam">
+                                  <a href="eiman-zolfaghari">
+                                    <div class="pic-container">
+                                        <div class="pic-box"><img src="{{ site.baseurl }}/img/about_images/EimanZolfaghari.png"></div>
+                                        <div class="pic-box pic-hover"><img src="{{ site.baseurl }}/img/about_images/coolEiman.jpg"></div>
+                                    </div>
+                                    <div class="bios">
+                                      <h4>Eiman Zolfaghari</h4>
+                                      <p class="font1">IOS Developer</p>
+                                    </div>
+                                    </a>
+                                </li>
+
+                                <li class="mix techMentorTeam">
+                                    <a href="armand-gray">
+                                      <div class="pic-container">
+                                          <div class="pic-box"><img src="{{ site.baseurl }}/img/about_images/ArmandGray.png"></div>
+                                          <div class="pic-box pic-hover"><img src="{{ site.baseurl }}/img/about_images/coolArmand.jpg"></div>
+                                      </div>
+                                      <div class="bios">
+                                        <h4>Armand Gray</h4>
+                                        <p class="font1">Mobile Developer</p>
+                                      </div>
+                                    </a>
+                                </li>
+
+
+                                <li class="mix techMentorTeam">
+                                    <a href="david-quang">
+                                      <div class="pic-container">
+                                          <div class="pic-box"><img src="{{ site.baseurl }}/img/about_images/DavidQuang.png"></div>
+                                          <div class="pic-box pic-hover"><img src="{{ site.baseurl }}/img/about_images/coolDavid.jpg"></div>
+                                      </div>
+                                        <div class="bios">
+                                          <h4>David Quang</h4>
+                                          <p class="font1">IT Security Specialist</p>
+                                        </div>
+                                      </a>
+                                </li>
+
+                                <li class="mix techMentorTeam">
+                                    <a href="jette-hernandez">
+                                      <div class="pic-container">
+                                          <div class="pic-box"><img src="{{ site.baseurl }}/img/about_images/JetteHernandez.jpg"></div>
+                                          <div class="pic-box pic-hover"><img src="{{ site.baseurl }}/img/about_images/coolJett.jpg"></div>
+                                      </div>
+                                        <div class="bios">
+                                          <h4>Jette Hernandez</h4>
+                                          <p class="font1">Designer and Develper</p>
+                                        </div>
+                                    </a>
+                                </li>
+
+                                <li class="mix webDevelopmentTeam leadershipTeam">
+                                    <a href="yaritza-perez">
+                                      <div class="pic-container">
+                                          <div class="pic-box"><img src="{{ site.baseurl }}/img/about_images/YaritzaPerez.jpg"></div>
+                                          <div class="pic-box pic-hover"><img src="{{ site.baseurl }}/img/about_images/coolYaritza2.jpg"></div>
+                                      </div>
+                                        <div class="bios">
+                                          <h4>Yaritza Perez</h4>
+                                          <p class="font1">Full Stack Developer</p>
+                                        </div>
+                                    </a>
+                                </li>
+
+
+
+                                <li class="mix webDevelopmentTeam leadershipTeam">
+                                  <a href="christian-salas">
+                                    <div class="pic-container">
+                                        <div class="pic-box"><img src="{{ site.baseurl }}/img/about_images/ChristianSalas.png"></div>
+                                        <div class="pic-box pic-hover"><img src="{{ site.baseurl }}/img/about_images/coolChristian.jpg"></div>
+                                    </div>
+                                      <div class="bios">
+                                        <h4>Christian Salas</h4>
+                                        <p class="font1">Full stack developer</p>
+                                      </div>
+                                  </a>
+                                </li>
 
 
                                 <li class="mix leadershipTeam">
@@ -181,111 +312,6 @@ permalink: /aboutUs/
                                 </li>
 
 
-
-
-
-                                <li class="mix techMentorTeam">
-                                  <a href="eiman-zolfaghari">
-                                    <div class="pic-container">
-                                        <div class="pic-box"><img src="{{ site.baseurl }}/img/about_images/EimanZolfaghari.png"></div>
-                                        <div class="pic-box pic-hover"><img src="{{ site.baseurl }}/img/about_images/coolEiman.jpg"></div>
-                                    </div>
-                                    <div class="bios">
-                                      <h4>Eiman Zolfaghari</h4>
-                                      <p class="font1">IOS Developer</p>
-                                    </div>
-                                    </a>
-                                </li>
-
-
-
-
-
-
-
-                                <li class="mix techMentorTeam">
-                                    <a href="armand-gray">
-                                      <div class="pic-container">
-                                          <div class="pic-box"><img src="{{ site.baseurl }}/img/about_images/ArmandGray.png"></div>
-                                          <div class="pic-box pic-hover"><img src="{{ site.baseurl }}/img/about_images/coolArmand.jpg"></div>
-                                      </div>
-                                      <div class="bios">
-                                        <h4>Armand Gray</h4>
-                                        <p class="font1">Mobile Developer</p>
-                                      </div>
-                                    </a>
-                                </li>
-
-
-
-                                <li class="mix techMentorTeam">
-                                    <a href="david-quang">
-                                      <div class="pic-container">
-                                          <div class="pic-box"><img src="{{ site.baseurl }}/img/about_images/DavidQuang.png"></div>
-                                          <div class="pic-box pic-hover"><img src="{{ site.baseurl }}/img/about_images/coolDavid.jpg"></div>
-                                      </div>
-                                        <div class="bios">
-                                          <h4>David Quang</h4>
-                                          <p class="font1">IT Security Specialist</p>
-                                        </div>
-                                      </a>
-                                </li>
-
-
-
-
-
-                                <li class="mix techMentorTeam">
-                                    <a href="jette-hernandez">
-                                      <div class="pic-container">
-                                          <div class="pic-box"><img src="{{ site.baseurl }}/img/about_images/JetteHernandez.jpg"></div>
-                                          <div class="pic-box pic-hover"><img src="{{ site.baseurl }}/img/about_images/coolJett.jpg"></div>
-                                      </div>
-                                        <div class="bios">
-                                          <h4>Jette Hernandez</h4>
-                                          <p class="font1">Designer and Develper</p>
-                                        </div>
-                                    </a>
-                                </li>
-
-
-
-
-
-
-
-                                <li class="mix webDevelopmentTeam techMentorTeam">
-                                    <a href="yaritza-perez">
-                                      <div class="pic-container">
-                                          <div class="pic-box"><img src="{{ site.baseurl }}/img/about_images/YaritzaPerez.jpg"></div>
-                                          <div class="pic-box pic-hover"><img src="{{ site.baseurl }}/img/about_images/coolYaritza2.jpg"></div>
-                                      </div>
-                                        <div class="bios">
-                                          <h4>Yaritza Perez</h4>
-                                          <p class="font1">Full Stack Developer</p>
-                                        </div>
-                                    </a>
-                                </li>
-
-
-
-                                <li class="mix webDevelopmentTeam techMentorTeam">
-                                  <a href="christian-salas">
-                                    <div class="pic-container">
-                                        <div class="pic-box"><img src="{{ site.baseurl }}/img/about_images/ChristianSalas.png"></div>
-                                        <div class="pic-box pic-hover"><img src="{{ site.baseurl }}/img/about_images/coolChristian.jpg"></div>
-                                    </div>
-                                      <div class="bios">
-                                        <h4>Christian Salas</h4>
-                                        <p class="font1">Full stack developer</p>
-                                      </div>
-                                  </a>
-                                </li>
-
-
-
-
-
                                 <li class="mix webDevelopmentTeam">
                                   <a href="yuridia-larios">
                                     <div class="pic-container">
@@ -298,10 +324,6 @@ permalink: /aboutUs/
                                       </div>
                                   </a>
                                 </li>
-
-
-
-
 
                                 <li class="mix webDevelopmentTeam">
                                   <a href="frank-tito">
@@ -347,10 +369,9 @@ permalink: /aboutUs/
                                       </div>
                                   </a>
                                 </li>
-                        </ul>
-
-                  </div>
+                  </ul>
                 </div>
+            </div>
           </div><!-- col 12 ends -->
 
         </div>
@@ -358,3 +379,39 @@ permalink: /aboutUs/
   </div>
 
 </section>
+<script type="text/javascript">
+$(document).ready(function(){
+  $("#portfolio-list-0").click(function(){
+    $(".leadership").addClass("hidden");
+    $(".mentors").addClass("hidden");
+    $(".webTeam").addClass("hidden");
+    $(".media").addClass("hidden");
+  });
+  $("#portfolio-list-1").click(function(){
+    $(".leadership").removeClass("hidden");
+    $(".mentors").addClass("hidden");
+    $(".webTeam").addClass("hidden");
+    $(".media").addClass("hidden");
+  });
+  $("#portfolio-list-2").click(function(){
+    $(".leadership").addClass("hidden");
+    $(".mentors").removeClass("hidden");
+    $(".webTeam").addClass("hidden");
+    $(".media").addClass("hidden");
+  });
+  $("#portfolio-list-3").click(function(){
+    $(".leadership").addClass("hidden");
+    $(".mentors").addClass("hidden");
+    $(".webTeam").removeClass("hidden");
+    $(".media").addClass("hidden");
+  });
+  $("#portfolio-list-4").click(function(){
+    $(".leadership").addClass("hidden");
+    $(".mentors").addClass("hidden");
+    $(".webTeam").addClass("hidden");
+    $(".media").removeClass("hidden");
+  });
+
+
+});
+</script>

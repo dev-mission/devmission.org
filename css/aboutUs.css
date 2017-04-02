@@ -8,6 +8,10 @@
   color: black !important;
 }
 
+#portfolio-list-2{
+display: none;
+}
+
 h4 {
   font-family: 'Montserrat', sans-serif;
 }
@@ -16,18 +20,17 @@ h4 {
   padding-top: 2%;
   padding-bottom: 2%;
   text-align: center;
-  background-color: #40434E;
+  background-color: #1D3557;
   color: white;
 }
 
-.container-img{}
 #portfolio-work {
   overflow: hidden;
   padding: 80px 0;
 }
 
 #portfolio-work .block .portfolio-menu {
-  padding-bottom: 3%;
+  padding-bottom: 0;
   text-align: center;
 }
 
