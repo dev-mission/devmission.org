@@ -136,6 +136,10 @@ header .navbar-default .navbar-header .logo-responsive {
         width: 15%;
         margin-top: 2%;
     }
+    header .navbar-default .navbar-header .logo-responsive {
+        width: 15%;
+        margin-top: 3%;
+    }
 }
 
 
@@ -154,6 +158,7 @@ header .navbar-default .navbar-header .logo-responsive {
         width: 15%;
         margin-top: 2%;
     }
+
 }
 
 @media (min-width: 673px) and (max-width: 750px) {
