@@ -55,3 +55,17 @@
 .button {
   background-color: #457B9D !important;
 }
+
+#global-header {
+  background: url("../img/first.jpg") no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: 10% 0%;
+  padding: 200px 0 280px 0;
+  position: relative;
+}
+
+.help-description {
+  color: white !important;
+  font-weight: 500 !important;
+}
