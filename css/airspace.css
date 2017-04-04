@@ -122,7 +122,7 @@ header .navbar-default .navbar-header {
 
 header .navbar-default .navbar-header .logo-fixed {
     width: 330px;
-    margin-top: -25px;
+    margin-top: -30px;
 }
 
 header .navbar-default .navbar-header .logo-responsive {
@@ -147,6 +147,15 @@ header .navbar-default .navbar-header .logo-responsive {
 }
 
 @media (min-width: 0px) and (max-width: 750px) {
+    header .navbar-brand {
+    padding-top: 0px; 
+    }
+	
+    header .navbar-default .navbar-header {
+    margin-left: 0%;
+    margin-top: 1%;
+    }
+	
     header .navbar-default .navbar-header .logo-fixed {
         width: 220px;
         margin-top: 0px;
