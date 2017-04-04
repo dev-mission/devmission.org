@@ -7,7 +7,7 @@
 }
 
 .box-icon {
-    background-color: #569;
+    background-color: #457B9D;
     border-radius: 50%;
     display: table;
     height: 100px;
@@ -50,4 +50,8 @@
 
 .wrapper {
     text-align: center;
+}
+
+.button {
+  background-color: #457B9D !important;
 }
