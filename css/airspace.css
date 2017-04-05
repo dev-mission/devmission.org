@@ -281,11 +281,13 @@ header .navbar-default .navbar-header .logo-responsive {
 
 #slider .block h1 {
     font-family: 'Roboto', sans-serif;
-    font-weight: 100;
+    font-weight: 400;
     font-size: 45px;
     line-height: 60px;
     letter-spacing: 10px;
     padding-bottom: 45px;
+    color:white;
+    text-shadow: 2px 2px black;
 }
 
 #slider .block p {
@@ -312,7 +314,8 @@ header .navbar-default .navbar-header .logo-responsive {
 }
 
 #intro .block p {
-    color: #7B7B7B;
+  color: black;
+  font-weight: 400;
     padding-top: 20px;
 }
 
@@ -417,7 +420,7 @@ header .navbar-default .navbar-header .logo-responsive {
 --*/
 
 #feature {
-    background: url("../img/featue-bg.jpg");
+    background: url("../img/armand.jpg");
     background-position: 50% 94px;
     width: 100%;
     display: block;
@@ -443,15 +446,16 @@ header .navbar-default .navbar-header .logo-responsive {
     font-size: 28px;
     font-weight: 600;
     margin-bottom: 30px;
+    text-shadow: 2px 2px lightgrey;
 }
 
 #feature p {
-    color: #8d8f92;
+    color: black;
     margin-bottom: 20px;
 }
 
 #feature .btn-view-works {
-    background: #655E7A;
+    background: #0267C1;
     color: #fff;
     padding: 10px 20px;
 }
@@ -1157,3 +1161,31 @@ footer .footer-manu ul li a:hover {
     width: 60%;
     margin-top: 10%;
 }
+
+.text-font-rem {
+  font-size: 1.2rem;
+}
+
+.button-group {
+  position: relative;
+  display: inline-block;
+  margin: 1rem 0;
+}
+
+
+.button-group:before {
+    content: attr(data-grouptype) !important;
+    z-index: 99999;
+    color: #999;
+    display: block;
+    font-size: 1rem;
+    padding: 0.25em;
+    border-radius: 50%;
+    background: #fff;
+    position: absolute;
+    left: 42.5%;
+    top: 0.35rem;
+  }
+
+  .button-group button + button {
+    margin-left: 5px; }
