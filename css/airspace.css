@@ -1191,3 +1191,9 @@ footer .footer-manu ul li a:hover {
 
   .button-group button + button {
     margin-left: 5px; }
+
+
+.text-color-white {
+  color: white;
+  text-shadow: 2px 2px black;
+}
