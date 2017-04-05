@@ -294,7 +294,7 @@ header .navbar-default .navbar-header .logo-responsive {
     font-size: 23px;
     line-height: 40px;
     font-family: 'Roboto', sans-serif;
-    font-weight: 300;
+    font-weight: 500;
     letter-spacing: 3px;
 }
 
@@ -397,7 +397,9 @@ header .navbar-default .navbar-header .logo-responsive {
     padding-bottom: 20px;
     line-height: 33px;
     margin: 0;
-    font-size: 30px;
+    font-size: 38px;
+    color: white;
+    text-shadow: 2px 2px black;
 }
 
 #call-to-action p {
@@ -1184,7 +1186,7 @@ footer .footer-manu ul li a:hover {
     background: #fff;
     position: absolute;
     left: 42.5%;
-    top: 0.35rem;
+    top: 0.60rem;
   }
 
   .button-group button + button {
