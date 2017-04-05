@@ -389,7 +389,7 @@ header .navbar-default .navbar-header .logo-responsive {
     bottom: 0;
     width: 100%;
     height: 100%;
-    background: #1d192c;
+    background: #1D3557;
     opacity: 0.8;
 }
 
@@ -1125,46 +1125,55 @@ footer .footer-manu ul li a:hover {
 .logo-center {}
 
 #uber {
-    width: 60%;
-    margin-top: 12%;
+    width: 73%;
+    margin-top: 18%;
 }
 
 #dropbox {
-    width: 40%;
+    width: 53%;
     margin: 3%;
 }
 
 #myeep {
-    width: 50%;
+    width: 58%;
     margin: -5%;
 }
 
 #missionhousing {
-    margin: -14%;
+    margin: -9%;
+    width: 100%;
 }
 
 #impacthub {
-    width: 35%;
+    width: 45%;
     /*margin-top: 20px;*/
     margin-top: 2%;
 }
 
 #sfofficeofEcon {
-    width: 75%;
+    width: 100%;
     margin-top: 1%;
 }
 
 #jamestown {
-    width: 60%;
-    margin-top: -5%;
+    width: 64%;
+    margin-top: -6%;
 }
 
 #usf {
-    width: 60%;
+    width: 87%;
     margin-top: 10%;
 }
+#mercy {
+    width: 74%;
+    margin-top: 10%;
+}
+#ampush {
+  width: 100%;
+  margin-top: 10%;
+}
 
-.text-font-rem {
+.text-font-rem-p-index {
   font-size: 1.2rem;
 }
 
@@ -1196,4 +1205,8 @@ footer .footer-manu ul li a:hover {
 .text-color-white {
   color: white;
   text-shadow: 2px 2px black;
+}
+
+.text-p-program {
+  font-size: 1.450rem;
 }
