@@ -8,6 +8,15 @@
   color: black !important;
 }
 
+#about-header {
+  background: url("../img/about_images/banner2.jpg") no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: 10% 0%;
+  padding: 200px 0 280px 0;
+  position: relative;
+}
+
 #portfolio-list-2{
 display: none;
 }
