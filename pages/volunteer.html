@@ -3,37 +3,88 @@ layout: page
 title: Volunteer
 permalink: /get-involved/volunteer/
 ---
-<h1> Volunteer Form </h1>
-<form action="https://docs.google.com/forms/d/e/1FAIpQLSdA4kqdrQE_HU-JlannPooeAR2nfwQp7AqFwUHKadimmcBBHg/formResponse" method="POST">
-  <div class="form-group">
-        <label for="contact-name">Full Name</label>
-        <input type="text" class="form-control" id="contact-name" placeholder="Name" name="entry.2005620554" aria-describedby="contact-name-error">
-        <p id="contact-name-error" class="help-block"></p>
-  </div>
-  <div class="form-group">
-        <label for="contact-title">Current Title</label>
-        <input type="title" class="form-control" id="contact-title" placeholder="Title" name="entry.2120814685" aria-describedby="contact-title-error">
-        <p id="contact-title-error" class="help-block"></p>
-  </div>
-  <div class="form-group">
-        <label for="contact-email">Email</label>
-        <input type="text" class="form-control" id="contact-email" placeholder="Email" name="entry.99450920" aria-describedby="contact-number-error">
-        <p id="contact-email-error" class="help-block"></p>
-  </div>
-  <div class="form-group">
-        <label for="contact-about">Tell us about yourself</label>
-        <textarea class="form-control" id="contact-about" placeholder="About" name="entry.777197893" aria-describedby="contact-about-error"></textarea>
-        <p id="contact-about-error" class="help-block"></p>
-  </div>
-  <div class="form-group">
-        <label for="contact-purpose">How do you want to help?</label>
-        <textarea class="form-control" id="contact-purpose" placeholder="purpose" name="entry.1576241862" aria-describedby="contact-purpose-error"></textarea>
-        <p id="contact-purpose-error" class="help-block"></p>
-  </div>
-  <div class="form-group">
-        <label for="contact-additional">Anything Else?</label>
-        <textarea class="form-control" id="contact-additional" placeholder="Additional" name="entry.371473633" aria-describedby="contact-additional-error"></textarea>
-        <p id="contact-additional-error" class="help-block"></p>
-  </div>
-  <button type="submit" class="btn btn-default" id="volunteer-form-submit">Submit</button>
-</form>
+
+<br>
+
+<br>
+<br>
+<div class="container">
+
+    <form class="well form-horizontal" action="https://docs.google.com/forms/d/e/1FAIpQLScHw0p9CJAyOZa2-Eosv4StopRoOAKdUPtM1jm-YrNyeS8_xA/formResponse" method="POST" id="contact_form">
+        <fieldset>
+
+
+            <legend>Volunteer Today!</legend>
+
+            <div class="form-group has-feedback">
+                <label class="col-md-4 control-label">Full Name</label>
+                <div class="col-md-4 inputGroupContainer">
+                    <div class="input-group">
+                        <span class="input-group-addon"><i class="fi-torso"></i></span>
+                        <input name="entry.2005620554" placeholder="Full Name" class="form-control" id = "contact-name" type="text">
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="form-group">
+                <label class="col-md-4 control-label">Current Title</label>
+                <div class="col-md-4 inputGroupContainer">
+                    <div class="input-group">
+                        <span class="input-group-addon"><i class="fi-torso"></i></span>
+                        <input name="entry.2120814685" placeholder="Title" class="form-control" id = "contact-title" type="text">
+                    </div>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label class="col-md-4 control-label">Email</label>
+                <div class="col-md-4 inputGroupContainer">
+                    <div class="input-group">
+                        <span class="input-group-addon"><i class="fi-mail"></i></span>
+                        <input name="entry.99450920" placeholder="Email" class="form-control" id = "contact-email"  type="text">
+                    </div>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label class="col-md-4 control-label">Tell Us About Yourself</label>
+                <div class="col-md-4 inputGroupContainer">
+                    <div class="input-group">
+                        <span class="input-group-addon"><i class="fi-pencil"></i></span>
+                        <textarea name="entry.777197893" placeholder="About You" class="form-control" id = "contact-about"  type="text"></textarea>
+                    </div>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label class="col-md-4 control-label">How do you wanna help</label>
+                <div class="col-md-4 inputGroupContainer">
+                    <div class="input-group">
+                        <span class="input-group-addon"><i class="fi-pencil"></i></span>
+                        <textarea name="entry.1576241862" placeholder="How do you wanna help" class="form-control" id="contact-purpose" type="text"></textarea>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="form-group">
+                <label class="col-md-4 control-label">Anything Else?</label>
+                <div class="col-md-4 inputGroupContainer">
+                    <div class="input-group">
+                        <span class="input-group-addon"><i class="fi-pencil"></i></span>
+                        <textarea name="entry.371473633" placeholder="Additional" class="form-control" id ="contact-additional" type="text"></textarea>
+                    </div>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label class="col-md-4 control-label"></label>
+                <div class="col-md-4">
+                    <button type="submit" class="button" id= "volunteer-form-submit"> Submit <span class="fi-upload"></span></button>
+                </div>
+            </div>
+
+        </fieldset>
+    </form>
+</div>
