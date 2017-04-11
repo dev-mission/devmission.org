@@ -1,7 +1,7 @@
 $(document).ready(function(){
 
 	aboutUsPage();
-	// submitParticipateForm();
+	submitParticipateForm();
 	submitVolunteerForm();
 });
 
@@ -39,6 +39,7 @@ function submitVolunteerForm() {
 
 	$('#volunteer-form-submit').click(function(e) {
     e.preventDefault();
+		console.log("CLICKED")
     var contactName = $('#contact-name').val();
 		var contactTitle = $('#contact-title').val();
     var contactEmail = $('#contact-email').val();
@@ -98,7 +99,7 @@ function submitParticipateForm() {
 		var programSession = $('#session').val();
 
     // data validation code here
-    var url = "https://docs.google.com/forms/d/e/1FAIpQLScHw0p9CJAyOZa2-Eosv4StopRoOAKdUPtM1jm-YrNyeS8_xA/formResponse";
+    var url = "//docs.google.com/forms/d/e/1FAIpQLScHw0p9CJAyOZa2-Eosv4StopRoOAKdUPtM1jm-YrNyeS8_xA/formResponse";
     var data = {
 			'entry.1491274308': contactFirstName,
 			'entry.476609564': contactMiddleName,
@@ -129,10 +130,10 @@ function submitParticipateForm() {
 														// TEMP: CORS ERROR is returning a 401 but data is still getting passed through. Always return a success
                             // window.location.href = "../volunteer";
 														console.log("BROKEN")
-														window.location.href = "../success";
+														window.location.href = "../../success";
                     },
                     200: function() {
-                            window.location.href = "../success";
+                            window.location.href = "../../success";
                     }
             }
 			});
