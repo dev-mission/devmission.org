@@ -1210,3 +1210,30 @@ footer .footer-manu ul li a:hover {
 .text-p-program {
   font-size: 1.450rem;
 }
+/*footer*/
+.style-footer-head {
+  text-decoration: underline;
+   margin-bottom: 0px;
+   font-weight: bold;
+   color:black;
+}
+.facebook-icon-footer {
+  border: 1px solid black;
+  border-radius:50%;
+  height: 60px;
+  width: 80px;
+  padding: 1px;
+  padding-left: 8.5px;
+  padding-right: 8.5px;
+  padding-top:2px;
+}
+.linkedin-icon-footer {
+  border: 1px solid black;
+  border-radius:50%;
+  height: 60px;
+  width: 80px;
+  padding: 1px;
+  padding-left: 7.6px;
+  padding-right: 7.6px;
+  padding-top:3px;
+}
