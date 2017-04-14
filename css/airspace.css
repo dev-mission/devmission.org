@@ -322,6 +322,12 @@
                 padding-left: 40px;
                 width: 100%;
             }
+@media screen and (min-width:768px) and (max-width:992px) {
+    #intro .block img{
+            padding-top: 20%;
+            padding-left: 0;
+    }
+}
             
             #intro .section-title {
                 margin-bottom: 0px;
@@ -435,6 +441,13 @@
                 -webkit-backface-visibility: hidden;
                 backface-visibility: hidden;
                 padding: 100px 0;
+            }
+            
+            @media screen and (min-width:0px) and (max-width:992px) {
+                #feature {
+                    background: url("../img/board.svg");
+                    background-size: 100% 100%;
+                }
             }
             
             #feature h2 {
@@ -1038,160 +1051,163 @@
             /*--
 	footer Start
 --*/
-
-
-footer {
-    background: #F5F5F5;
-    text-align: center;
-    padding-top: 48px;
-    padding-bottom: 55px;
-}
-
-footer p {
-    font-size: 13px;
-    line-height: 25px;
-    color: #919191;
-}
-
-footer a {
-    color: #595959;
-}
-
-footer .footer-manu {
-    padding-bottom: 25px;
-}
-
-footer .footer-manu ul {
-    margin: 0px;
-    padding: 0px;
-}
-
-footer .footer-manu ul li {
-    display: inline-block;
-    padding: 0px 20px;
-}
-
-footer .footer-manu ul li a {
-    display: inline-block;
-    color: #494949;
-}
-
-footer .footer-manu ul li a:hover {
-    color: #000;
-}
-
-.logo-center {}
-
-#uber {
-    width: 73%;
-    margin-top: 18%;
-}
-
-#dropbox {
-    width: 53%;
-    margin: 3%;
-}
-
-#myeep {
-    width: 58%;
-    margin: -5%;
-}
-
-#missionhousing {
-    margin: -9%;
-    width: 100%;
-}
-
-#impacthub {
-    width: 45%;
-    /*margin-top: 20px;*/
-    margin-top: 2%;
-}
-
-#sfofficeofEcon {
-    width: 100%;
-    margin-top: 1%;
-}
-
-#jamestown {
-    width: 64%;
-    margin-top: -6%;
-}
-
-#usf {
-    width: 87%;
-    margin-top: 10%;
-}
-#mercy {
-    width: 74%;
-    margin-top: 10%;
-}
-#ampush {
-  width: 100%;
-  margin-top: 10%;
-}
-
-.text-font-rem-p-index {
-  font-size: 1.2rem;
-}
-
-.button-group {
-  position: relative;
-  display: inline-block;
-  margin: 1rem 0;
-}
-
-
-.button-group:before {
-    content: attr(data-grouptype) !important;
-    z-index: 99999;
-    color: #999;
-    display: block;
-    font-size: 1rem;
-    padding: 0.25em;
-    border-radius: 50%;
-    background: #fff;
-    position: absolute;
-    left: 42.5%;
-    top: 0.60rem;
-  }
-
-  .button-group button + button {
-    margin-left: 5px; }
-
-
-.text-color-white {
-  color: white;
-  text-shadow: 2px 2px black;
-}
-
-.text-p-program {
-  font-size: 1.450rem;
-}
-/*footer*/
-.style-footer-head {
-  text-decoration: underline;
-   margin-bottom: 0px;
-   font-weight: bold;
-   color:black;
-}
-.facebook-icon-footer {
-  border: 1px solid black;
-  border-radius:50%;
-  height: 60px;
-  width: 80px;
-  padding: 1px;
-  padding-left: 8.5px;
-  padding-right: 8.5px;
-  padding-top:2px;
-}
-.linkedin-icon-footer {
-  border: 1px solid black;
-  border-radius:50%;
-  height: 60px;
-  width: 80px;
-  padding: 1px;
-  padding-left: 7.6px;
-  padding-right: 7.6px;
-  padding-top:3px;
-}
+            
+            footer {
+                background: #F5F5F5;
+                text-align: center;
+                padding-top: 48px;
+                padding-bottom: 55px;
+            }
+            
+            footer p {
+                font-size: 13px;
+                line-height: 25px;
+                color: #919191;
+            }
+            
+            footer a {
+                color: #595959;
+            }
+            
+            footer .footer-manu {
+                padding-bottom: 25px;
+            }
+            
+            footer .footer-manu ul {
+                margin: 0px;
+                padding: 0px;
+            }
+            
+            footer .footer-manu ul li {
+                display: inline-block;
+                padding: 0px 20px;
+            }
+            
+            footer .footer-manu ul li a {
+                display: inline-block;
+                color: #494949;
+            }
+            
+            footer .footer-manu ul li a:hover {
+                color: #000;
+            }
+            
+            .logo-center {}
+            
+            #uber {
+                width: 73%;
+                margin-top: 18%;
+            }
+            
+            #dropbox {
+                width: 53%;
+                margin: 3%;
+            }
+            
+            #myeep {
+                width: 58%;
+                margin: -5%;
+            }
+            
+            #missionhousing {
+                margin: -9%;
+                width: 100%;
+            }
+            
+            #impacthub {
+                width: 45%;
+                /*margin-top: 20px;*/
+                margin-top: 2%;
+            }
+            
+            #sfofficeofEcon {
+                width: 100%;
+                margin-top: 1%;
+            }
+            
+            #jamestown {
+                width: 64%;
+                margin-top: -6%;
+            }
+            
+            #usf {
+                width: 87%;
+                margin-top: 10%;
+            }
+            
+            #mercy {
+                width: 74%;
+                margin-top: 10%;
+            }
+            
+            #ampush {
+                width: 100%;
+                margin-top: 10%;
+            }
+            
+            .text-font-rem-p-index {
+                font-size: 1.2rem;
+            }
+            
+            .button-group {
+                position: relative;
+                display: inline-block;
+                margin: 1rem 0;
+            }
+            
+            .button-group:before {
+                content: attr(data-grouptype) !important;
+                z-index: 99999;
+                color: #999;
+                display: block;
+                font-size: 1rem;
+                padding: 0.25em;
+                border-radius: 50%;
+                background: #fff;
+                position: absolute;
+                left: 42.5%;
+                top: 0.60rem;
+            }
+            
+            .button-group button + button {
+                margin-left: 5px;
+            }
+            
+            .text-color-white {
+                color: white;
+                text-shadow: 2px 2px black;
+            }
+            
+            .text-p-program {
+                font-size: 1.450rem;
+            }
+            /*footer*/
+            
+            .style-footer-head {
+                text-decoration: underline;
+                margin-bottom: 0px;
+                font-weight: bold;
+                color: black;
+            }
+            
+            .facebook-icon-footer {
+                border: 1px solid black;
+                border-radius: 50%;
+                height: 60px;
+                width: 80px;
+                padding: 1px;
+                padding-left: 8.5px;
+                padding-right: 8.5px;
+                padding-top: 2px;
+            }
+            
+            .linkedin-icon-footer {
+                border: 1px solid black;
+                border-radius: 50%;
+                height: 60px;
+                width: 80px;
+                padding: 1px;
+                padding-left: 7.6px;
+                padding-right: 7.6px;
+                padding-top: 3px;
+            }
