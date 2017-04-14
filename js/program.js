@@ -1,4 +1,4 @@
- $(document).ready(function () {
+  /*$(document).ready(function () {
         var subMenuOffset = $(".wrapper-sub-menu").offset().top;
         console.log(subMenuOffset);
         $(window).on("scroll", function () {
@@ -19,8 +19,8 @@
     $('[data-spy="scroll"]').each(function () {
         var $spy = $(this).scrollspy('refresh')
     })
-    
-    /* $(function () {
+    = not working =
+    $(function () {
          $(document).on("click", ".sub-menu a.page-scroll", function (event) {
              var $anchor = $(this).offset().top;
              console.log($anchor);
