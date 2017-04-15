@@ -103,7 +103,7 @@ section .program-menu,
 /*---Program Quote---*/
 
 .quote {
-    background-color: honeydew;
+    background-color: #ccffcc;
 }
 
 .quote-img,
@@ -145,6 +145,15 @@ main .overview {
 .coding,
 .skills {
     margin-top: 3%;
+}
+
+.coding{
+background-color: azure;
+}
+
+.hardware, 
+.skills{
+background-color: honeydew;
 }
 
 .hardware ul,
