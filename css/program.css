@@ -1,6 +1,13 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat:700|Raleway');
 
 /*---Program General Atributtes---*/
+#slider {
+    background: url(../img/program/program.jpg) no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: 10% 0%;
+    position: relative;
+}
 
 .hide-sm {
     display: block;
@@ -10,6 +17,7 @@
 }
 main {
     text-align: center;
+    padding-bottom: 5%;
 }
 
 main p {
@@ -95,7 +103,7 @@ section .program-menu,
 /*---Program Quote---*/
 
 .quote {
-    background-color: honeydew;
+    background-color: #ccffcc;
 }
 
 .quote-img,
@@ -136,7 +144,16 @@ main .overview {
 .hardware,
 .coding,
 .skills {
-    margin-top: 3%;
+    margin-top: 2%;
+}
+
+.coding{
+background-color: azure;
+}
+
+.hardware, 
+.skills{
+background-color: honeydew;
 }
 
 .hardware ul,
