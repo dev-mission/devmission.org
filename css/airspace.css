@@ -68,7 +68,7 @@ a:active {
 }
 
 .section-title p {
-    font-family: 'Volkhov', serif;
+    font-family: 'Raleway', sans-serif;
     font-style: italic;
     color: #666;
 }
@@ -1236,4 +1236,51 @@ footer .footer-manu ul li a:hover {
   padding-left: 7.6px;
   padding-right: 7.6px;
   padding-top:3px;
+}
+.instagram-icon-footer {
+  border: 1px solid black;
+  border-radius:50%;
+  height: 60px;
+  width: 80px;
+  padding: 1px;
+  padding-left: 7.6px;
+  padding-right: 7.6px;
+  padding-top:3px;
+}
+.twitter-icon-footer {
+  border: 1px solid black;
+  border-radius:50%;
+  height: 60px;
+  width: 80px;
+  padding: 1px;
+  padding-left: 6.6px;
+  padding-right: 6.6px;
+  padding-top:3px;
+}
+
+
+
+/* The alert message box */
+.alert {
+    padding: 20px;
+    background-color: green; /* Red */
+    color: white;
+    margin-bottom: 15px;
+}
+
+/* The close button */
+.closebtn {
+    margin-left: 15px;
+    color: white;
+    font-weight: bold;
+    float: right;
+    font-size: 22px;
+    line-height: 20px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+/* When moving the mouse over the close button */
+.closebtn:hover {
+    color: black;
 }
