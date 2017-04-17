@@ -12,7 +12,7 @@
 <<<<<<< HEAD
 
 body {
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Raleway', sans-serif;
     -webkit-font-smoothing: antialiased;
     padding-top: 39px;
 }
@@ -23,7 +23,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Raleway', sans-serif;
 }
 
 h2 {
@@ -66,7 +66,6 @@ a:active {
 
 .section-title p {
     font-family: 'Raleway', sans-serif;
-    font-style: italic;
     color: #666;
 }
 
@@ -209,7 +208,7 @@ a:active {
 
             @media (min-width: 768px) and (max-width: 969px) {
                 body {
-                    font-family: 'Open Sans', sans-serif;
+                    font-family: 'Raleway', sans-serif;
                     -webkit-font-smoothing: antialiased;
                     padding-top: 37px;
                 }
@@ -346,7 +345,7 @@ a:active {
             }
 
             #slider .block h1 {
-                font-family: 'Roboto', sans-serif;
+                font-family: 'Raleway', sans-serif;
                 font-weight: 400;
                 font-size: 45px;
                 line-height: 60px;
@@ -359,7 +358,7 @@ a:active {
             #slider .block p {
                 font-size: 23px;
                 line-height: 40px;
-                font-family: 'Roboto', sans-serif;
+                font-family: 'Raleway', sans-serif;
                 font-weight: 500;
                 letter-spacing: 3px;
             }
@@ -950,7 +949,7 @@ a:active {
             }
 
             #slider-contact .block h1 {
-                font-family: 'Roboto', sans-serif;
+                font-family: 'Raleway', sans-serif;
                 font-weight: 100;
                 font-size: 45px;
                 line-height: 60px;
@@ -961,7 +960,7 @@ a:active {
             #slider-contact .block p {
                 font-size: 23px;
                 line-height: 40px;
-                font-family: 'Roboto', sans-serif;
+                font-family: 'Raleway', sans-serif;
                 font-weight: 300;
                 letter-spacing: 1px;
                 word-spacing: 3px;
@@ -1007,7 +1006,7 @@ a:active {
                 background: #47424C;
                 border: none;
                 color: #fff;
-                font-family: 'Open Sans', sans-serif;
+                font-family: 'Raleway', sans-serif;
                 font-size: 18px;
             }
             /*--
@@ -1063,7 +1062,7 @@ a:active {
             }
 
             #contact-box .block h2 {
-                font-family: 'Open Sans', sans-serif;
+                font-family: 'Raleway', sans-serif;
                 font-weight: 300;
                 color: #000;
                 font-size: 28px;
@@ -1201,12 +1200,12 @@ a:active {
 
             #mercy {
                 width: 74%;
-                margin-top: 10%;
+                margin-top: 14%;
             }
 
             #ampush {
-                width: 100%;
-                margin-top: 10%;
+                width: 89%;
+                margin-top: 14%;
             }
 
             .text-font-rem-p-index {
