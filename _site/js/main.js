@@ -5,9 +5,8 @@ $(document).ready(function () {
 
 function submitVolunteerForm() {
 
-    $('#volunteer-form-submit').click(function (e) {
+    $('#volunteer-form-submit').on("click",function (e) {
         e.preventDefault();
-        console.log("CLICKED")
         var contactName = $('#contact-name').val();
         var contactTitle = $('#contact-title').val();
         var contactEmail = $('#contact-email').val();
@@ -97,7 +96,6 @@ function submitParticipateForm() {
                 0: function () {
                     // TEMP: CORS ERROR is returning a 401 but data is still getting passed through. Always return a success
                     // window.location.href = "../volunteer";
-                    console.log("BROKEN")
                     window.location.href = "../../success";
                 },
                 200: function () {
