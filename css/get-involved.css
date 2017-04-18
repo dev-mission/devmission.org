@@ -108,7 +108,12 @@ img {
 .antialiased {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale; }
-
+#test {
+background-color: transparent!important;
+margin-top: -55px;
+z-index: 55;
+border: none!important;
+}
 img {
   display: inline-block;
   vertical-align: middle; }
