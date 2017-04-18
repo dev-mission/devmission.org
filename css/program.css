@@ -14,6 +14,10 @@
 }
 .img-justify{
     width: 100% !important;
+    margin: 2% 0;
+}
+#networking-img{
+    width: 78% !important;
 }
 main {
     text-align: center;
@@ -151,7 +155,10 @@ main .overview {
 background-color: azure;
 }
 
-.hardware, 
+.hardware{
+background-color: whitesmoke;
+}
+
 .skills{
 background-color: honeydew;
 }
