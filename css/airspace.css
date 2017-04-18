@@ -1338,3 +1338,13 @@ a:active {
                 padding-right: 6.6px;
                 padding-top: 3px;
             }
+            .icon-footer {
+                border: 1px solid black;
+                border-radius: 50%;
+                height: 34px;
+                width: 40px;
+                padding: 1px;
+                padding-left: 6.6px;
+                padding-right: 6.6px;
+                padding-top: 3px;
+            }
