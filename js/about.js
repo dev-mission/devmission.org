@@ -55,4 +55,8 @@
          $(text).addClass("hidden");
          $(text[3]).removeClass("hidden");
      });
+     $(list[5]).click(function () {
+         $(text).addClass("hidden");
+         $(text[4]).removeClass("hidden");
+     });
  }
