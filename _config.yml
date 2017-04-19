@@ -16,7 +16,7 @@ keep_files:
 # Site settings
 title: Airspace
 subtitle: "A free HTML5 agency template"
-url: "https://devmission.org" # the base hostname & protocol for your site
+url: "/" # the base hostname & protocol for your site
 baseurl: "/devmission.org" # Set this value to "" if you want your site to be root
 cover: "/assets/cover.png"
 logo: "/assets/logo.png"
