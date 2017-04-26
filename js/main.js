@@ -60,13 +60,13 @@ function submitParticipateForm() {
         var contactAge = $('#contact-age').val();
         var contactGender = $('#contact-gender').val();
         var contactIdentification = $('#contact-identification').val();
-        var programCommitment = $('#commmitment').val();
+        var programCommitment = $('#commitment').val();
         var joinReasoning = $('#join-reasoning').val();
         var gradGoals = $('#grad-goals').val();
         var programSession = $('#session').val();
 
         // data validation code here
-        var url = "//docs.google.com/forms/d/e/1FAIpQLScHw0p9CJAyOZa2-Eosv4StopRoOAKdUPtM1jm-YrNyeS8_xA/formResponse";
+        var url = "https://docs.google.com/forms/d/e/1FAIpQLScHw0p9CJAyOZa2-Eosv4StopRoOAKdUPtM1jm-YrNyeS8_xA/formResponse";
         var data = {
             'entry.1491274308': contactFirstName,
             'entry.476609564': contactMiddleName,
