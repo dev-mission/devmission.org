@@ -1218,6 +1218,8 @@ a:active {
                 margin: 1rem 0;
             }
 
+
+
             .button-group:before {
                 content: attr(data-grouptype) !important;
                 z-index: 99999;
@@ -1226,12 +1228,54 @@ a:active {
                 font-size: 1rem;
                 padding: 0.25em;
                 border-radius: 50%;
-                background: #fff;
+                /*background: #fff;*/
                 position: absolute;
                 left: 42.5%;
                 top: 0.60rem;
             }
+            /*@media (min-width: 400px) and (max-width: 1500px) {
+              .button-group:before {
+                  content: attr(data-grouptype) !important;
+                  z-index: 99999;
+                  color: #999;
+                  display: block;
+                  font-size: 1rem;
+                  padding: 0.25em;
+                  border-radius: 50%;
+                  background: #fff;
+                  position: absolute;
+                  left: 42.5%;
+                  top: 0.60rem;
+              }
+              .button-group {
+                  position: relative;
+                  display: inline-block;
+                  margin: 1rem 0;
+              }
 
+            }*/
+
+            /*@media (min-width: 0px) and (max-width: 400px) {*/
+              /*.button-group:before {*/
+                  /*content: attr(data-grouptype) !important;*/
+                  /*z-index: 99999;*/
+                  /*color: #999;*/
+                  /*display: block;*/
+                  /*font-size: 1rem;*/
+                  /*padding: 0.25em;*/
+                  /*border-radius: 50%;*/
+                  /*background: #fff;*/
+                  /*position: absolute;*/
+                  /*left: 42.5%;*/
+                  /*top: 0.60rem;*/
+              /*}*/
+              /*.button-group {*/
+                  /*position: relative;*/
+                  /*display: inline-block;*/
+                  /*margin: 1rem 0;*/
+              /*}*/
+
+            /*}*/
             .button-group button + button {
                 margin-left: 5px;
             }
@@ -1289,6 +1333,16 @@ a:active {
                 border-radius: 50%;
                 height: 60px;
                 width: 80px;
+                padding: 1px;
+                padding-left: 6.6px;
+                padding-right: 6.6px;
+                padding-top: 3px;
+            }
+            .icon-footer {
+                border: 1px solid black;
+                border-radius: 50%;
+                height: 34px;
+                width: 40px;
                 padding: 1px;
                 padding-left: 6.6px;
                 padding-right: 6.6px;

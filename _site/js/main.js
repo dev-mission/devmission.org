@@ -14,7 +14,7 @@ function submitVolunteerForm() {
         var contactPurpose = $('#contact-purpose').val();
         var contactAdditional = $('#contact-additional').val();
         // data validation code here
-        var url = "//docs.google.com/forms/d/e/1FAIpQLSdA4kqdrQE_HU-JlannPooeAR2nfwQp7AqFwUHKadimmcBBHg/formResponse";
+        var url = "//docs.google.com/forms/d/e/1FAIpQLSdA4kqdrQE_HU-JlannPooeAR2nfwQp7AqFwUHKadimmcBBHg/viewform#responses";
         var data = {
             'entry.2005620554': contactName,
             'entry.2120814685': contactTitle,
