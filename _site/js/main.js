@@ -1,6 +1,6 @@
 $(document).ready(function () {
-    submitParticipateForm();
     submitVolunteerForm();
+    submitParticipateForm();
 });
 
 function submitVolunteerForm() {
@@ -14,21 +14,21 @@ function submitVolunteerForm() {
         var contactPurpose = $('#contact-purpose').val();
         var contactAdditional = $('#contact-additional').val();
         // data validation code here
-        var url = "//docs.google.com/forms/d/e/1FAIpQLSdA4kqdrQE_HU-JlannPooeAR2nfwQp7AqFwUHKadimmcBBHg/viewform#responses";
+        var url = "https://docs.google.com/forms/d/e/1FAIpQLSdA4kqdrQE_HU-JlannPooeAR2nfwQp7AqFwUHKadimmcBBHg/formResponse";
         var data = {
             'entry.2005620554': contactName,
             'entry.2120814685': contactTitle,
             'entry.99450920': contactEmail,
             'entry.777197893': contactAbout,
             'entry.1576241862': contactPurpose,
-            'entry.371473633"': contactAdditional
+            'entry.371473633': contactAdditional
         };
         $.ajax({
             type: "POST",
             url: url,
             dataType: "json",
             data: data,
-            contentType: 'application/json',
+            'Content-Type':'application/x-www-form-urlencoded',
             statusCode: {
                 0: function () {
                     // TEMP: CORS ERROR is returning a 401 but data is still getting passed through. Always return a success
@@ -91,7 +91,7 @@ function submitParticipateForm() {
             url: url,
             dataType: "json",
             data: data,
-            contentType: 'application/json',
+            'Content-Type':'application/x-www-form-urlencoded',
             statusCode: {
                 0: function () {
                     // TEMP: CORS ERROR is returning a 401 but data is still getting passed through. Always return a success
