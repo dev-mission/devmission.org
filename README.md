@@ -3,6 +3,7 @@ Future devmission.org
 
 ## Development
 ### OS X
+1. If you don't have homebrew installed, [install homebrew](https://brew.sh/)
 1. `brew instll ruby`
 1. `sudo gem install bundler`
 1. `mkdir vendor && bundler install --path vendor`
