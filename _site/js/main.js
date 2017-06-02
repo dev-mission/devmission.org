@@ -58,12 +58,12 @@ function submitParticipateForm() {
         var contactMobileNumber = $('#contact-mobile-number').val();
         var contactEmail = $('#contact-email').val();
         var contactAge = $('#contact-age').val();
-        var contactGender = $('#contact-gender').val();
-        var contactIdentification = $('#contact-identification').val();
-        var programCommitment = $('#commitment').val();
+        var contactGender = $('#contact-gender')
+        var contactIdentification = $('#contact-identification')
+        var programCommitment = $('#commitment')
         var joinReasoning = $('#join-reasoning').val();
         var gradGoals = $('#grad-goals').val();
-        var programSession = $('#session').val();
+        var programSession = $('#session')
 
         // data validation code here
         var url = "https://docs.google.com/forms/d/e/1FAIpQLScHw0p9CJAyOZa2-Eosv4StopRoOAKdUPtM1jm-YrNyeS8_xA/formResponse";
