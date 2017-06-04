@@ -64,7 +64,7 @@ function submitParticipateForm() {
         var joinReasoning = $('#join-reasoning').val();
         var gradGoals = $('#grad-goals').val();
         var programSession = document.querySelector('input[name="entry.921937508"]:checked').value;
-        var heardThrough = document.getElementById("heard-through").value
+
 
         // data validation code here
         var url = "http://docs.google.com/forms/d/e/1FAIpQLScHw0p9CJAyOZa2-Eosv4StopRoOAKdUPtM1jm-YrNyeS8_xA/formResponse";
@@ -80,13 +80,13 @@ function submitParticipateForm() {
             'entry.1955697166': contactMobileNumber,
             'entry.1899326379': contactEmail,
             'entry.490772473': contactAge,
-            contactGender,
-            contactIdentification,
-            programCommitment,
+            'entry.1186008022': contactGender,
+            'entry.2042764450': contactIdentification,
+            'entry.423640491': programCommitment,
             'entry.1486462317': joinReasoning,
             'entry.880168723': gradGoals,
-            programSession,
-            'entry.1667732303': heardThrough
+            'entry.921937508': programSession,
+            ''
         };
         $.ajax({
             type: "POST",
