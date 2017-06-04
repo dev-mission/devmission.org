@@ -47,6 +47,7 @@ function submitParticipateForm() {
 
     $('#participate-form-submit').click(function (e) {
         e.preventDefault();
+        console.log("SDNJNFß")
         var contactFirstName = $('#contact-first-name').val();
         var contactMiddleName = $('#contact-middle-name').val();
         var contactLastName = $('#contact-last-name').val();
@@ -59,15 +60,16 @@ function submitParticipateForm() {
         var contactEmail = $('#contact-email').val();
         var contactAge = $('#contact-age').val();
         var contactGender = document.querySelector('input[name="entry.1186008022"]:checked').value;
+
         var contactIdentification = document.querySelector('input[name="entry.2042764450"]:checked').value;
         var programCommitment = document.querySelector('input[name="entry.423640491"]:checked').value;
+
         var joinReasoning = $('#join-reasoning').val();
         var gradGoals = $('#grad-goals').val();
+
         var programSession = document.querySelector('input[name="entry.921937508"]:checked').value;
-
-
         // data validation code here
-        var url = "http://docs.google.com/forms/d/e/1FAIpQLScHw0p9CJAyOZa2-Eosv4StopRoOAKdUPtM1jm-YrNyeS8_xA/formResponse";
+        var url = "//docs.google.com/forms/d/e/1FAIpQLScHw0p9CJAyOZa2-Eosv4StopRoOAKdUPtM1jm-YrNyeS8_xA/formResponse";
         var data = {
             'entry.1491274308': contactFirstName,
             'entry.476609564': contactMiddleName,
@@ -85,8 +87,7 @@ function submitParticipateForm() {
             'entry.423640491': programCommitment,
             'entry.1486462317': joinReasoning,
             'entry.880168723': gradGoals,
-            'entry.921937508': programSession,
-            ''
+            'entry.921937508': programSession
         };
         $.ajax({
             type: "POST",
