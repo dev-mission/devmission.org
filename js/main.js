@@ -14,7 +14,7 @@ function submitVolunteerForm() {
         var contactPurpose = $('#contact-purpose').val();
         var contactAdditional = $('#contact-additional').val();
         // data validation code here
-        var url = "https://docs.google.com/forms/d/e/1FAIpQLSdA4kqdrQE_HU-JlannPooeAR2nfwQp7AqFwUHKadimmcBBHg/formResponse";
+        var url = "//docs.google.com/forms/d/e/1FAIpQLSdA4kqdrQE_HU-JlannPooeAR2nfwQp7AqFwUHKadimmcBBHg/formResponse";
         var data = {
             'entry.2005620554': contactName,
             'entry.2120814685': contactTitle,
@@ -58,15 +58,22 @@ function submitParticipateForm() {
         var contactMobileNumber = $('#contact-mobile-number').val();
         var contactEmail = $('#contact-email').val();
         var contactAge = $('#contact-age').val();
-        var contactGender = $('#contact-gender')
-        var contactIdentification = $('#contact-identification')
-        var programCommitment = $('#commitment')
+        var contactGender = document.querySelector('input[name="entry.1186008022"]:checked').value;
+        console.log(contactGender)
+        var contactIdentification = document.querySelector('input[name="entry.2042764450"]:checked').value;
+        console.log(contactIdentification)
+
+        var programCommitment = document.querySelector('input[name="entry.423640491"]:checked').value;
+        console.log(programCommitment)
+
         var joinReasoning = $('#join-reasoning').val();
         var gradGoals = $('#grad-goals').val();
-        var programSession = $('#session')
+
+        var programSession = document.querySelector('input[name="entry.921937508"]:checked').value;
+        console.log(programSession)
 
         // data validation code here
-        var url = "https://docs.google.com/forms/d/e/1FAIpQLScHw0p9CJAyOZa2-Eosv4StopRoOAKdUPtM1jm-YrNyeS8_xA/formResponse";
+        var url = "http://docs.google.com/forms/d/e/1FAIpQLScHw0p9CJAyOZa2-Eosv4StopRoOAKdUPtM1jm-YrNyeS8_xA/formResponse";
         var data = {
             'entry.1491274308': contactFirstName,
             'entry.476609564': contactMiddleName,
@@ -79,12 +86,12 @@ function submitParticipateForm() {
             'entry.1955697166': contactMobileNumber,
             'entry.1899326379': contactEmail,
             'entry.490772473': contactAge,
-            'entry.1186008022': contactGender,
-            'entry.2042764450': contactIdentification,
-            'entry.423640491': programCommitment,
+            contactGender,
+            contactIdentification,
+            programCommitment,
             'entry.1486462317': joinReasoning,
             'entry.880168723': gradGoals,
-            'entry.921937508': programSession
+            programSession
         };
         $.ajax({
             type: "POST",
