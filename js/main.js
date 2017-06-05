@@ -14,7 +14,7 @@ function submitVolunteerForm() {
         var contactPurpose = $('#contact-purpose').val();
         var contactAdditional = $('#contact-additional').val();
         // data validation code here
-        var url = "https://docs.google.com/forms/d/e/1FAIpQLSdA4kqdrQE_HU-JlannPooeAR2nfwQp7AqFwUHKadimmcBBHg/formResponse";
+        var url = "//docs.google.com/forms/d/e/1FAIpQLSdA4kqdrQE_HU-JlannPooeAR2nfwQp7AqFwUHKadimmcBBHg/formResponse";
         var data = {
             'entry.2005620554': contactName,
             'entry.2120814685': contactTitle,
@@ -47,6 +47,7 @@ function submitParticipateForm() {
 
     $('#participate-form-submit').click(function (e) {
         e.preventDefault();
+        console.log("SDNJNFß")
         var contactFirstName = $('#contact-first-name').val();
         var contactMiddleName = $('#contact-middle-name').val();
         var contactLastName = $('#contact-last-name').val();
@@ -58,15 +59,17 @@ function submitParticipateForm() {
         var contactMobileNumber = $('#contact-mobile-number').val();
         var contactEmail = $('#contact-email').val();
         var contactAge = $('#contact-age').val();
-        var contactGender = $('#contact-gender').val();
-        var contactIdentification = $('#contact-identification').val();
-        var programCommitment = $('#commitment').val();
+        var contactGender = document.querySelector('input[name="entry.1186008022"]:checked').value;
+
+        var contactIdentification = document.querySelector('input[name="entry.2042764450"]:checked').value;
+        var programCommitment = document.querySelector('input[name="entry.423640491"]:checked').value;
+
         var joinReasoning = $('#join-reasoning').val();
         var gradGoals = $('#grad-goals').val();
-        var programSession = $('#session').val();
 
+        var programSession = document.querySelector('input[name="entry.921937508"]:checked').value;
         // data validation code here
-        var url = "https://docs.google.com/forms/d/e/1FAIpQLScHw0p9CJAyOZa2-Eosv4StopRoOAKdUPtM1jm-YrNyeS8_xA/formResponse";
+        var url = "//docs.google.com/forms/d/e/1FAIpQLScHw0p9CJAyOZa2-Eosv4StopRoOAKdUPtM1jm-YrNyeS8_xA/formResponse";
         var data = {
             'entry.1491274308': contactFirstName,
             'entry.476609564': contactMiddleName,
