@@ -6,18 +6,27 @@ permalink: /aboutUs/
 
 <!-- Main Banner -->
 
-<div class="container-fluid" id="container-img">
-  <div class="row">
-    <div class="col-xs-12">
-      <img style="width:inherit" class="img-responsive" src="{{ site.baseurl }}/img/about_images/banner2.jpg" alt="testing banners" />
-    </div>
-  </div>
-</div>
+  <!--Slider-->
+<link rel="stylesheet" href="{{ site.baseurl }}/css/program.css" />
+    <section id="slider" class="wrapper-program-slider" style="background: url({{ site.baseurl }}/img/about_images/banner2.jpg) no-repeat; background-size: cover;">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-1"></div>
 
+                <div class="col-md-10">
+                    <div class="program-slider text-center">
+                        <h1 class="text-color-white">About Us</h1>
+                        <p class="animated fadeInUp lead">In early 2017, &lt;dev/Mission&gt; was founded by Leonardo Sosa and a team of technologists, that care about STEM opportunities for untapped young adults. Our goal is to connect the most overlooked population in San Francisco, Bay Area and beyond; and expose them to careers in the tech industry.</p>
+                    </div>
+                </div>
+                <div class="col-md-1"></div>
+            </div>
+        </div>
+    </section>
 
 
 <!-- Call to action Start -->
-<section id="call-to-action">
+<!--<section id="call-to-action">
   <div class="container">
     <div class="row">
       <div class="col-md-12">
@@ -28,7 +37,7 @@ permalink: /aboutUs/
       </div>
     </div>
   </div>
-</section>
+</section>-->
 
 
 
@@ -101,321 +110,22 @@ permalink: /aboutUs/
                         <div class="portfolio-content">
 
                             <ul id="portfolio-content-active">
-
-                                <li class="mix leadershipTeam">
-                                    <a href="leonardo-sosa">
+                                <ul>
+                                    {% for member in site.data.teams %}
+                                    <li class="mix {{ member.teamClass }}">
+                                    <a href="#" data-toggle="modal" data-target="#{{ member.linkedIn }}">
                                         <div class="pic-container">
-                                            <div class="pic-box"><img src="{{ site.baseurl }}/img/about_images/ceo.png"></div>
-                                            <div class="pic-box pic-hover"><img src="{{ site.baseurl }}/img/about_images/coolLeo.jpg"></div>
+                                            <div class="pic-box"><img src="{{ site.baseurl }}/img/about_images/{{ member.mainImage }}"></div>
+                                            <div class="pic-box pic-hover"><img src="{{ site.baseurl }}/img/about_images/{{ member.funImage}}"></div>
                                         </div>
                                         <div class="bios">
-                                            <h4> Leonardo Sosa</h4>
-                                            <p class="font1">CEO and Executive Director</p>
+                                            <h4>{{ member.name }}</h4>
+                                            <p class="font1">{{ member.title }}</p>
                                         </div>
                                     </a>
-                                </li>
-
-                                <li class="mix leadershipTeam">
-                                    <a href="kurtis-nusbaum">
-                                        <div class="pic-container">
-                                            <div class="pic-box"><img src="{{ site.baseurl }}/img/about_images/kurtis.png"></div>
-                                            <div class="pic-box pic-hover"><img src="{{ site.baseurl }}/img/about_images/kurtisfunny.jpg"></div>
-                                        </div>
-                                        <div class="bios">
-                                            <h4> Kurtis Nusbaum</h4>
-                                            <p class="font1">Deputy Director and CTO </p>
-                                        </div>
-                                    </a>
-                                </li>
-
-                                <li class="mix leadershipTeam">
-                                    <a href="jesse-martinez">
-                                        <div class="pic-container">
-                                            <div class="pic-box"><img src="{{ site.baseurl }}/img/about_images/JesseMartinez.png"></div>
-                                            <div class="pic-box pic-hover"><img src="{{ site.baseurl }}/img/about_images/coolJesse.jpg"></div>
-                                        </div>
-                                        <div class="bios">
-                                            <h4>Jesse Martinez</h4>
-                                            <p class="font1">Co-Founder</p>
-                                        </div>
-                                    </a>
-                                </li>
-
-                                <li class="mix leadershipTeam">
-                                    <a href="deborah-jaramillo">
-                                        <div class="pic-container">
-                                            <div class="pic-box"><img src="{{ site.baseurl }}/img/about_images/deborah.jpg"></div>
-                                            <div class="pic-box pic-hover"><img src="{{ site.baseurl }}/img/about_images/funnyDeborah.jpg"></div>
-                                        </div>
-                                        <div class="bios">
-                                            <h4>Deborah Jaramillo</h4>
-                                            <p class="font1">Financial Advisor and CFO</p>
-                                        </div>
-                                    </a>
-                                </li>
-
-                                <li class="mix leadershipTeam">
-                                    <a href="abraham-velazquez">
-                                        <div class="pic-container">
-                                            <div class="pic-box"><img src="{{ site.baseurl }}/img/about_images/AbrahamVelazquez.jpg"></div>
-                                            <div class="pic-box pic-hover"><img src="{{ site.baseurl }}/img/about_images/darkAbraham.jpg"></div>
-                                        </div>
-                                        <div class="bios">
-                                            <h4>Abraham Velazquez</h4>
-                                            <p class="font1">Full-Stack Engineer</p>
-                                        </div>
-                                    </a>
-                                </li>
-
-
-                                <li class="mix leadershipTeam">
-                                    <a href="francesc-campoy">
-                                        <div class="pic-container">
-                                            <div class="pic-box"><img src="{{ site.baseurl }}/img/about_images/FrancesCampoy.jpg"></div>
-                                            <div class="pic-box pic-hover"><img src="{{ site.baseurl }}/img/about_images/coolFrancesc.jpg"></div>
-                                        </div>
-                                        <div class="bios">
-                                            <h4>Francesc Campoy</h4>
-                                            <p class="font1">Developer advocate at Google</p>
-                                        </div>
-                                    </a>
-                                </li>
-
-                                <li class="mix leadershipTeam">
-                                    <a href="aimee-gonzalez">
-                                        <div class="pic-container">
-                                            <div class="pic-box"><img src="{{ site.baseurl }}/img/about_images/AimeeGonzalez.png"></div>
-                                            <div class="pic-box pic-hover"><img src="{{ site.baseurl }}/img/about_images/coolAimee.jpg"></div>
-                                        </div>
-                                        <div class="bios">
-                                            <h4>Aimee Gonzalez</h4>
-                                            <p class="font1">Engineering Development Specialist</p>
-                                        </div>
-                                    </a>
-                                </li>
-
-                                <li class="mix leadershipTeam">
-                                    <a href="sam-moss">
-                                        <div class="pic-container">
-                                            <div class="pic-box"><img src="{{ site.baseurl }}/img/about_images/SamMoss.png"></div>
-                                            <div class="pic-box pic-hover"><img src="{{ site.baseurl }}/img/about_images/coolSam.jpg"></div>
-                                        </div>
-                                        <div class="bios">
-                                            <h4>Sam Moss</h4>
-                                            <p class="font1">Mission Housing</p>
-                                        </div>
-                                    </a>
-                                </li>
-
-
-
-                                <li class="mix leadershipTeam">
-                                    <a href="christi-baker">
-                                        <div class="pic-container">
-                                            <div class="pic-box"><img src="{{ site.baseurl }}/img/about_images/ChristiBaker.jpg"></div>
-                                            <div class="pic-box pic-hover"><img src="{{ site.baseurl }}/img/about_images/coolChristi.jpg"></div>
-                                        </div>
-                                        <div class="bios">
-                                            <h4>Christi Baker</h4>
-                                            <p class="font1">Chrysails Consulting</p>
-                                        </div>
-                                    </a>
-                                </li>
-
-                                <li class="mix techMentorTeam">
-                                    <a href="eiman-zolfaghari">
-                                        <div class="pic-container">
-                                            <div class="pic-box"><img src="{{ site.baseurl }}/img/about_images/EimanZolfaghari.png"></div>
-                                            <div class="pic-box pic-hover"><img src="{{ site.baseurl }}/img/about_images/coolEiman.jpg"></div>
-                                        </div>
-                                        <div class="bios">
-                                            <h4>Eiman Zolfaghari</h4>
-                                            <p class="font1">IOS Developer</p>
-                                        </div>
-                                    </a>
-                                </li>
-
-                                <li class="mix techMentorTeam">
-                                    <a href="armand-gray">
-                                        <div class="pic-container">
-                                            <div class="pic-box"><img src="{{ site.baseurl }}/img/about_images/ArmandGray.png"></div>
-                                            <div class="pic-box pic-hover"><img src="{{ site.baseurl }}/img/about_images/coolArmand.jpg"></div>
-                                        </div>
-                                        <div class="bios">
-                                            <h4>Armand Gray</h4>
-                                            <p class="font1">Mobile Developer</p>
-                                        </div>
-                                    </a>
-                                </li>
-
-                                <li class="mix techMentorTeam ITdep">
-                                    <a href="david-quang">
-                                        <div class="pic-container">
-                                            <div class="pic-box"><img src="{{ site.baseurl }}/img/about_images/DavidQuang.png"></div>
-                                            <div class="pic-box pic-hover"><img src="{{ site.baseurl }}/img/about_images/coolDavid.jpg"></div>
-                                        </div>
-                                        <div class="bios">
-                                            <h4>David Quang</h4>
-                                            <p class="font1">IT Security Specialist</p>
-                                        </div>
-                                    </a>
-                                </li>
-
-                                <li class="mix ITdep">
-                                    <a href="rene-duran">
-                                        <div class="pic-container">
-                                            <div class="pic-box"><img src="{{ site.baseurl }}/img/about_images/rene.png"></div>
-                                            <div class="pic-box pic-hover"><img src="{{ site.baseurl }}/img/about_images/cool-rene.png"></div>
-                                        </div>
-                                        <div class="bios">
-                                            <h4>Rene Duran</h4>
-                                            <p class="font1">IT Technician</p>
-                                        </div>
-                                    </a>
-                                </li>
-
-                                <li class="mix techMentorTeam">
-                                    <a href="jette-hernandez">
-                                        <div class="pic-container">
-                                            <div class="pic-box"><img src="{{ site.baseurl }}/img/about_images/JetteHernandez.jpg"></div>
-                                            <div class="pic-box pic-hover"><img src="{{ site.baseurl }}/img/about_images/coolJett.jpg"></div>
-                                        </div>
-                                        <div class="bios">
-                                            <h4>Jette Hernandez</h4>
-                                            <p class="font1">Designer and Developer</p>
-                                        </div>
-                                    </a>
-                                </li>
-
-                                <li class="mix techMentorTeam">
-                                    <a href="ana-medina">
-                                        <div class="pic-container">
-                                            <div class="pic-box"><img src="{{ site.baseurl }}/img/about_images/ana.jpg"></div>
-                                            <div class="pic-box pic-hover"><img src="{{ site.baseurl }}/img/about_images/ana-fun.jpg"></div>
-                                        </div>
-                                        <div class="bios">
-                                            <h4>Ana Medina</h4>
-                                            <p class="font1">Full Stack Devleoper</p>
-                                        </div>
-                                    </a>
-                                </li>
-
-                                <li class="mix webDevelopmentTeam leadershipTeam">
-                                    <a href="yaritza-perez">
-                                        <div class="pic-container">
-                                            <div class="pic-box"><img src="{{ site.baseurl }}/img/about_images/YaritzaPerez.jpg"></div>
-                                            <div class="pic-box pic-hover"><img src="{{ site.baseurl }}/img/about_images/coolYaritza2.jpg"></div>
-                                        </div>
-                                        <div class="bios">
-                                            <h4>Yaritza Perez</h4>
-                                            <p class="font1">Full Stack Developer</p>
-                                        </div>
-                                    </a>
-                                </li>
-
-                                <li class="mix webDevelopmentTeam leadershipTeam">
-                                    <a href="christian-salas">
-                                        <div class="pic-container">
-                                            <div class="pic-box"><img src="{{ site.baseurl }}/img/about_images/ChristianSalas.png"></div>
-                                            <div class="pic-box pic-hover"><img src="{{ site.baseurl }}/img/about_images/coolChristian.jpg"></div>
-                                        </div>
-                                        <div class="bios">
-                                            <h4>Christian Salas</h4>
-                                            <p class="font1">Full stack developer</p>
-                                        </div>
-                                    </a>
-                                </li>
-
-                                <li class="mix leadershipTeam">
-                                    <a href="stephanie-cueto">
-                                        <div class="pic-container">
-                                            <div class="pic-box"><img src="{{ site.baseurl }}/img/about_images/stephanieCueto.jpg"></div>
-                                            <div class="pic-box pic-hover"><img src="{{ site.baseurl }}/img/about_images/coolSteph.jpg"></div>
-                                        </div>
-                                        <div class="bios">
-                                            <h4>Stephanie cueto</h4>
-                                            <p class="font1">Aspiring Developer</p>
-                                        </div>
-                                    </a>
-                                </li>
-
-                                <li class="mix leadershipTeam">
-                                    <a href="daniela-meza-gray">
-                                        <div class="pic-container">
-                                            <div class="pic-box"><img src="{{ site.baseurl }}/img/about_images/danielaMeza.jpg"></div>
-                                            <div class="pic-box pic-hover"><img src="{{ site.baseurl }}/img/about_images/funnyDanielaMeza.jpg"></div>
-                                        </div>
-                                        <div class="bios">
-                                            <h4>Daniela Meza-Gray</h4>
-                                            <p class="font1">Program Development Coordinator</p>
-                                        </div>
-                                    </a>
-                                </li>
-
-                                <li class="mix leadershipTeam">
-                                    <a href="jorge-ortiz">
-                                        <div class="pic-container">
-                                            <div class="pic-box"><img src="{{ site.baseurl }}/img/about_images/jorge.jpg"></div>
-                                            <div class="pic-box pic-hover"><img src="{{ site.baseurl }}/img/about_images/jorge-fun.jpg"></div>
-                                        </div>
-                                        <div class="bios">
-                                            <h4>Jorge</h4>
-                                            <p class="font1">Security</p>
-                                        </div>
-                                    </a>
-                                </li>
-
-                                <li class="mix webDevelopmentTeam">
-                                    <a href="yuridia-larios">
-                                        <div class="pic-container">
-                                            <div class="pic-box"><img src="{{ site.baseurl }}/img/about_images/yuridia.png"></div>
-                                            <div class="pic-box pic-hover"><img src="{{ site.baseurl }}/img/about_images/weirYuridia.jpg"></div>
-                                        </div>
-                                        <div class="bios">
-                                            <h4>Yuridia Larios</h4>
-                                            <p class="font1">Front-End Developer</p>
-                                        </div>
-                                    </a>
-                                </li>
-
-                                <li class="mix webDevelopmentTeam">
-                                    <a href="frank-tito">
-                                        <div class="pic-container">
-                                            <div class="pic-box"><img src="{{ site.baseurl }}/img/about_images/FrankTito.png"></div>
-                                            <div class="pic-box pic-hover"><img src="{{ site.baseurl }}/img/about_images/coolFrank.jpg"></div>
-                                        </div>
-                                        <div class="bios">
-                                            <h4>Frank Tito Laurel</h4>
-                                            <p class="font1">Front - End Developer</p>
-                                        </div>
-                                    </a>
-                                </li>
-
-                                <li class="mix designMediaTeam">
-                                    <a href="ismael-sosa">
-                                        <div class="pic-container">
-                                            <div class="pic-box"><img src="{{ site.baseurl }}/img/about_images/IsmaelSosa.jpg"></div>
-                                            <div class="pic-box pic-hover"><img src="{{ site.baseurl }}/img/about_images/coolismael.jpg"></div>
-                                        </div>
-                                        <div class="bios">
-                                            <h4>Ismael Sosa</h4>
-                                            <p class="font1">Digital Designer</p>
-                                        </div>
-                                    </a>
-                                </li>
-
-                                <li class="mix designMediaTeam">
-                                    <a href="william-lopez">
-                                        <div class="pic-container">
-                                            <div class="pic-box"><img src="{{ site.baseurl }}/img/about_images/williamLopez.jpg"></div>
-                                            <div class="pic-box pic-hover"><img src="{{ site.baseurl }}/img/about_images/coolWilliam.jpg"></div>
-                                        </div>
-                                        <div class="bios">
-                                            <h4>William Lopez</h4>
-                                            <p class="font1">Video and Media Specialist</p>
-                                        </div>
-                                    </a>
-                                </li>
+                                    </li>
+                                    {% endfor %}
+                                </ul>
                             </ul>
                         </div>
                     </div>
@@ -424,7 +134,113 @@ permalink: /aboutUs/
 
             </div>
         </div>
-    </div>
-
+    </div>    
 </section>
+<!-- Members Modals -->
+ {% for member in site.data.teams %}
+    <div class="modal fade" id="{{ member.linkedIn }}" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <!--<div id="closeModal" data-dismiss="modal">
+                    <button type="button" class="btn btn-default"><i class="fa fa-times fa-5x" aria-hidden="true"></i></button>
+            </div>-->
+            <div class="container-fluid">
+                <div class="row">
+                <button id="closeModal" type="button" class="btn" data-dismiss="modal"><i class="fa fa-times"></i></button>
+                </div>
+                <div class="row">
+                    <div class="col-lg-10 col-lg-offset-1">
+                        <div class="modal-body">
+                            <section id="contact-form">
+                                <div class="container">
+                                    <div id="contact-box" class="row">
+                                        <div class="col-md-6 col-sm-12">
+                                            <div class="block">
+                                                <div class="pic-container">
+                                                    <div class="pic-box"><img src="{{ site.baseurl }}/img/about_images/{{ member.mainImage }}"></div>
+                                                    <div class="pic-box pic-hover"><img src="{{ site.baseurl }}/img/about_images/{{ member.secImage }}"></div>
+                                                    </div>
+                                                    <h1>{{ member.team }}</h1>
+                                                    <h2>{{ member.name }}</h2>
+                                                    <ul class="address-block">
+    
+                                                    <li>
+                                                        <i class="ion-bug"></i><strong>Speciality: </strong>{{ member.specialty }}
+                                                    </li>
+                                                    
+                                                    <li>
+                                                        <i class="ion-leaf"></i><strong>Fun Fact: </strong> {{ member.funFact }}
+                                                    </li>
+                                                    {% if members.location != null %}
+                                                    <li>
+                                                        <i class="fa fa-map-marker"></i>{{ member.location }}
+                                                    </li>
+                                                    {% endif %}
+                                                    {% if members.email != null %}
+                                                    <li>
+                                                        <i class="fa fa-envelope-o"></i>Email: {{ member.email }}
+                                                    </li>
+                                                    {% endif %}
+                                                    {% if members.phone != null %}  
+                                                    <li>
+                                                        <i class="fa fa-phone"></i>Phone: {{ member.phone }}
+                                                    </li>
+                                                    {% endif %}
+                                                    </ul>
+                                                
+                                                    <ul class="social-icons">
+                                                    {% if member.googlePlus != null %}
+                                                    <li>
+                                                        <a href="https://plus.google.com/{{ member.googlePlus}}" target="_blank"><i class="fa fa-google"></i></a>
+                                                    </li>
+                                                    {% endif %}
+                                                    
+                                                    <li>
+                                                        <a href="https://www.linkedin.com/in/{{ member.linkedIn }}/" target="_blank"><i class="fa fa-linkedin"></i></a>
+                                                    </li>
+                                                    
+                                                    {% if member.github != null %} 
+                                                    <li>
+                                                        <a href="https://github.com/{{ member.github }}" target="_blank"><i class="fa fa-github"></i></a>
+                                                    </li>
+                                                    {% endif %}
+                                                    
+                                                    {% if member.twitter != null %}  
+                                                    <li>
+                                                        <a href="https://twitter.com/{{ member.twitter }}" target="_blank"><i class="fa fa-twitter"></i></a>
+                                                    </li>
+                                                    {% endif %}
+                                                    
+                                                    {% if member.facebook != null %}  
+                                                    <li>
+                                                        <a href="https://www.facebook.com/{{ member.facebook }}" target="_blank"><i class="fa fa-facebook"></i></a>
+                                                    </li>
+                                                    {% endif %}
+                                                    
+                                                    {% if member.website != null %}  
+                                                    <li>
+                                                        <a href="{{member.website}}" target="_blank"><i class="fa fa-eye"></i></a>
+                                                    </li>  
+                                                    {% endif %}
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-6 col-sm-12">
+                                            <div class="block">
+                                                <p>{{ member.description }}</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </section>
+                            <div class="row text-center">
+                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+{% endfor %}
+
 <script type="text/javascript" src="{{ site.baseurl }}/js/about.js"></script>

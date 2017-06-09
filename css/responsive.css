@@ -12,6 +12,18 @@ px      68    160    252    344    436    528    620    712    804    896    */
 -----------------------------------------------------------------
 cols    1     2      3      4      5      6      7      8
 px      68    160    252    344    436    528    620    712    */
+.galleryItem{
+    height: 400px !important; 
+    width: auto; 
+    margin: auto;
+}
+@media screen and (max-width: 580px){
+  .galleryItem{
+    height: 300px !important; 
+    width: auto; 
+    margin: auto;
+}  
+}
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   /*---------------------------------------------
 					Index Start 
@@ -215,7 +227,7 @@ px      68    160    252    */
 	call-to-action Start 
 --*/
   #call-to-action p {
-    padding: 0px 0px 40px;
+    /*padding: 0px 0px 40px;*/
   }
   #call-to-action .btn {
     padding: 10px 20px;

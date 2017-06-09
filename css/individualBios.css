@@ -113,10 +113,9 @@
 --*/
 
 #contact-form {
-
-  padding-top: 70px;
-
-  padding-bottom: 35px;
+  
+  padding-top: 0px;
+  padding-bottom: 20px;
 
 }
 
@@ -188,9 +187,7 @@
 
   margin-right: 0%;
 
-
-
-  width: 70%;
+  width: 380px;
 
   height: auto;
 
@@ -198,9 +195,12 @@
 
 }
 
-
-
-
+@media screen and (max-width: 768px){
+    #contact-form .block img{
+        width: 300px;
+        margin-left: 5px;
+    }
+}
 
 #contact-form .pic-container{
 
@@ -217,15 +217,11 @@
 
 
 #contact-form .pic-container .pic-box{
-
   display:block;
-
   width:100%;
-
-  height:100%px;
+  height: auto;
 
 }
-
 
 
 #contact-form .pic-container .pic-hover{

@@ -1,27 +1,55 @@
----
-layout: page
-title: Blog
-permalink: /blog/
+--- 
+layout: page 
+title: Blog 
+permalink: /blog/ 
 ---
 <!-- Slider Start -->
-<section id="global-header">
-  <div class="container">
-    <div class="row">
-      <div class="col-md-12">
-        <div class="block">
-          <h1>Get the latest on what we're doing</h1>
-          <p>Catch up with us, anytime and anywhere</p>
+<link rel="stylesheet" href="{{ site.baseurl }}/css/program.css" />
+<main>
+    <!--Slider-->
+    <section id="slider" class="wrapper-program-slider" style="background: url(../img/blog/slider.jpeg) no-repeat; background-size: cover;">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-1"></div>
+
+                <div class="col-md-10">
+                    <div class="program-slider">
+                        <h1 class="text-color-white animated fadeInUp">Welcome to &lt;dev/Mission&gt; Blog</h1>
+                        <p class="animated fadeInUp lead">Creating the next generations of tech talent!</p>
+                    </div>
+                </div>
+                <div class="col-md-1"></div>
+            </div>
         </div>
-      </div>
-    </div>
-  </div>
-</section>
-{% for post in site.posts %}
-<div class="post-area">
-  <a href="{{ post.url | prepend: site.baseurl }}" class="bold">{{ post.title }}</a>
-  <p class="post-date">{{ post.date | date_to_long_string }}</p>
-  <p>
-    {{ post.content | strip_html | truncatewords: 50 }}
-  </p>
-</div>
-{% endfor %}
+    </section>
+
+    <!--Main Content-->
+    <section>
+        <div class="container" style="margin-top:5%;">
+
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                    {% for post in site.posts %}
+                    <div class="post-preview text-left">
+                        <a href="{{ post.url | prepend: site.baseurl }}" style="color:black">
+                            <h2 class="blog-h2 post-title">
+                            {{ post.title }}
+                        </h2>
+                            <h3 class="blog-h3 post-subtitle">
+                            {{ post.subtitle}}
+                        </h3>
+                        {% if post.image != null %}
+                        <img src="{{ site.baseurl }}/img/blog/{{ post.image }}" style="width:400px" alt="{{ post.alt }}">
+                        {% endif %}
+                        </a>
+                        <p class="post-meta" style="color:grey">Posted by <a href="#" style="color:black">{{ post.author }}</a> on {{ post.date | date: "%B %-d, %Y" }}</p>
+                    </div>
+                    <hr style="border-top:1px solid #222;">
+                    {% endfor %}
+                </div>
+            </div>
+                <!--End of Program Content-->
+
+
+    </section>
+</main>
