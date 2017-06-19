@@ -454,6 +454,27 @@ h4, h1 {
   display: block;
 }
 
+#closeModal{
+    font-size: 5em;
+    float: right;
+    margin-top: 1%;
+    margin-right: 2%;
+    background-color: white;
+}
+
+#closeModal:hover {
+    color: grey;
+}
+
+@media screen and (max-width: 768px){
+    #closeModal{
+        font-size: 3em;
+        float: right;
+        margin-top: 1%;
+        margin-right: 2%;
+        background-color: white;
+    }
+}
 /*---------------------------------------------
 					Work Close
 -----------------------------------------------*/
