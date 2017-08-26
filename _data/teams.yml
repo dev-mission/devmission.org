@@ -320,25 +320,25 @@
   website:
   description: "Rene is currently working at Paypal as a Building Technician. Before that he was an IT Technician at Love Height Computers in San Francisco. Rene loves working with hardware and he specializes in Refurbishing Computers, Installing OS for Windows and Mac OSX. Rene has worked with Leo Sosa on multiple computer lab roll outs and will be supporting our IT partnerships moving forward."
 
-- name: Jette Hernandez
-  title: Designer and Developer
-  mainImage: JetteHernandez.jpg
-  funImage: coolJett.jpg
-  secImage: inspJette.jpg
-  team: Aspiring software engineer with a creative twist
-  teamClass: techMentorTeam
-  specialty: Design
-  funFact: Handstand Addict
+- name: Arya Zarrinkelk
+  title:
+  mainImage: whitebox.png
+  funImage:
+  secImage:
+  team:
+  teamClass: leadershipTeam
+  specialty:
+  funFact:
   location: San Francisco
-  email: jette.hernan@gmail.com
-  linkedIn: georgettehernandez
+  email:
+  linkedIn: aryazarrinkelk
   twitter:
-  github: rebelskum/rebelskum.github.io
+  github:
   facebook:
   googlePlus:
   Phone:
   website:
-  description: "Hello! My name is Georgette Hernandez, but I go by Jette. I have a great passion for being creative; whether it is through digital design, conceptual art, or solving a problem with code. Specialties are coming up with artistic solutions and exploring new ideas through different types of medium."
+  description:
 
 - name: Ana Medina
   title: Full Stack Developer
