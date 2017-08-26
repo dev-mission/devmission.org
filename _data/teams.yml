@@ -120,7 +120,7 @@
 
 - name: Orrian Willis
   title:
-  mainImage:
+  mainImage: whitebox.png
   funImage:
   secImage:
   team:
@@ -176,7 +176,8 @@
   googlePlus:
   Phone:
   website:
-  description: Test
+  description: "Upon joining Misson Housing in 2009, I worked in various departments before becoming Director of Operations and Resident Services. My passion is helping staff break out of the silos that tend to form in organizations. Collaborate, collaborate, collaborate! It is also important to open up lines of communication between Mission Housing and our residents. This helps make sure we use our resources on things that make a difference in the quality-of-life for our residents.
+  <br>I also work hard at making sure Mission Housing is engaged in the communities around our developments. Our relationships with community-based organizations is important. I want to make sure Mission Housing shows solidarity with the leaders who are making passionate contributions to the fabric of our neighborhoods."
 
 - name: Tony Bear
   title: Mission Housing
@@ -186,7 +187,7 @@
   team: Communications Manager at Mission Housing Development Corporation
   teamClass:
   specialty:
-  funFact:
+  funFact: I love shooting landscape and architectural photography.
   location: San Francisco
   email: tbear@missionhousing.org
   linkedIn: tonybear
@@ -196,7 +197,7 @@
   googlePlus:
   Phone:
   website: http://tonybear.com/#!/page_SPLASH
-  description:
+  description:  "The communications and branding of Mission Housing is my responsibility -- and a great outlet for my desire to help defend the right to affordable housing in the Bay Area. <br>The fun part of my work at Mission Housing is everything! A typical day is filled with lots of creative juice flowing, which makes the hours fly by! Website, magazine, signage, video production, flyers, and more. The goal is to tell the Mission Housing story and demonstrate our capacity to be a trusted corporate citizen in the Mission."
 
 - name: Veronica Green
   title: Mission Housing
@@ -206,7 +207,7 @@
   team: Community Associate Director at Mission Housing Development Corporation
   teamClass:
   specialty:
-  funFact:
+  funFact: When I'm away from work, I love watching movies, hiking, cooking and spending time with family and friends.
   location: San Francisco
   email: vgreen@missionhousing.org
   linkedIn: veronica-green-28024741
@@ -216,7 +217,7 @@
   googlePlus:
   Phone:
   website:
-  description:
+  description: "As Community Associate Director at Mission Housing, I enjoy working with residents, staff and Mission District stakeholders to create a supportive community at Valencia Gardens. My focus is to bring programs that will enrich the lives of our residents while building relationships and connections within and around Valencia Gardens."
 
 
 - name: Christi Baker
@@ -400,11 +401,11 @@
   description: "Christian loves to break things down to fully understand what's going on behind the hood and then go back to fix them. He has a theoretical background from Computer Science and a practical background from Dev Bootcamp."
 
 - name: Marcell Urbina
-  title:
-  mainImage:
-  funImage:
+  title: Full Stack Developer
+  mainImage: MarcellUrbina.jpg
+  funImage: coolMarcell.jpg
   secImage:
-  team:
+  team: Full Stack Developer
   teamClass: webDevelopmentTeam
   specialty:
   funFact:
