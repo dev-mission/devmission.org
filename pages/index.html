@@ -11,7 +11,7 @@ permalink: /
     <div class="row">
       <div class="col-md-10 col-md-offset-2">
         <div class="block">
-          <h1 class="animated fadeInUp">dev/Mission</h1>
+          <h1 class="animated fadeInUp">< dev/Mission ></h1>
           <p class="animated fadeInUp">We aim to train untapped young adults for careers in technology so we can build wealth and prosperity in our local diverse communities.</p>
         </div>
       </div>
@@ -133,17 +133,17 @@ permalink: /
       <div class="col-md-12">
         <div class="block">
           <h2>Want to join our journey?</h2>
-            
-        
+
+
             <div class="row">
                 <div class="col-lg-12">
                    <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
   <!-- Indicators -->
   <ol class="carousel-indicators" style="bottom: -20px;">
     {% for image in site.data.fbImage %}
-    {% if image.position == 0 %}  
+    {% if image.position == 0 %}
     <li data-target="#carousel-example-generic" data-slide-to="{{img.position}}" class="active"></li>
-    {% else %} 
+    {% else %}
     <li data-target="#carousel-example-generic" data-slide-to="{{ image.position }}"></li>
     {% endif %}
     {% endfor %}
@@ -151,20 +151,20 @@ permalink: /
 
   <!-- Wrapper for slides -->
   <div class="carousel-inner" role="listbox">
-      
+
     {% for image in site.data.fbImage %}
       {% if image.position == 0 %}
     <div class="item active">
       {% else %}
-       <div class="item"> 
-    {% endif %} 
+       <div class="item">
+    {% endif %}
       <img class="galleryItem" src="{{ image.photo }}" alt="{{ image.alt }}">
       <div class="carousel-caption" style="padding-bottom: 0px;
     bottom: 0;">
         <p style="text-shadow: 2px 2px 10px mediumblue;">{{ image.title }}</p>
       </div>
-    </div>    
-    {% endfor %} 
+    </div>
+    {% endfor %}
   </div>
 
   <!-- Controls -->
@@ -180,9 +180,9 @@ permalink: /
                 </div>
             </div>
 
-            
-            
-            
+
+
+
             <div class="button-group" data-grouptype="" style="margin-top: 3%;">
                 <a style="font-size: 1.200rem;" href="{{ site.baseurl }}/get-involved/program/participate" class="small button primary radius">Apply Now!</a>
               <a style="font-size: 1.200rem;" href="{{ site.baseurl }}/get-involved/volunteer" class="small button success radius">Get Involved!</a>
