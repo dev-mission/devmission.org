@@ -79,7 +79,7 @@ permalink: /aboutUs/
                         <div class="col-md-1"></div>
                         <div class="col-md-10 text-center">
                             <h1>Web Development Team</h1>
-                            <p>Four young adults came together to build our dev/Mission website using their skills, puting their time, hard work, and dedication. </p>
+                            <p>Five young adults came together to build our dev/Mission website using their skills, puting their time, hard work, and dedication. </p>
                         </div>
                         <div class="col-md-1"></div>
                     </div>
@@ -134,7 +134,7 @@ permalink: /aboutUs/
 
             </div>
         </div>
-    </div>    
+    </div>
 </section>
 <!-- Members Modals -->
  {% for member in site.data.teams %}
@@ -162,11 +162,11 @@ permalink: /aboutUs/
                                                     <h1>{{ member.team }}</h1>
                                                     <h2>{{ member.name }}</h2>
                                                     <ul class="address-block">
-    
+
                                                     <li>
                                                         <i class="ion-bug"></i><strong>Speciality: </strong>{{ member.specialty }}
                                                     </li>
-                                                    
+
                                                     <li>
                                                         <i class="ion-leaf"></i><strong>Fun Fact: </strong> {{ member.funFact }}
                                                     </li>
@@ -180,46 +180,46 @@ permalink: /aboutUs/
                                                         <i class="fa fa-envelope-o"></i>Email: {{ member.email }}
                                                     </li>
                                                     {% endif %}
-                                                    {% if members.phone != null %}  
+                                                    {% if members.phone != null %}
                                                     <li>
                                                         <i class="fa fa-phone"></i>Phone: {{ member.phone }}
                                                     </li>
                                                     {% endif %}
                                                     </ul>
-                                                
+
                                                     <ul class="social-icons">
                                                     {% if member.googlePlus != null %}
                                                     <li>
                                                         <a href="https://plus.google.com/{{ member.googlePlus}}" target="_blank"><i class="fa fa-google"></i></a>
                                                     </li>
                                                     {% endif %}
-                                                    
+
                                                     <li>
                                                         <a href="https://www.linkedin.com/in/{{ member.linkedIn }}/" target="_blank"><i class="fa fa-linkedin"></i></a>
                                                     </li>
-                                                    
-                                                    {% if member.github != null %} 
+
+                                                    {% if member.github != null %}
                                                     <li>
                                                         <a href="https://github.com/{{ member.github }}" target="_blank"><i class="fa fa-github"></i></a>
                                                     </li>
                                                     {% endif %}
-                                                    
-                                                    {% if member.twitter != null %}  
+
+                                                    {% if member.twitter != null %}
                                                     <li>
                                                         <a href="https://twitter.com/{{ member.twitter }}" target="_blank"><i class="fa fa-twitter"></i></a>
                                                     </li>
                                                     {% endif %}
-                                                    
-                                                    {% if member.facebook != null %}  
+
+                                                    {% if member.facebook != null %}
                                                     <li>
                                                         <a href="https://www.facebook.com/{{ member.facebook }}" target="_blank"><i class="fa fa-facebook"></i></a>
                                                     </li>
                                                     {% endif %}
-                                                    
-                                                    {% if member.website != null %}  
+
+                                                    {% if member.website != null %}
                                                     <li>
                                                         <a href="{{member.website}}" target="_blank"><i class="fa fa-eye"></i></a>
-                                                    </li>  
+                                                    </li>
                                                     {% endif %}
                                                 </ul>
                                             </div>
