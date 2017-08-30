@@ -202,7 +202,7 @@
 - name: Veronica Green
   title: Mission Housing
   mainImage: VeronicaGreen.jpg
-  funImage: coolVeronica.jpg 
+  funImage: coolVeronica.jpg
   secImage:
   team: Community Associate Director at Mission Housing Development Corporation
   teamClass:
@@ -350,7 +350,7 @@
   specialty:
   funFact:
   location: San Francisco
-  email:
+  email: zuri@devmission.org
   linkedIn:
   twitter:
   github:
@@ -470,7 +470,7 @@
   specialty:
   funFact:
   location: San Francisco
-  email: marcell@marcellurbina.com
+  email: marcell@devmission.org
   linkedIn: marcellurbina
   twitter: itscellycel
   github: itscellycel
@@ -490,7 +490,7 @@
   specialty: Latin Studies
   funFact: I like to paint and read Spanish literature.
   location: San Francisco
-  email: stephaniem.cueto@gmail.com
+  email: stephanie@gmail.com
   linkedIn: stephaniecueto
   twitter:
   github: smcueto
