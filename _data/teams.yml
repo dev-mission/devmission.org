@@ -320,6 +320,66 @@
   website:
   description: "Rene is currently working at Paypal as a Building Technician. Before that he was an IT Technician at Love Height Computers in San Francisco. Rene loves working with hardware and he specializes in Refurbishing Computers, Installing OS for Windows and Mac OSX. Rene has worked with Leo Sosa on multiple computer lab roll outs and will be supporting our IT partnerships moving forward."
 
+- name: Oscar Chan
+  title:
+  mainImage: whitebox.png
+  funImage:
+  secImage:
+  team:
+  teamClass: ITdep
+  specialty:
+  funFact:
+  location: San Francisco
+  email:
+  linkedIn:
+  twitter:
+  github:
+  facebook:
+  googlePlus:
+  Phone:
+  website:
+  description:
+
+- name: Zuri Gonzalez
+  title:
+  mainImage: whitebox.png
+  funImage:
+  secImage:
+  team:
+  teamClass: ITdep
+  specialty:
+  funFact:
+  location: San Francisco
+  email:
+  linkedIn:
+  twitter:
+  github:
+  facebook:
+  googlePlus:
+  Phone:
+  website:
+  description:
+
+- name: Emanuel Flores
+  title:
+  mainImage: whitebox.png
+  funImage:
+  secImage:
+  team:
+  teamClass: ITdep
+  specialty:
+  funFact:
+  location: San Francisco
+  email:
+  linkedIn:
+  twitter:
+  github:
+  facebook:
+  googlePlus:
+  Phone:
+  website:
+  description:
+
 - name: Arya Zarrinkelk
   title:
   mainImage: whitebox.png
@@ -420,7 +480,7 @@
   website: http://www.marcellurbina.com
   description:
 
-- name: Stephanie cueto
+- name: Stephanie Cueto
   title: Aspiring Developer
   mainImage: stephanieCueto.jpg
   funImage: coolSteph.jpg
