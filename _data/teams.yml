@@ -400,6 +400,46 @@
   website:
   description: Arya Zarrinkelk is the Steve Kerr of career counseling. Never officially being a career counselor before BAVC, Arya has helped over 250 clients ranging from ages seventeen to seventy find opportunities within his first two years at BAVC. Arya balances a warm and fun approach to career counseling with a strict level of accountability. Arya won't let his clients fail. His mantra is "lent now, mardi gras later." He attributes his success to his colleagues at BAVC, playing bass, and his innate ability to grow amazing beards.
 
+- name: Matthew Graff
+  title:
+  mainImage: whitebox.png
+  funImage:
+  secImage:
+  team:
+  teamClass: techMentorTeam
+  specialty:
+  funFact:
+  location: San Francisco
+  email:
+  linkedIn:
+  twitter:
+  github:
+  facebook:
+  googlePlus:
+  Phone:
+  website:
+  description:
+
+- name: Bryan Bierce
+  title:
+  mainImage: whitebox.png
+  funImage:
+  secImage:
+  team:
+  teamClass: techMentorTeam
+  specialty:
+  funFact:
+  location: San Francisco
+  email:
+  linkedIn:
+  twitter:
+  github:
+  facebook:
+  googlePlus:
+  Phone:
+  website:
+  description:
+
 - name: Ana Medina
   title: Full Stack Developer
   mainImage: ana.jpg
