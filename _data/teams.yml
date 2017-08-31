@@ -1,7 +1,7 @@
 - name: Leonardo Sosa
   title: CEO and Executive Director
   mainImage: ceo.png
-  funImage: coolLeo.jpg
+  funImage: cooldjleonardo.jpg
   secImage: focusLeo.png
   team: CEO and Executive Director
   teamClass: leadershipTeam
@@ -161,8 +161,8 @@
 - name: Marcia Contreras
   title: Mission Housing
   mainImage: MarciaContreras.jpg
-  funImage:
-  secImage:
+  funImage: coolMarcia.jpg
+  secImage: inspMarcia.jpg
   team: Director of Operations and Resident Services at Mission Housing Development Corporation
   teamClass:
   specialty:
@@ -203,7 +203,7 @@
   title: Mission Housing
   mainImage: VeronicaGreen.jpg
   funImage: coolVeronica.jpg
-  secImage:
+  secImage: inspVero.jpg
   team: Community Associate Director at Mission Housing Development Corporation
   teamClass:
   specialty:
@@ -321,9 +321,9 @@
   description: "Rene is currently working at Paypal as a Building Technician. Before that he was an IT Technician at Love Height Computers in San Francisco. Rene loves working with hardware and he specializes in Refurbishing Computers, Installing OS for Windows and Mac OSX. Rene has worked with Leo Sosa on multiple computer lab roll outs and will be supporting our IT partnerships moving forward."
 
 - name: Oscar Chan
-  title:
-  mainImage: whitebox.png
-  funImage:
+  title: IT Technician
+  mainImage: oscar.jpg
+  funImage: cooloscar.jpg
   secImage:
   team:
   teamClass: ITdep
@@ -338,10 +338,10 @@
   googlePlus:
   Phone:
   website:
-  description:
+  description: Oscar is currently a IT Consultant Assistant. He currently is pursuing a BS Degree in Computer Science at San Francisco State. He also knows how to Refurbished Computers, and fix mobile devices. Oscar has worked with Leo Sosa on the Dev/mission computer lab roll outs and will be supporting our IT partnerships moving forward.
 
 - name: Zuri Gonzalez
-  title:
+  title: IT Technician
   mainImage: whitebox.png
   funImage:
   secImage:
@@ -361,24 +361,24 @@
   description:
 
 - name: Emanuel Flores
-  title:
-  mainImage: whitebox.png
-  funImage:
+  title: IT Technician
+  mainImage: emanuel.jpg
+  funImage: coolemanuel.png
   secImage:
   team:
   teamClass: ITdep
-  specialty:
-  funFact:
+  specialty: Computer Networks and IT
+  funFact: Computer Enthusiast
   location: San Francisco
-  email:
-  linkedIn:
+  email: emanuel@devmission.org
+  linkedIn: emanuelflores
   twitter:
   github:
   facebook:
   googlePlus:
   Phone:
   website:
-  description:
+  description: Born and raised in the Mission District of San Francisco, Emanuel, has always had a curiosity about technology from a young age. His goal is to become a Software Engineer or work in IT as a Network Engineer. Emanuel has experience working with C, C++, and Javascript and is currently working on making a Hardware Tracker using node.js.
 
 - name: Arya Zarrinkelk
   title:
@@ -387,8 +387,8 @@
   secImage:
   team:
   teamClass: leadershipTeam
-  specialty:
-  funFact:
+  specialty: As described by people he has served over the years "Arya is a career rockstar/motivational badass."
+  funFact: I speak 3 different languages, served in the Peace Corps, play bass in 2 different bands, and I used to foster kitties in my spare time.
   location: San Francisco
   email:
   linkedIn: aryazarrinkelk
@@ -504,7 +504,7 @@
   title: Full Stack Developer
   mainImage: MarcellUrbina.jpg
   funImage: coolMarcell.jpg
-  secImage:
+  secImage: inspMarcell.jpg
   team: Full Stack Developer
   teamClass: webDevelopmentTeam
   specialty:
