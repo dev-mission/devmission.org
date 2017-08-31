@@ -138,8 +138,17 @@ section .program-menu,
 
 /*---Program details---*/
 
+#debugcontainer{
+  padding-top: 2%;
+}
+
 main .overview {
     margin-top: 4%;
+}
+
+#overview{
+  padding-top: 0;
+  margin-top: 0;
 }
 
 .overview,
