@@ -342,7 +342,7 @@
 
 - name: Zuri Gonzalez
   title: IT Technician
-  mainImage: whitebox.png
+  mainImage: Zuri.jpg
   funImage: coolZuri.jpg
   secImage:
   team:
@@ -351,13 +351,13 @@
   funFact:
   location: San Francisco
   email: zuri@devmission.org
-  linkedIn:
+  linkedIn: zuri-gonzalez
   twitter:
-  github:
-  facebook:
+  github: zurigo
+  facebook: zurisgom
   googlePlus:
   Phone:
-  website:
+  website: zurisgo.com
   description: I started as a Volunteer and now I’m all over IT, I love programming because I can create a hole new world, but also I like getting my hands dirty by doing hardware. Every time I get to repair a lonely broken desktop or laptop, I get so exited!! I recently attended a Salesfore Admin 201 bootcamp but I want to pursue a degree on Computer Science and IT. In the future I want to become someone that helps inspire the empowerment in young adults who are passionate about technology.
 
 - name: Emanuel Flores
