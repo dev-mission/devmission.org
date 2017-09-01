@@ -343,8 +343,8 @@
 - name: Zuri Gonzalez
   title: IT Technician
   mainImage: Zuri.jpg
-  funImage: coolZuri.jpg
-  secImage:
+  funImage: coolZuri.png
+  secImage: inspZuri.jpg
   team:
   teamClass: ITdep
   specialty: IT
