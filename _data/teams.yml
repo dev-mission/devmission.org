@@ -118,25 +118,25 @@
   website: https://campoy.cat/
   description: "International software engineer with an extensive experience on C++ developing. Specially interested on software engineering issues, software architecture and design. My aim is to increase my experience on software design and project management, ideally in a dynamic environment.Specialties: Design patterns, software design (UML, RUP) and architecture, advanced C++ (stl, templates, debugging, profiling). Heterogeneous education background (AI, computer graphics, algebra and mathematics)."
 
-- name: Orrian Willis
-  title:
-  mainImage: whitebox.png
-  funImage:
-  secImage:
-  team:
-  teamClass: leadershipTeam
-  specialty:
-  funFact:
-  location: San Francisco
-  email:
-  linkedIn:
-  twitter:
-  github:
-  facebook:
-  googlePlus:
-  Phone:
-  website:
-  description:
+# - name: Orrian Willis
+#   title:
+#   mainImage: whitebox.png
+#   funImage:
+#   secImage:
+#   team:
+#   teamClass: leadershipTeam
+#   specialty:
+#   funFact:
+#   location: San Francisco
+#   email:
+#   linkedIn:
+#   twitter:
+#   github:
+#   facebook:
+#   googlePlus:
+#   Phone:
+#   website:
+#   description:
 
 - name: Sam Moss
   title: Mission Housing
@@ -400,45 +400,45 @@
   website:
   description: Arya Zarrinkelk is the Steve Kerr of career counseling. Never officially being a career counselor before BAVC, Arya has helped over 250 clients ranging from ages seventeen to seventy find opportunities within his first two years at BAVC. Arya balances a warm and fun approach to career counseling with a strict level of accountability. Arya won't let his clients fail. His mantra is "lent now, mardi gras later." He attributes his success to his colleagues at BAVC, playing bass, and his innate ability to grow amazing beards.
 
-- name: Matthew Graff
-  title:
-  mainImage: whitebox.png
-  funImage:
-  secImage:
-  team:
-  teamClass: techMentorTeam
-  specialty:
-  funFact:
-  location: San Francisco
-  email:
-  linkedIn:
-  twitter:
-  github:
-  facebook:
-  googlePlus:
-  Phone:
-  website:
-  description:
+# - name: Matthew Graff
+#   title:
+#   mainImage: whitebox.png
+#   funImage:
+#   secImage:
+#   team:
+#   teamClass: techMentorTeam
+#   specialty:
+#   funFact:
+#   location: San Francisco
+#   email:
+#   linkedIn:
+#   twitter:
+#   github:
+#   facebook:
+#   googlePlus:
+#   Phone:
+#   website:
+#   description:
 
-- name: Bryan Bierce
-  title:
-  mainImage: whitebox.png
-  funImage:
-  secImage:
-  team:
-  teamClass: techMentorTeam
-  specialty:
-  funFact:
-  location: San Francisco
-  email:
-  linkedIn:
-  twitter:
-  github:
-  facebook:
-  googlePlus:
-  Phone:
-  website:
-  description:
+# - name: Bryan Bierce
+#   title:
+#   mainImage: whitebox.png
+#   funImage:
+#   secImage:
+#   team:
+#   teamClass: techMentorTeam
+#   specialty:
+#   funFact:
+#   location: San Francisco
+#   email:
+#   linkedIn:
+#   twitter:
+#   github:
+#   facebook:
+#   googlePlus:
+#   Phone:
+#   website:
+#   description:
 
 - name: Ana Medina
   title: Full Stack Developer
@@ -508,7 +508,7 @@
   team: Full Stack Developer
   teamClass: webDevelopmentTeam
   specialty:
-  funFact:
+  funFact: I was an entrepreneur at the age of 16.
   location: San Francisco
   email: marcell@devmission.org
   linkedIn: marcellurbina
