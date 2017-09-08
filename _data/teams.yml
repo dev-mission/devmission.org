@@ -420,25 +420,25 @@
 #   website:
 #   description:
 
-# - name: Bryan Bierce
-#   title:
-#   mainImage: whitebox.png
-#   funImage:
-#   secImage:
-#   team:
-#   teamClass: techMentorTeam
-#   specialty:
-#   funFact:
-#   location: San Francisco
-#   email:
-#   linkedIn:
-#   twitter:
-#   github:
-#   facebook:
-#   googlePlus:
-#   Phone:
-#   website:
-#   description:
+- name: Bryan Bierce
+  title: Software Engineer
+  mainImage: BryanBierce.jpg
+  funImage: coolBryan.jpg
+  secImage:
+  team: Tech Mentor
+  teamClass: techMentorTeam
+  specialty: JavaScript
+  funFact:
+  location: San Francisco
+  email:
+  linkedIn: bryanbierce
+  twitter: BryanBierce
+  github: bryanbierce
+  facebook:
+  googlePlus:
+  Phone:
+  website:  https://bryanbierce.com/
+  description:
 
 - name: Ana Medina
   title: Full Stack Developer
@@ -661,7 +661,7 @@
   description: I’m from Cartagena, Colombia and I’ve been living in San Francisco for four years. I have an Industrial Engineering bachelor’s degree from Colombia and a Marketing associate from CCSF. Also I have experience in data analytics. Even though my two backgrounds are different, I love getting insights from the numbers and at the same time I like to be creative all the time. For me marketing and data results work together. Moving here it has been a great experience with a lot of growth personally and professionally. <br>If I can describe my self in five words, they will be Latina, Independent, Feminist, Folklore Lover, and Passionate.
 
 - name: Noé Roman
-  title:
+  title: Communications Volunteer
   mainImage: NoeRoman.jpg
   funImage: coolNoe.jpg
   secImage: inspNoe.jpg
