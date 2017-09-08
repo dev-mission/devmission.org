@@ -400,26 +400,6 @@
   website:
   description: Arya Zarrinkelk is the Steve Kerr of career counseling. Never officially being a career counselor before BAVC, Arya has helped over 250 clients ranging from ages seventeen to seventy find opportunities within his first two years at BAVC. Arya balances a warm and fun approach to career counseling with a strict level of accountability. Arya won't let his clients fail. His mantra is "lent now, mardi gras later." He attributes his success to his colleagues at BAVC, playing bass, and his innate ability to grow amazing beards.
 
-- name: Aura Barba Serrato
-  title:
-  mainImage: AuraBarba.jpg
-  funImage: coolAura.jpg
-  secImage: inspAura.jpg
-  team:
-  teamClass:
-  specialty: Marketing and Data Analytics
-  funFact: I’m not a professional dancer but anyways I’ve been dancing with “La Cumbiamba Colombiana” at the San Francisco Carnaval
-  location: San Francisco
-  email: auramil1988@gmail.com
-  linkedIn: aura-barba-serrato-7393384a
-  twitter:
-  github:
-  facebook: aura.barva
-  googlePlus:
-  Phone: (415) 632-9764
-  website:
-  description: I’m from Cartagena, Colombia and I’ve been living in San Francisco for four years. I have an Industrial Engineering bachelor’s degree from Colombia and a Marketing associate from CCSF. Also I have experience in data analytics. Even though my two backgrounds are different, I love getting insights from the numbers and at the same time I like to be creative all the time. For me marketing and data results work together. Moving here it has been a great experience with a lot of growth personally and professionally. <br>If I can describe my self in five words, they will be Latina, Independent, Feminist, Folklore Lover, and Passionate.
-
 # - name: Matthew Graff
 #   title:
 #   mainImage: whitebox.png
@@ -659,3 +639,43 @@
   Phone:
   website: http://www.ismaelsosadesign.com/
   description: "Born and raised in San Francisco, I wanted to experience the world faster so I finished High School a year early. Took the fall off and now I'm currently studying Digital Design at Miami Ad School.<br> <a href='https://www.pinterest.com/ismaelsosa98/' target='_blank'><i class='fa fa-pinterest-p'></i>  Pinterest Page</a><br><a href='https://www.behance.net/IsmaelSosa' target='_blank'><i class='fa fa-behance'></i>  Behance Page</a>"
+
+- name: Aura Barba Serrato
+  title: Marketing & Communications Volunteer
+  mainImage: AuraBarba.jpg
+  funImage: coolAura.jpg
+  secImage: inspAura.jpg
+  team:
+  teamClass: designMediaTeam
+  specialty: Marketing and Data Analytics
+  funFact: I’m not a professional dancer but anyways I’ve been dancing with “La Cumbiamba Colombiana” at the San Francisco Carnaval
+  location: San Francisco
+  email: auramil1988@gmail.com
+  linkedIn: aura-barba-serrato-7393384a
+  twitter:
+  github:
+  facebook: aura.barva
+  googlePlus:
+  Phone: (415) 632-9764
+  website:
+  description: I’m from Cartagena, Colombia and I’ve been living in San Francisco for four years. I have an Industrial Engineering bachelor’s degree from Colombia and a Marketing associate from CCSF. Also I have experience in data analytics. Even though my two backgrounds are different, I love getting insights from the numbers and at the same time I like to be creative all the time. For me marketing and data results work together. Moving here it has been a great experience with a lot of growth personally and professionally. <br>If I can describe my self in five words, they will be Latina, Independent, Feminist, Folklore Lover, and Passionate.
+
+- name: Noé Roman
+  title:
+  mainImage: NoeRoman.jpg
+  funImage: coolNoe.jpg
+  secImage: inspNoe.jpg
+  team:
+  teamClass: designMediaTeam
+  specialty: Art and Design and Having Fun
+  funFact: I designed the Debug Beetle
+  location: San Francisco
+  email: noeart2012@gmail.com
+  linkedIn: noe-r-6344b590
+  twitter:
+  github: kusalite
+  facebook:
+  googlePlus:
+  Phone:
+  website: kusalite.github.io
+  description: Born and Raised in San Francisco; Passionate about Art and Technology. Currently a student at City College of San Francisco. I want to move back into the city one day, and I will be doing that by continuing school and learning coding with the support of dev/Mission.
