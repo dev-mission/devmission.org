@@ -220,25 +220,25 @@
   description: "As Community Associate Director at Mission Housing, I enjoy working with residents, staff and Mission District stakeholders to create a supportive community at Valencia Gardens. My focus is to bring programs that will enrich the lives of our residents while building relationships and connections within and around Valencia Gardens."
 
 
-- name: Christi Baker
-  title: Chrysails Consulting
-  mainImage: ChristiBaker.jpg
-  funImage: coolChristi.jpg
-  secImage:
-  team: Chrysails Consulting<
-  teamClass: leadershipTeam
-  specialty: Training, Curriculum Development, Coaching
-  funFact: She emerged from the chrysalis of unconscious behavior
-  location: San Francisco
-  email: christi@chryscon.com
-  linkedIn: christi-baker-b1b3063
-  twitter:
-  github:
-  facebook:
-  googlePlus:
-  Phone:
-  website: http://www.chryscon.com/
-  description: "Christi Baker founded Chrysalis Consulting in 1999, which facilitates community change by providing training, curriculum development, technical assistance and specialized research services to nonprofit organizations focusing on homeownership and asset building. Clients include local community-based organizations and national nonprofit intermediaries.<br><br>Ms. Baker has authored various publications, practitioner curricula and consumer training manuals related to single-family homeownership and asset building. Prior to consulting, she served as deputy director for San Diego Neighborhood Housing Services (now Community HousingWorks) and assisted with the coordination of NeighborWorks America’s Campaign for Homeownership.<br><br>Through her consulting practice and employment, Ms. Baker has 16 years of experience in the homeownership and asset-building fields. She serves on the national advisory council for the NeighborWorks Center for Homeownership Education and Counseling (NCHEC) and has been a faculty member of NeighborWorks training since 1996."
+# - name: Christi Baker
+#   title: Chrysails Consulting
+#   mainImage: ChristiBaker.jpg
+#   funImage: coolChristi.jpg
+#   secImage:
+#   team: Chrysails Consulting<
+#   teamClass: leadershipTeam
+#   specialty: Training, Curriculum Development, Coaching
+#   funFact: She emerged from the chrysalis of unconscious behavior
+#   location: San Francisco
+#   email: christi@chryscon.com
+#   linkedIn: christi-baker-b1b3063
+#   twitter:
+#   github:
+#   facebook:
+#   googlePlus:
+#   Phone:
+#   website: http://www.chryscon.com/
+  # description: Christi Baker founded Chrysalis Consulting in 1999, which facilitates community change by providing training, curriculum development, technical assistance and specialized research services to nonprofit organizations focusing on homeownership and asset building. Clients include local community-based organizations and national nonprofit intermediaries.<br><br>Ms. Baker has authored various publications, practitioner curricula and consumer training manuals related to single-family homeownership and asset building. Prior to consulting, she served as deputy director for San Diego Neighborhood Housing Services (now Community HousingWorks) and assisted with the coordination of NeighborWorks America’s Campaign for Homeownership.<br><br>Through her consulting practice and employment, Ms. Baker has 16 years of experience in the homeownership and asset-building fields. She serves on the national advisory council for the NeighborWorks Center for Homeownership Education and Counseling (NCHEC) and has been a faculty member of NeighborWorks training since 1996.
 
 - name: Eiman Zolfaghari
   title: IOS Developer
