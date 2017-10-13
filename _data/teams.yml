@@ -330,7 +330,7 @@
   specialty:
   funFact:
   location: San Francisco
-  email: 
+  email:
   linkedIn: oscar-chan-
   twitter:
   github:
@@ -465,7 +465,7 @@
   mainImage: ana.jpg
   funImage: ana-fun.jpg
   secImage:
-  team: Leadership Team
+  team:
   teamClass: techMentorTeam
   specialty: Full Stack Developer
   funFact: Loves to learn
@@ -527,7 +527,7 @@
   secImage: inspMarcell.jpg
   team: Full Stack Developer
   teamClass: webDevelopmentTeam
-  specialty:
+  specialty: 
   funFact: I was an entrepreneur at the age of 16.
   location: San Francisco
   email: marcell@devmission.org
