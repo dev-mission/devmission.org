@@ -128,7 +128,12 @@ select {
 .row {
   margin: 0 auto;
   max-width: 62.5rem;
-  width: 100%; }
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  align-items: center;
+}
   .row:before, .row:after {
     content: " ";
     display: table; }
@@ -179,6 +184,19 @@ select {
 .columns +
 .columns.end {
   float: left; }
+
+.row > .col-xs-6 > .service-item {
+      display:flex;
+      justify-content: center;
+      padding: 10px;
+  }
+
+  .service-item > .sponsor-img {
+    object-fit: contain;
+    max-height:120px;
+
+  }
+
 
 @media only screen {
   .small-push-0 {
