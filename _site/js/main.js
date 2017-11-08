@@ -47,6 +47,7 @@ function submitParticipateForm() {
 
     $('#participate-form-submit').click(function (e) {
         e.preventDefault();
+        console.log("SDNJNFß")
         var contactFirstName = $('#contact-first-name').val();
         var contactMiddleName = $('#contact-middle-name').val();
         var contactLastName = $('#contact-last-name').val();
