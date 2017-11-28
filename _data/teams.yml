@@ -398,7 +398,7 @@
   googlePlus:
   Phone:
   website:
-  description: Born and raised in the Bay Area. I've remained here all my life. I am a volunteer who enjoys helping students with any computer hardware or coding projects. I’m undecided, but aspire to be either an electrical or mechanical engineer. I'm currently a student at City College of San Francisco (CCSF) pursuing an associate degree in CNIT (computer networking and information technologies) and engineering. I plan to transfer to a university to further my engineering knowledge following my time at CCSF. Although, I'm always looking for a way to expand my knowledge of anything that sparks my interest. 
+  description: Born and raised in the Bay Area. I've remained here all my life. I am a volunteer who enjoys helping students with any computer hardware or coding projects. I’m undecided, but aspire to be either an electrical or mechanical engineer. I'm currently a student at City College of San Francisco (CCSF) pursuing an associate degree in CNIT (computer networking and information technologies) and engineering. I plan to transfer to a university to further my engineering knowledge following my time at CCSF. Although, I'm always looking for a way to expand my knowledge of anything that sparks my interest.
 
 - name: Arya Zarrinkelk
   title: Career Counselor Specialist
@@ -470,7 +470,7 @@
   specialty: Full Stack Developer
   funFact: Loves to learn
   location: San Francisco
-  email: jorgealbertoortiz52@gmail.com
+  email:
   linkedIn: anammedina
   twitter:
   github:
@@ -580,25 +580,25 @@
   website:
   description: "Daniela is currently the Program Coordinator of the Volunteer Legal Services Corporation in Oakland, a nonprofit dedicated to improving access to justice to the low-income residents of Alameda County. As a first generation college graduate and DACA recipient, Daniela has a strong commitment to facilitating and creating pathways for low-income diverse communities to succeed in education and in the workforce.</br></br>Previous to her role at VLSC, Daniela worked for the Pomona College Academy for Youth Success, a college access program committed to increasing the number of students from low-income and historically underrepresented backgrounds in highly selective colleges and universities. Through her personal experience and work with low-income and minority communities, Daniela has seen the limitless potential of diverse communities when given the tools and opportunities to succeed. She hopes to one day lead diversity initiatives for tech companies that are ready to invest in the infrastructure necessary to recruit and retain the most talented and diverse candidates in our communities. "
 
-- name: Jorge
-  title: Security
-  mainImage: jorge.jpg
-  funImage: jorge-fun.jpg
-  secImage: jorge-fun.jpg
-  team: Leadership Team
-  teamClass: leadershipTeam
-  specialty: Security
-  funFact: Loves Chocolate
-  location: San Francisco
-  email: jorgealbertoortiz52@gmail.com
-  linkedIn: jorgea-ortiz
-  twitter: jorgea-ortiz
-  github:
-  facebook:
-  googlePlus:
-  Phone:
-  website:
-  description: "I am a information security analyst by trade, but a hacker at heart. I specialize in breaking things rather than creating them, I enjoy writing python scripts that make my life easier. "
+# - name: Jorge
+#   title: Security
+#   mainImage: jorge.jpg
+#   funImage: jorge-fun.jpg
+#   secImage: jorge-fun.jpg
+#   team: Leadership Team
+#   teamClass: leadershipTeam
+#   specialty: Security
+#   funFact: Loves Chocolate
+#   location: San Francisco
+#   email: jorgealbertoortiz52@gmail.com
+#   linkedIn: jorgea-ortiz
+#   twitter: jorgea-ortiz
+#   github:
+#   facebook:
+#   googlePlus:
+#   Phone:
+# website:
+# description: "I am a information security analyst by trade, but a hacker at heart. I specialize in breaking things rather than creating them, I enjoy writing python scripts that make my life easier. "
 
 - name: Yuridia Larios
   title: Front-End Developer
