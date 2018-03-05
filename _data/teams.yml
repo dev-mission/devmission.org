@@ -98,25 +98,7 @@
   website: http://abraham.mx/
   description: 'Abraham Velazquez Tello from the dev/Mission leadership team, is a Sr Frontend Engineer at Dropbox, proprietor of <a href="http://lunaroja.org">lunaroja.org</a> and the founder of <a href="http://Gozamos.com">gozamos.com</a>. His goal as a hybrid developer-designer, is to executing high‑quality user experiences for the open web. Abraham has worked for clients ranging from not‑for‑profit organizations serving minority communities to Fortune 500 companies. <br><br>After teaching 4 Mission Techie Cohorts, more than 100 hours of HTML, CSS and JavaScript to over 75 Young Adults from underserved communities, Abraham have also help create not only a pipeline for diversity but the next wave of full stack developers, engineers, programmers, and IT Technicians. '
 
-- name: Francesc Campoy
-  title: Developer Advocate at Google
-  mainImage: FrancesCampoy.jpg
-  funImage: coolFrancesc.jpg
-  secImage: inspFrancesc.jpg
-  team: Google Software Engineer
-  teamClass: leadershipTeam
-  specialty: Software Engineering
-  funFact:
-  location: San Francisco
-  email: campoy@golang.org
-  linkedIn: campoy
-  twitter: francesc
-  github: campoy
-  facebook:
-  googlePlus: +FrancescCampoyFlores
-  Phone:
-  website: https://campoy.cat/
-  description: "International software engineer with an extensive experience on C++ developing. Specially interested on software engineering issues, software architecture and design. My aim is to increase my experience on software design and project management, ideally in a dynamic environment.Specialties: Design patterns, software design (UML, RUP) and architecture, advanced C++ (stl, templates, debugging, profiling). Heterogeneous education background (AI, computer graphics, algebra and mathematics)."
+
 
 # - name: Orrian Willis
 #   title:
@@ -144,7 +126,6 @@
   funImage: coolSam.jpg
   secImage: inspSam.jpg
   team: Executive Director at Mission Housing Development Corporation
-  teamClass: leadershipTeam
   specialty: Leadership
   funFact: I enjoy seeing live music and going to Giants games. I’m also happy to play pool at my local bar and not do much else.
   location: San Francisco
@@ -520,25 +501,7 @@
   website: http://csalas.tech/
   description: "Christian loves to break things down to fully understand what's going on behind the hood and then go back to fix them. He has a theoretical background from Computer Science and a practical background from Dev Bootcamp."
 
-- name: Marcell Urbina
-  title: Full Stack Developer
-  mainImage: MarcellUrbina.jpg
-  funImage: coolMarcell.jpg
-  secImage: inspMarcell.jpg
-  team: Full Stack Developer
-  teamClass: webDevelopmentTeam
-  specialty:
-  funFact: I was an entrepreneur at the age of 16.
-  location: San Francisco
-  email: marcell@devmission.org
-  linkedIn: marcellurbina
-  twitter: itscellycel
-  github: itscellycel
-  facebook:
-  googlePlus:
-  Phone:
-  website: http://www.marcellurbina.com/
-  description:
+
 
 - name: Stephanie Cueto
   title: Aspiring Developer
