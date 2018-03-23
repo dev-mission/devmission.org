@@ -4,7 +4,7 @@ Future devmission.org
 ## Development
 ### OS X
 1. If you don't have homebrew installed, [install homebrew](https://brew.sh/)
-1. `brew instll ruby`
+1. `brew install ruby`
 1. `sudo gem install bundler`
 1. `mkdir vendor && bundler install --path vendor`
 1. `bundle exec jekyll --serve`
