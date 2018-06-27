@@ -14,18 +14,20 @@ We want to take a moment to acknowledge all the organizations that have supporte
 
 The City Administrator’s Office and the SF Committee on Information Technology
 
-Latino Community Foundation Latino Community Foundation
+Latino Community Foundation
 
-Mayors Office of Housing and Community Development San Francisco Mayor's Office of Housing and Community Development
+Mayors Office of Housing and Community Development
 
-The Office of Economic and Workforce Development San Francisco Office of Economic and Workforce Development (OEWD)
+The Office of Economic and Workforce Development (OEWD)
 
-Microsoft Microsoft
+Microsoft
 
-Mission Housing Development Corporation Mission Housing Development Corporation
+Mission Housing Development Corporation
 
 FRH Consulting
 
-SF Housing Development Corporation San Francisco Housing Development Corporation
+SF Housing Development Corporation
+
+Congratulations to all graduates who are now part of the "next generation of tech talent"
 
 #graduates #diversityintech #creatingthenextgenoftech #youbelonghere
