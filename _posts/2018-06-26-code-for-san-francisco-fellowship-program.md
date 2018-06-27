@@ -4,6 +4,8 @@ title: Code for San Francisco Fellowship Program
 subtitle: Apply by July 15 for a 6-month fellowship with Code for San Francisco
 date: 2018-06-26
 author: Leo Sosa
+image: code-for-san-francisco.png
+alt: Code for San Francisco logo
 ---
 ## Overview
 
