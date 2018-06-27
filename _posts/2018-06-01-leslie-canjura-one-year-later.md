@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Leslie Canjura One Year Later!
-subtitle: Creating the next generations of tech talent!
+subtitle: Success Story
 date: 2017-04-03 
 author: Leonardo Sosa
 image: lesliecanjura.jpg
