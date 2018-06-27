@@ -1,6 +1,6 @@
 ---
 layout: post
-title: dev/Mission Fall 2017 Cohort # 2
+title: dev/Mission Fall 2017 Cohort 2
 subtitle: Programming
 date: 2017-12-10 
 author: Leonardo Sosa
