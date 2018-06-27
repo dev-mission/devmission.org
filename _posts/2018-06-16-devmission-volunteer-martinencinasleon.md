@@ -2,7 +2,7 @@
 layout: post
 title: dev/Mission Volunteer Story Martin Encinas Leon
 subtitle: Volunteer Story 
-date: 2018-06-26
+date: 2018-06-16
 author: Leonardo Sosa
 image: devmission-logo.png
 alt: devMission logo
