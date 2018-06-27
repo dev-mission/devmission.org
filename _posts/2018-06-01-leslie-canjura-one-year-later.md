@@ -2,7 +2,7 @@
 layout: post
 title: Leslie Canjura One Year Later!
 subtitle: Success Story
-date: 2017-04-03 
+date: 2018-06-01
 author: Leonardo Sosa
 image: lesliecanjura.jpg
 alt: lesliecanjura.jpg
