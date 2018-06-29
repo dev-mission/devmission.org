@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Internship Story: Graduate Michelle Yeung
+title: Internship Story Graduate Michelle Yeung
 subtitle: IT Support Internship
 date: 2018-06-29
 author: Leo Sosa
