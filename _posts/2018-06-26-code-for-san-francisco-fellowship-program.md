@@ -23,15 +23,15 @@ Visit the Code for San Francisco website for more info: [http://codeforsanfranci
 
 1. Applicants to the C4SF Fellowship Program must be graduates of the dev/Mission program.
 1. Applicants must be able to commit to participating over a 6-month period, from **August 2018** to **January 2019**, including regular attendance at the **C4SF Weekly Civic Hack Night** on **Wednesdays** from **6-9pm** at C4SF HQ (155 9th St, San Francisco).
-1. Applicants should visit a C4SF Weekly Civic Hack Night on **June 27** or **July 11** to learn more about C4SF and the types of projects they work on.
+1. Applicants should visit a C4SF Weekly Civic Hack Night on **June 27**, **July 11**, or **July 18** to learn more about C4SF and the types of projects they work on.
 
 ## Application Process<br><br>
 
 1. **June 25** – Application submission period opens
-1. **July 15** – Online applications due. Each applicant must submit an application that includes a brief written Project Pitch following the template below.
-1. **July 18** – A C4SF and dev/Mission jury will review the submitted applications and select finalists to present and discuss their Project Pitch in person
-1. **July 25** – Finalists will present and discuss their Project Pitch to the jury at C4SF HQ (155 9th St, San Francisco). While waiting to present, finalists can learn more about the C4SF Weekly Civic Hack Night that will be going on at the same time.
-1. **July 25** – The C4SF and dev/Mission jury will announce the selection of two of the Project Pitch ideas for further exploration and development and the names of the four Fellows who will work on the projects in pairs, to begin August 1.
+1. **July 22** – Online applications due. Each applicant must submit an application that includes a brief written Project Pitch following the template below.
+1. **July 25** – A C4SF and dev/Mission jury will review the submitted applications and select finalists to present and discuss their Project Pitch in person
+1. **August 1** – Finalists will present and discuss their Project Pitch to the jury at C4SF HQ (155 9th St, San Francisco). While waiting to present, finalists can learn more about the C4SF Weekly Civic Hack Night that will be going on at the same time.
+1. **August 1** – The C4SF and dev/Mission jury will announce the selection of **two** of the Project Pitch ideas for further exploration and development and the names of the **four** Fellows who will work on the projects in pairs.
 
 ## Project Pitch Template
 
