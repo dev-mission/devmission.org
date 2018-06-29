@@ -41,5 +41,4 @@ When I was attending the program, I was informed there was an IT internship avai
 What do you think makes Dev Mission different from other organizations?
 What makes Dev Mission unique from other organizations is that they really care about their students, staff, and volunteers. As a student, I have firsthand experience with how passionate they are about our success even after we finished the program. Leo always encourages graduates to come back if they still want to be engaged or if they need support.
 
-###
 Dev Mission aims to train untapped young adults ages 16-24 for careers in tech; so we can build wealth and prosperity in our underserved communities. more info @ info@devmission.org
