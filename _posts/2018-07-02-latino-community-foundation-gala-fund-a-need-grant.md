@@ -14,9 +14,8 @@ FOR IMMEDIATE RELEASE<br>
 
 July 2nd, 2018<br>
 Latino Community Foundation (LCF) Gala Fund-a-Need Program Grant Award<br>
-I am pleased to announce that the Latino Community Foundation (LCF) has approved a grant to Dev Mission from their Gala Fund-a-Need Program to support our mission to unleash the power of Latino youth as the next generation of tech talent in the Mission and beyond.
- 
-###
-About Dev Mission: 
+I am pleased to announce that the Latino Community Foundation (LCF) has approved a grant to Dev Mission from their Gala Fund-a-Need Program to support our mission to unleash the power of Latino youth as the next generation of tech talent in the Mission and beyond.<br>
+<br>
+About Dev Mission:<br>
 We aim to train untapped young adults ages 16-24 for careers in tech so we can build wealth and prosperity in our underserved communities.
 
