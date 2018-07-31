@@ -23,7 +23,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Open Sans', sans-serif;
 }
 
 h2 {
@@ -509,7 +509,7 @@ a:active {
             }
 
             #feature h2 {
-                color: cornflowerblue;
+                color: white;
                 font-size: 28px;
                 font-weight: 600;
                 margin-bottom: 30px;
