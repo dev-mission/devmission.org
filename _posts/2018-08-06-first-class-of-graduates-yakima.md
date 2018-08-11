@@ -4,8 +4,8 @@ title: Dev Mission graduates firts class in Yakima
 subtitle: Graduation
 date: 2018-08-06
 author: Leonardo Sosa
-image: Yakima Pilot Aug 2018.JPG
-alt: Yakima Pilot Aug 2018.JPG
+image: Yakima Pilot.jpg
+alt: Yakima Pilot.jpg
 ---
 Dev Mission graduates first class in Yakima!
 
