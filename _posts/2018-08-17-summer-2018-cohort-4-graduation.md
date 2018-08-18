@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dev Mission Graduates Summer 2018 Cohort # 4
+title: Dev Mission Graduates Summer 2018 Cohort 4
 subtitle: Graduation
 date: 2018-08-17
 author: Leonardo Sosa
