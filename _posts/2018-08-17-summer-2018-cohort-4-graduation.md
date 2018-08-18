@@ -7,7 +7,7 @@ author: Leonardo Sosa
 image: Summer 2018 Cohort 4 Grads.JPG
 alt: Summer 2018 Cohort 4 Grads.JPG
 ---
-Leonardo Sosa, Executive Director
+<br>Leonardo Sosa, Executive Director<br/>
 (415) 572.3947
 leo@devmission.org
 
