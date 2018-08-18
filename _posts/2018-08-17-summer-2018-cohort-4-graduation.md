@@ -17,7 +17,7 @@ alt: Summer 2018 Cohort 4 Grads.JPG
 <br>When: Friday, August 17th, 5:30-7:00 pm<br/>
 <br>Where: LinkedIn HQ (222 2nd Street, SF)<br>
 
-<brWe celebrated the accomplishments of 19 young adults from San Francisco and the Bay Area as they completed a summer 11-week training program preparing them for careers in the tech sector.<br/>
+<br>We celebrated the accomplishments of 19 young adults from San Francisco and the Bay Area as they completed a summer 11-week training program preparing them for careers in the tech sector.<br/>
 
 <brIn partnership with Mission Housing Development Corporation, the dev/Mission organization provides technology instruction to transitional-age youth, ages 16-24, in hardware (IoT) software, intro to programming fundamentals, and critical career skills.<br/>
 
