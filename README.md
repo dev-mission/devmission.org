@@ -1,11 +1,13 @@
 # Dev Mission Website
 
+Clone this repo and open the folder in the command line.
+
 ## Setup on OS X
 1. If you don't have homebrew installed, [install homebrew](https://brew.sh/)
 1. `brew install ruby`
 1. `sudo gem install bundler`
 1. `mkdir vendor && bundler install --path vendor`
-1. `bundle exec jekyll --serve`
+1. `bundle exec jekyll serve`
 1. Any changes should be in a new branch and then submitted for review as a pull request
 
 ## Setup on Windows
