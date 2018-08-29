@@ -98,28 +98,6 @@
   website: http://abraham.mx/
   description: 'Abraham Velazquez Tello from the dev/Mission leadership team, is a Sr Frontend Engineer at Dropbox, proprietor of <a href="http://lunaroja.org">lunaroja.org</a> and the founder of <a href="http://Gozamos.com">gozamos.com</a>. His goal as a hybrid developer-designer, is to executing high‑quality user experiences for the open web. Abraham has worked for clients ranging from not‑for‑profit organizations serving minority communities to Fortune 500 companies. <br><br>After teaching 4 Mission Techie Cohorts, more than 100 hours of HTML, CSS and JavaScript to over 75 Young Adults from underserved communities, Abraham have also help create not only a pipeline for diversity but the next wave of full stack developers, engineers, programmers, and IT Technicians. '
 
-
-
-# - name: Orrian Willis
-#   title:
-#   mainImage: whitebox.png
-#   funImage:
-#   secImage:
-#   team:
-#   teamClass: leadershipTeam
-#   specialty:
-#   funFact:
-#   location: San Francisco
-#   email:
-#   linkedIn:
-#   twitter:
-#   github:
-#   facebook:
-#   googlePlus:
-#   Phone:
-#   website:
-#   description:
-
 - name: Sam Moss
   title: Mission Housing
   mainImage: SamMoss.png
@@ -199,27 +177,6 @@
   Phone:
   website:
   description: "As Community Associate Director at Mission Housing, I enjoy working with residents, staff and Mission District stakeholders to create a supportive community at Valencia Gardens. My focus is to bring programs that will enrich the lives of our residents while building relationships and connections within and around Valencia Gardens."
-
-
-# - name: Christi Baker
-#   title: Chrysails Consulting
-#   mainImage: ChristiBaker.jpg
-#   funImage: coolChristi.jpg
-#   secImage:
-#   team: Chrysails Consulting<
-#   teamClass: leadershipTeam
-#   specialty: Training, Curriculum Development, Coaching
-#   funFact: She emerged from the chrysalis of unconscious behavior
-#   location: San Francisco
-#   email: christi@chryscon.com
-#   linkedIn: christi-baker-b1b3063
-#   twitter:
-#   github:
-#   facebook:
-#   googlePlus:
-#   Phone:
-#   website: http://www.chryscon.com/
-  # description: Christi Baker founded Chrysalis Consulting in 1999, which facilitates community change by providing training, curriculum development, technical assistance and specialized research services to nonprofit organizations focusing on homeownership and asset building. Clients include local community-based organizations and national nonprofit intermediaries.<br><br>Ms. Baker has authored various publications, practitioner curricula and consumer training manuals related to single-family homeownership and asset building. Prior to consulting, she served as deputy director for San Diego Neighborhood Housing Services (now Community HousingWorks) and assisted with the coordination of NeighborWorks America’s Campaign for Homeownership.<br><br>Through her consulting practice and employment, Ms. Baker has 16 years of experience in the homeownership and asset-building fields. She serves on the national advisory council for the NeighborWorks Center for Homeownership Education and Counseling (NCHEC) and has been a faculty member of NeighborWorks training since 1996.
 
 - name: Eiman Zolfaghari
   title: IOS Developer
@@ -401,26 +358,6 @@
   website:
   description: Arya Zarrinkelk is the Steve Kerr of career counseling. Never officially being a career counselor before BAVC, Arya has helped over 250 clients ranging from ages seventeen to seventy find opportunities within his first two years at BAVC. Arya balances a warm and fun approach to career counseling with a strict level of accountability. Arya won't let his clients fail. His mantra is "lent now, mardi gras later." He attributes his success to his colleagues at BAVC, playing bass, and his innate ability to grow amazing beards.
 
-# - name: Matthew Graff
-#   title:
-#   mainImage: whitebox.png
-#   funImage:
-#   secImage:
-#   team:
-#   teamClass: techMentorTeam
-#   specialty:
-#   funFact:
-#   location: San Francisco
-#   email:
-#   linkedIn:
-#   twitter:
-#   github:
-#   facebook:
-#   googlePlus:
-#   Phone:
-#   website:
-#   description:
-
 - name: Bryan Bierce
   title: Software Engineer
   mainImage: BryanBierce.jpg
@@ -520,8 +457,6 @@
   facebook:
   googlePlus:
   Phone:
-  website: #https://stephaniecueto.wordpress.com/
-  # description: "I am inspired by work that creates change, brings opportunities for personal growth, empathetic to the needs of the community, and brings people together. Other interest include<br>Programming The intersection between Education and Technology.rfSocial Responsibility and Community Outreach. In the fall of 2009 I entered San Francisco State University as a Mathematics Education Major. During my undergrad studies, my general education requirement exposed me to many different areas and sparked a lot different interest. I was exposed to many different departments that were Languages, Art, Sexual Education, Women and Gender Studies, Sociology, and Politic Science. While getting exposed to many fields, my interest of study started to shift and I realized not only my love for the Science and Education but also for Ethnic Studies. During my undergrad I made the hard choice of changing my Mathematics Education Major to a double major in Latina/o Studies and Spanish. Although it was a tough decision, I  still kept true to my interest of Science and Education through my personal time.<br><br>In the year if 2013-2014, I was given the opportunity to study abroad and live in Spain for the academic year. While in Spain I was able to sharpen my syntax and phonetics for Spanish and pick up some French. However, the benefits of living abroad where immense, and my love for traveling and getting to know new cultures thrived.  During my time at SFSU, I was also a coordinator for La Raza Student Organization, representative for the Latinos Unidos Coalition on behalf of L.R.S.O., and member of CSU IP. As I finished up my undergrad at SFSU, I received a double major in Latina/o Studies and Spanish Language and Literature in May 2015.<br><br>In 2012, I volunteered and work with a Non-Profit named Jamestown Community Center at Cesar Chavez Elementary School as a 2nd Grade Teacher. While working at Jamestown I was able to learn the intersections of many social issues that crossed paths and affect unrepresentative communities of Mission District, predominately the Latino Community. I was able to put my studies to practice and try to make as much impact as possible by developing lesson plans catered to the multicultural students."
 
 - name: Daniela Meza-Gray
   title: Program Development Coordinator
@@ -541,27 +476,18 @@
   googlePlus:
   Phone:
   website:
-  description: "Daniela is currently the Program Coordinator of the Volunteer Legal Services Corporation in Oakland, a nonprofit dedicated to improving access to justice to the low-income residents of Alameda County. As a first generation college graduate and DACA recipient, Daniela has a strong commitment to facilitating and creating pathways for low-income diverse communities to succeed in education and in the workforce.</br></br>Previous to her role at VLSC, Daniela worked for the Pomona College Academy for Youth Success, a college access program committed to increasing the number of students from low-income and historically underrepresented backgrounds in highly selective colleges and universities. Through her personal experience and work with low-income and minority communities, Daniela has seen the limitless potential of diverse communities when given the tools and opportunities to succeed. She hopes to one day lead diversity initiatives for tech companies that are ready to invest in the infrastructure necessary to recruit and retain the most talented and diverse candidates in our communities. "
-
-# - name: Jorge
-#   title: Security
-#   mainImage: jorge.jpg
-#   funImage: jorge-fun.jpg
-#   secImage: jorge-fun.jpg
-#   team: Leadership Team
-#   teamClass: leadershipTeam
-#   specialty: Security
-#   funFact: Loves Chocolate
-#   location: San Francisco
-#   email: jorgealbertoortiz52@gmail.com
-#   linkedIn: jorgea-ortiz
-#   twitter: jorgea-ortiz
-#   github:
-#   facebook:
-#   googlePlus:
-#   Phone:
-# website:
-# description: "I am a information security analyst by trade, but a hacker at heart. I specialize in breaking things rather than creating them, I enjoy writing python scripts that make my life easier. "
+  description: "Daniela is currently the Program Coordinator of the Volunteer Legal Services
+  Corporation in Oakland, a nonprofit dedicated to improving access to justice to the low-income
+  residents of Alameda County. As a first generation college graduate and DACA recipient, Daniela
+  has a strong commitment to facilitating and creating pathways for low-income diverse communities
+  to succeed in education and in the workforce.</br></br>Previous to her role at VLSC, Daniela
+  worked for the Pomona College Academy for Youth Success, a college access program committed to
+  increasing the number of students from low-income and historically underrepresented backgrounds in
+  highly selective colleges and universities. Through her personal experience and work with
+  low-income and minority communities, Daniela has seen the limitless potential of diverse
+  communities when given the tools and opportunities to succeed. She hopes to one day lead diversity
+  initiatives for tech companies that are ready to invest in the infrastructure necessary to recruit
+  and retain the most talented and diverse candidates in our communities. "
 
 - name: Yuridia Larios
   title: Front-End Developer
