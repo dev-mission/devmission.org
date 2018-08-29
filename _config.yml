@@ -14,10 +14,10 @@ keep_files:
 
 
 # Site settings
-title: Airspace
-subtitle: "A free HTML5 agency template"
+title: DevMission
+subtitle: "Connecting the next generation of tech talent"
 url: "http://devmission.org" # the base hostname & protocol for your site
-baseurl: "" # Set this value to "" if you want your site to be root
+baseurl: ""
 cover: "/assets/cover.png"
 logo: "/assets/logo.png"
 
@@ -25,7 +25,7 @@ logo: "/assets/logo.png"
 markdown: kramdown
 
 # Google analytics
-# ga_tracking_id: "UA-XXXX-1"
+ga_tracking_id: "UA-124835958-1"
 
 # Category descriptions (for archive pages)
 descriptions:
