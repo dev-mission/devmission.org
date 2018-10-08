@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Goolge and OEWD Awards Grants
+title: Google and OEWD Awards Grants
 subtitle: Press Release
-date: 2018-10-08
+date: 2018-10-05
 author: Leonardo Sosa
 image: Google Rebecca Prozan.jpg
 alt: Google Rebecca Prozan.jpg
