@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google and OEWD Awards Grants
+title: Google and OEWD Award Grants
 subtitle: Press Release
 date: 2018-10-05
 author: Leonardo Sosa
