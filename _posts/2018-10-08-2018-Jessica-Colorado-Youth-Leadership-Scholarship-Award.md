@@ -7,8 +7,6 @@ author: Leonardo Sosa
 image: 2018 Youth Leadership Award Jessica Colorado.jpg
 alt: 2018 Youth Leadership Award Jessica Colorado.jpg
 ---
-Written by Jessica Colorado.
-
 My name is Jessica Colorado. I currently live in Richmond, CA, but I’m originally from Mexico. Since I got to the United States my life has been really challenging. I have had to deal with so many obstacles that have hurt me emotionally.
 
 For instance, dealing with my english teacher who did not believe in me, and didn’t really support me as her student. She used to tell my parents to send me to work at McDonald’s or any other type of job because she did not believe I was going to be able to graduate from High School since I couldn’t even speak a word of english. However, after facing so many obstacles, I was able to graduate from high school and even with more credits than required. 
