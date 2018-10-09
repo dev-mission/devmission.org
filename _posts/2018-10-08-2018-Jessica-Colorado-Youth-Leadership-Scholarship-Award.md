@@ -17,7 +17,7 @@ While I was in the program, I was able to learned many amazing and exciting tech
 
 Being in that program was a little bit challenging for me since I was commuting from Richmond, CA everyday and  doing other activities at City College of San Francisco; so after completing my other classes at CSSF I had to run to the program in order to get there on time. Leo Sosa was my instructor and Leo likes everyone to be on time!
 
-After graduating from <dev/Mission>, I realized that enjoy being exposed into tech field. So, I decided to pursue a Computer Science degree at the City College of San Francisco, and for my surprise <dev/Mission> provided me with a mentor (Vincent Woo) who has been helping me to get into the right path.
+After graduating from <dev/Mission>, I realized that I enjoy being exposed into tech field! So, I decided to pursue a Computer Science degree at the City College of San Francisco, and to my surprise <dev/Mission> provided me with a mentor (Vincent Woo) who has been helping me to get into the right path.
 
 On Thursday September 27 of this year, I received an scholarship and an award from <dev/Mission> during their 1st Youth Benefit for the 2018 Youth Leadership Award. Half of  the scholarship money I will use it to buy supplies and books for my next semester, and the other half I’ll save it for when I transfer to the university since I’m thinking to apply for UC Berkeley or San Francisco State (seeking to get a PhD). 
 
