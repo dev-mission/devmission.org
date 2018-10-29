@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ivan Hurtado Joins our Organization
-subtitle: Annoucement
+subtitle: Announcement
 date: 2018-10-29
 author: Leonardo Sosa
 image: Ivan Critical Career Skills.jpg
