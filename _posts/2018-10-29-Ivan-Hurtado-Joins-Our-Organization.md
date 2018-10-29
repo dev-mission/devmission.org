@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ivan Hurtado Joins <dev/Mission>
+title: Ivan Hurtado Joins our Organization
 subtitle: Annoucement
 date: 2018-10-29
 author: Leonardo Sosa
