@@ -370,6 +370,23 @@
             }
 
 
+            #test {
+              padding: 100 0;
+              padding-top: 500px;
+            }
+
+            #test .block p {
+              color: black;
+              font-weight: 400;
+              padding-top: 20px;
+            }
+
+            #test .block img {
+              padding-left: 40px;
+              width: 5%;
+            }
+
+
             #intro {
               padding: 100px 0;
             }
