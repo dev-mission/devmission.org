@@ -5,7 +5,7 @@ subtitle: Announcement
 date: 2018-11-15
 author: Leonardo Sosa
 image: OEWD TechSF Tech Wizard Apprenticeship.jpg
-alt: OEWD TechSF Tech Wizard Apprenticeship.jpeg
+alt: OEWD TechSF Tech Wizard Apprenticeship.jpg
 ---
 Leonardo Sosa, Executive Director
 (415) 572.3947
