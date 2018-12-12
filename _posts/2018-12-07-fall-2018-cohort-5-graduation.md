@@ -7,12 +7,14 @@ author: Leonardo Sosa
 image: Fall 2018 Cohort 5 Graduation.jpg
 alt: Fall 2018 Cohort 5 Graduation.jpg
 ---
-On Friday December 7th, 2018 @ the Google Community Space in SF our <dev/Mission> Community came together to celebrate the accomplishments of 10 young adults from SF and the Bay Area as they completed a 12-week training program preparing them for careers in the tech sector. In partnership with Mission Housing Development Corporation, we provided technology instruction to 10 transitional-age youth, ages 16-24, in the following competencies:
+On Friday December 7th, 2018 @ the Google Community Space in SF our <dev/Mission> Community came together to celebrate the accomplishments of 10 young adults from SF and the Bay Area as they completed a 12-week training program; the program has prepared them for careers in the tech sector. 
 
-A+ Training: 1st crucial step to advance IT Certifications
-IoT: Internet of Things where youth learn how to build hardware/coding projects with electronics, sensors, led lights and much more
-Intro to Programming: Learn HTML, CSS, and JavaScript as youth build their own website, web app or mobile app.
-Critical Career Skills: Youth learn about Job Readiness, business communication, professionalism, and team building projects.
+In partnership with Mission Housing Development Corporation, we provided technology instruction to 10 transitional-age youth, ages 16-24, in the following competencies:
+
+-A+ Training: 1st crucial step to advance IT Certifications
+-IoT: Internet of Things where youth learn how to build hardware/coding projects with electronics, sensors, led lights and much more
+-Intro to Programming: Learn HTML, CSS, and JavaScript as youth build their own website, web app or mobile app.
+-Critical Career Skills: Youth learn about Job Readiness, business communication, professionalism, and team building projects.
 
 The program is unique in that instruction takes place exclusively onsite in affordable housing communities in San Francisco, and youth participants are required to provide much-needed free tech support and repair services to low-income families in their communities when they graduate from their program.
 
