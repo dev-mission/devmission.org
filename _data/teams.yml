@@ -138,25 +138,25 @@
   description: "Upon joining Misson Housing in 2009, I worked in various departments before becoming Director of Operations and Resident Services. My passion is helping staff break out of the silos that tend to form in organizations. Collaborate, collaborate, collaborate! It is also important to open up lines of communication between Mission Housing and our residents. This helps make sure we use our resources on things that make a difference in the quality-of-life for our residents.
   <br>I also work hard at making sure Mission Housing is engaged in the communities around our developments. Our relationships with community-based organizations is important. I want to make sure Mission Housing shows solidarity with the leaders who are making passionate contributions to the fabric of our neighborhoods."
 
-- name: Tony Bear
-  title: Mission Housing
-  mainImage: TonyBear.jpg
-  funImage:
-  secImage:
-  team: Communications Manager at Mission Housing Development Corporation
-  teamClass:
-  specialty: Branding
-  funFact: I love shooting landscape and architectural photography.
-  location: San Francisco
-  email: tbear@missionhousing.org
-  linkedIn: tonybear
-  twitter: tonybear_dotcom
-  github:
-  facebook: https://www.facebook.com/tonybeardotcom/
-  googlePlus:
-  Phone:
-  website: http://tonybear.com/#!/page_SPLASH
-  description:  "The communications and branding of Mission Housing is my responsibility -- and a great outlet for my desire to help defend the right to affordable housing in the Bay Area. <br>The fun part of my work at Mission Housing is everything! A typical day is filled with lots of creative juice flowing, which makes the hours fly by! Website, magazine, signage, video production, flyers, and more. The goal is to tell the Mission Housing story and demonstrate our capacity to be a trusted corporate citizen in the Mission."
+# - name: Tony Bear
+#   title: Mission Housing
+#   mainImage: TonyBear.jpg
+#   funImage:
+#   secImage:
+#   team: Communications Manager at Mission Housing Development Corporation
+#   teamClass:
+#   specialty: Branding
+#   funFact: I love shooting landscape and architectural photography.
+#   location: San Francisco
+#   email: tbear@missionhousing.org
+#   linkedIn: tonybear
+#   twitter: tonybear_dotcom
+#   github:
+#   facebook: https://www.facebook.com/tonybeardotcom/
+#   googlePlus:
+#   Phone:
+#   website: http://tonybear.com/#!/page_SPLASH
+#   description:  "The communications and branding of Mission Housing is my responsibility -- and a great outlet for my desire to help defend the right to affordable housing in the Bay Area. <br>The fun part of my work at Mission Housing is everything! A typical day is filled with lots of creative juice flowing, which makes the hours fly by! Website, magazine, signage, video production, flyers, and more. The goal is to tell the Mission Housing story and demonstrate our capacity to be a trusted corporate citizen in the Mission."
 
 - name: Veronica Green
   title: Mission Housing
@@ -224,7 +224,7 @@
   funImage: coolDavid.jpg
   secImage: inspDavid.jpg
   team: IT Security Specialist
-  teamClass: techMentorTeam ITdep
+  teamClass: techMentorTeam
   specialty: Software Developer
   funFact: Strong believer in banana radiation
   location: San Francisco
@@ -238,53 +238,53 @@
   website: https://caramelqq.github.io/
   description: "David is currently a computer technician at BAVC.  He graduated from UC Davis with degrees in Mechanical and Aerospace engineering.  He is familiar with C/C++, Assembly, HTML, CSS, and Javascript.  He has developed several websites including modeling fluid flows and showing popular San Francisco sights.  He aspires to be a software developer."
 
-- name: Rene Duran
-  title: IT Technician
-  mainImage: rene.png
-  funImage: cool-rene.png
-  secImage: cool-rene.png
-  team: IT Technician
-  teamClass: ITdep
-  specialty: IT
-  funFact: Plays Soccer when not crashing computers
-  location: San Francisco
-  email: duranrene6@gmail.com
-  linkedIn: reneduran
-  twitter:
-  github:
-  facebook: rene.avelarduran
-  googlePlus:
-  Phone:
-  website:
-  description: "Rene is currently working at Paypal as a Building Technician. Before that he was an IT Technician at Love Height Computers in San Francisco. Rene loves working with hardware and he specializes in Refurbishing Computers, Installing OS for Windows and Mac OSX. Rene has worked with Leo Sosa on multiple computer lab roll outs and will be supporting our IT partnerships moving forward."
+# - name: Rene Duran
+#   title: IT Technician
+#   mainImage: rene.png
+#   funImage: cool-rene.png
+#   secImage: cool-rene.png
+#   team: IT Technician
+#   teamClass: ITdep
+#   specialty: IT
+#   funFact: Plays Soccer when not crashing computers
+#   location: San Francisco
+#   email: duranrene6@gmail.com
+#   linkedIn: reneduran
+#   twitter:
+#   github:
+#   facebook: rene.avelarduran
+#   googlePlus:
+#   Phone:
+#   website:
+#   description: "Rene is currently working at Paypal as a Building Technician. Before that he was an IT Technician at Love Height Computers in San Francisco. Rene loves working with hardware and he specializes in Refurbishing Computers, Installing OS for Windows and Mac OSX. Rene has worked with Leo Sosa on multiple computer lab roll outs and will be supporting our IT partnerships moving forward."
 
-- name: Oscar Chan
-  title: IT Technician
-  mainImage: oscar.jpg
-  funImage: cooloscar.jpg
-  secImage:
-  team:
-  teamClass: ITdep
-  specialty:
-  funFact:
-  location: San Francisco
-  email:
-  linkedIn: oscar-chan-
-  twitter:
-  github:
-  facebook:
-  googlePlus:
-  Phone:
-  website:
-  description: Oscar is currently a IT Consultant Assistant. He currently is pursuing a BS Degree in Computer Science at San Francisco State. He also knows how to Refurbished Computers, and fix mobile devices. Oscar has worked with Leo Sosa on the Dev/mission computer lab roll outs and will be supporting our IT partnerships moving forward.
+# - name: Oscar Chan
+#   title: IT Technician
+#   mainImage: oscar.jpg
+#   funImage: cooloscar.jpg
+#   secImage:
+#   team:
+#   teamClass: ITdep
+#   specialty:
+#   funFact:
+#   location: San Francisco
+#   email:
+#   linkedIn: oscar-chan-
+#   twitter:
+#   github:
+#   facebook:
+#   googlePlus:
+#   Phone:
+#   website:
+#   description: Oscar is currently a IT Consultant Assistant. He currently is pursuing a BS Degree in Computer Science at San Francisco State. He also knows how to Refurbished Computers, and fix mobile devices. Oscar has worked with Leo Sosa on the Dev/mission computer lab roll outs and will be supporting our IT partnerships moving forward.
 
 - name: Zuri Gonzalez
-  title: IT Technician
+  title: STEM Coordinator
   mainImage: Zuri.jpg
   funImage: coolZuri2.jpg
   secImage: inspZuri.jpg
   team:
-  teamClass: ITdep
+  teamClass:
   specialty: IT
   funFact: I like to learn about different cultures and read romance novels
   location: San Francisco
@@ -298,25 +298,25 @@
   website: http://www.zurisgo.com
   description: I started as a Volunteer and now I’m all over IT, I love programming because I can create a hole new world, but also I like getting my hands dirty by doing hardware. Every time I get to repair a lonely broken desktop or laptop, I get so exited!! I recently attended a Salesfore Admin 201 bootcamp but I want to pursue a degree on Computer Science and IT. In the future I want to become someone that helps inspire the empowerment in young adults who are passionate about technology.
 
-- name: Emanuel Flores
-  title: IT Technician
-  mainImage: emanuel.jpg
-  funImage: coolemanuel.png
-  secImage:
-  team:
-  teamClass: ITdep
-  specialty: Computer Networks and IT
-  funFact: Computer Enthusiast
-  location: San Francisco
-  email: emanuel@devmission.org
-  linkedIn: emanuelflores
-  twitter:
-  github: eflores370
-  facebook:
-  googlePlus:
-  Phone:
-  website:
-  description: Born and raised in the Mission District of San Francisco, Emanuel, has always had a curiosity about technology from a young age. His goal is to become a Software Engineer or work in IT as a Network Engineer. Emanuel has experience working with C, C++, and Javascript and is currently working on making a Hardware Tracker using node.js.
+# - name: Emanuel Flores
+#   title: IT Technician
+#   mainImage: emanuel.jpg
+#   funImage: coolemanuel.png
+#   secImage:
+#   team:
+#   teamClass: ITdep
+#   specialty: Computer Networks and IT
+#   funFact: Computer Enthusiast
+#   location: San Francisco
+#   email: emanuel@devmission.org
+#   linkedIn: emanuelflores
+#   twitter:
+#   github: eflores370
+#   facebook:
+#   googlePlus:
+#   Phone:
+#   website:
+#   description: Born and raised in the Mission District of San Francisco, Emanuel, has always had a curiosity about technology from a young age. His goal is to become a Software Engineer or work in IT as a Network Engineer. Emanuel has experience working with C, C++, and Javascript and is currently working on making a Hardware Tracker using node.js.
 
 - name: John Affolter
   title: IT Technician
@@ -378,25 +378,25 @@
   website:  https://bryanbierce.com/
   description:
 
-- name: Ana Medina
-  title: Full Stack Developer
-  mainImage: ana.jpg
-  funImage: ana-fun.jpg
-  secImage:
-  team:
-  teamClass: techMentorTeam
-  specialty: Full Stack Developer
-  funFact: Loves to learn
-  location: San Francisco
-  email:
-  linkedIn: anammedina
-  twitter:
-  github:
-  facebook:
-  googlePlus:
-  Phone:
-  website:
-  description: "At age 13 Ana Medina started coding and now, at 23, is a Software Engineer in San Francisco working on Uber’s Developer Platform. She spends her time helping build the future of open platforms which move people and things. Prior to this project she worked on SRE and Infrastructure, specifically on Chaos Monkey Engineering and Cloud Computing. Before joining Uber she worked at Google, Quicken Loans, a local credit union, a startup, done college research and been doing freelance since 2008.<br>Her story began in the foreign countries of Costa Rica and Nicaragua, followed by her tech development process which took place in Miami, to her current success in ‘Silicon Valley’ display how achievements have been a result to her consistent characteristics such as passion, dedication, and fearless execution. She is seen as a success story to not only the hispanic and latino community, but as well as the ever growing community of women in tech. Ana is a role model to the next generation of engineers. "
+# - name: Ana Medina
+#   title: Full Stack Developer
+#   mainImage: ana.jpg
+#   funImage: ana-fun.jpg
+#   secImage:
+#   team:
+#   teamClass: techMentorTeam
+#   specialty: Full Stack Developer
+#   funFact: Loves to learn
+#   location: San Francisco
+#   email:
+#   linkedIn: anammedina
+#   twitter:
+#   github:
+#   facebook:
+#   googlePlus:
+#   Phone:
+#   website:
+#   description: "At age 13 Ana Medina started coding and now, at 23, is a Software Engineer in San Francisco working on Uber’s Developer Platform. She spends her time helping build the future of open platforms which move people and things. Prior to this project she worked on SRE and Infrastructure, specifically on Chaos Monkey Engineering and Cloud Computing. Before joining Uber she worked at Google, Quicken Loans, a local credit union, a startup, done college research and been doing freelance since 2008.<br>Her story began in the foreign countries of Costa Rica and Nicaragua, followed by her tech development process which took place in Miami, to her current success in ‘Silicon Valley’ display how achievements have been a result to her consistent characteristics such as passion, dedication, and fearless execution. She is seen as a success story to not only the hispanic and latino community, but as well as the ever growing community of women in tech. Ana is a role model to the next generation of engineers. "
 
 - name: Yaritza Perez
   title: Full Stack Developer
@@ -437,8 +437,6 @@
   Phone:
   website: http://csalas.tech/
   description: "Christian loves to break things down to fully understand what's going on behind the hood and then go back to fix them. He has a theoretical background from Computer Science and a practical background from Dev Bootcamp."
-
-
 
 - name: Stephanie Cueto
   title: Aspiring Developer
@@ -489,46 +487,6 @@
   initiatives for tech companies that are ready to invest in the infrastructure necessary to recruit
   and retain the most talented and diverse candidates in our communities. "
 
-- name: Yuridia Larios
-  title: Front-End Developer
-  mainImage: yuridia.png
-  funImage: weirYuridia.jpg
-  secImage: inspYuridia.jpg
-  team: Front End Developer
-  teamClass: webDevelopmentTeam
-  specialty: Java
-  funFact: Love Unicorns
-  location: San Francisco
-  email: yuriydani@gmail.com
-  linkedIn: yuridia-larios-aispuro
-  twitter: Yuridia_Larios
-  github: YuridiaLarios
-  facebook:
-  googlePlus:
-  Phone:
-  website: http://yurisco.com/
-  description: "Forever learning, evolving, and trying new things. <br><br>After-school teacher for the last 4 years and full time college student majoring in engineering and computer science where my focus are Java and android development. <br><br> I love coding and design. I am part of three different organizations that have shaped my journey in coding:Dev/Mission, freeCodeCamp, Mission Techies,  thru which I have developed multiple projects including&#58; a tracker and attendance web-app, free websites for San Francisco small local businesses, and my own digital portfolio. <br><br>My goal is to become a software engineer because I want to be part of the movement to close the gap of women and diversity in technology. As a recent Mission Techie Graduate, I worked with IT essentials of hardware, software, networking and coding(HTML, CSS, JAVASCRIPT, and GO LANGUAGE), plus how to provide tech support to low-income families.<br><br>I am a persistent and determined individual who continues trying despite any hardship and a role model for my students which I support and persuade to look into careers in STEM."
-
-- name: Frank Ttito
-  title: Front-End Developer
-  mainImage: FrankTito.png
-  funImage: coolFrank.jpg
-  secImage: FrankTito.png
-  team: Front-End Developer
-  teamClass: webDevelopmentTeam
-  specialty: HTML & CSS & JavaScript
-  funFact:
-  location: San Francisco
-  email:
-  linkedIn: frankttito
-  twitter:
-  github: frankttito
-  facebook:
-  googlePlus:
-  Phone:
-  website:
-  description: "I am an aspiring software engineer. I graduated from the Mission Techies Program at Mission Economic Development Agency (MEDA); and enrolled at City College of San Francisco for a major in Computer Science."
-
 - name: Ismael Sosa
   title: Digital Designer
   mainImage: IsmaelSosa.jpg
@@ -569,22 +527,22 @@
   website:
   description: I’m from Cartagena, Colombia and I’ve been living in San Francisco for four years. I have an Industrial Engineering bachelor’s degree from Colombia and a Marketing associate from CCSF. Also I have experience in data analytics. Even though my two backgrounds are different, I love getting insights from the numbers and at the same time I like to be creative all the time. For me marketing and data results work together. Moving here it has been a great experience with a lot of growth personally and professionally. <br>If I can describe my self in five words, they will be Latina, Independent, Feminist, Folklore Lover, and Passionate.
 
-- name: Noé Roman
-  title: Communications Volunteer
-  mainImage: NoeRoman.jpg
-  funImage: coolNoe.jpg
-  secImage: inspNoe.jpg
-  team:
-  teamClass: designMediaTeam
-  specialty: Art and Design and Having Fun
-  funFact: I designed the Debug Beetle
-  location: San Francisco
-  email: noeart2012@gmail.com
-  linkedIn: noe-r-6344b590
-  twitter:
-  github: kusalite
-  facebook:
-  googlePlus:
-  Phone:
-  website: kusalite.github.io
-  description: Born and Raised in San Francisco; Passionate about Art and Technology. Currently a student at City College of San Francisco. I want to move back into the city one day, and I will be doing that by continuing school and learning coding with the support of dev/Mission.
+# - name: Noé Roman
+#   title: Communications Volunteer
+#   mainImage: NoeRoman.jpg
+#   funImage: coolNoe.jpg
+#   secImage: inspNoe.jpg
+#   team:
+#   teamClass: designMediaTeam
+#   specialty: Art and Design and Having Fun
+#   funFact: I designed the Debug Beetle
+#   location: San Francisco
+#   email: noeart2012@gmail.com
+#   linkedIn: noe-r-6344b590
+#   twitter:
+#   github: kusalite
+#   facebook:
+#   googlePlus:
+#   Phone:
+#   website: kusalite.github.io
+#   description: Born and Raised in San Francisco; Passionate about Art and Technology. Currently a student at City College of San Francisco. I want to move back into the city one day, and I will be doing that by continuing school and learning coding with the support of dev/Mission.
