@@ -1,7 +1,7 @@
 ---
 layout: Press Release
 title: Uber Grant Announcement
-subtitle: press release
+subtitle: Press Release
 date: 2019-01-25
 author: Leonardo Sosa
 image: Uber_Logo_Black.png
