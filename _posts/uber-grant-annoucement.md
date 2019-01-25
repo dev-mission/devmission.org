@@ -1,0 +1,33 @@
+---
+layout: Press Release
+title: Uber Grant Announcement
+subtitle: press release
+date: 2019-01-25
+author: Leonardo Sosa
+image: Uber_Logo_Black.png
+alt: Uber_Logo_Black.png
+---
+Leonardo Sosa, Executive Director
+(415) 572.3947
+leo@devmission.org
+FOR IMMEDIATE RELEASE
+January 25th, 2019
+Uber Forges Major Partnerships with Local Organizations to Help Expand Access to High Quality Job Opportunities
+Commits $300,000, office space and volunteers for 2019 among local nonprofits DevMission, Code Tenderloin and Opportunities for All
+
+San Francisco - January 23, 2019 - Today, Uber announced that it is commiting more than $300,000 in 2019 to help organizations across San Francisco increase access to high quality job opportunities. Beyond the financial commitment, Uber is donating office space and providing volunteers to help train the next generation of technology leaders, and is offering ride credits to help additional organizations provide crucial services to residents in need.
+
+“Uber is committed to improving access to high quality jobs for residents across San Francisco,” said Alex Randolph, Manager of Policy and Public Affairs for Northern California, Uber. “By partnering with DevMission, Code Tenderloin and Opportunities for All, we’re helping residents across San Francisco improve their skill-sets so that they can be prepared for great jobs in tech.”
+
+As part of the commitment, Uber is donating $100,000 each to three different local organizations including DevMission, Code Tenderloin and Opportunities for All. Uber released the grants in January 2019. The donations build on long-standing relationships Uber has established with each of these organizations that date back to their founding days.
+
+Launched in 2017, DevMission helps prepare young adults ages 16-24 for careers in technology by creating apprenticeship programs with local tech companies. Since it launched, Uber has worked with it to host weekly “Open Labs”, where Uber engineers mentor young adults for two hours every Tuesday, answering questions about coding and software development. The labs started at Uber’s offices before moving to DevMission’s headquarters in Summer 2017. Uber has also hosted three corporate visits from DevMission students, where its engineers and lawyers have answered questions about working in tech and provided guidance on how to break into the field. DevMission will use the grant from Uber to add an additional 30 students to the program as well as an additional 10 new internships, and purchase equipment for its students to use.
+
+Code Tenderloin offers training and guidance to help its enrollees remove financial, legal, and logistical barriers that stand in the way of long-term job opportunities. Uber started working with Code Tenderloin in Summer 2018 and provides space and resources for Code Ramp Bootcamp, a 6-week program, where students learn basic front-end web development. The group meets five days a week for three hours a night at Uber’s headquarters. Code Tenderloin will use the grant from Uber to pay for more than 50 students to go through its Job Readiness Class and Coding program, which teaches students how to build a resume and prepares them to interview.
+
+Launched in October 2018 by Mayor London Breed, Opportunities for all aims to connect young people to employment, training and post-secondary opportunities. It will use the grants from Uber to bring additional interns into the program - which costs between $1,800 - 2,400 per youth - and cover additional operating costs.
+
+These partnerships build on work that Uber has engaged in across the Bay Area to improve access to food and healthcare for residents in need. For example, Uber has given ride credits to a variety of organizations across the Bay Area, including including Family House, San Francisco AIDS Foundation and more. Family House, a recipient of Uber’s 2017 Community Credits program, used the credits to book rides for the 80 families that stay with them, many of whom can’t take public transportation to go between appointments; while San Francisco AIDS Foundation enrolled in Uber Health and continue to use their credits as a way to get their clients to and from medical and housing appointments.
+
+Quotes
+“We are grateful to UBER for providing this grant which will allows to expand our program to connect more young adults to the world of tech” - Leo Sosa, Founder and Executive Director, DevMission
