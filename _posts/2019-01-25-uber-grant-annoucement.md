@@ -1,5 +1,5 @@
 ---
-layout: Press Release
+layout: Post
 title: Uber Grant Announcement
 subtitle: Press Release
 date: 2019-01-25
