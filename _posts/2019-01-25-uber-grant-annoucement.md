@@ -7,9 +7,9 @@ author: Leonardo Sosa
 image: Uber_Logo_Black.png
 alt: Uber_Logo_Black.png
 ---
-Leonardo Sosa, Executive Director
-(415) 572.3947
-leo@devmission.org
+Leonardo Sosa, Executive Director<br>
+(415) 572.3947<br>
+leo@devmission.org<br>
 
 <br>FOR IMMEDIATE RELEASE<br/>
 
