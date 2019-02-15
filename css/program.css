@@ -172,9 +172,14 @@ background-color: whitesmoke;
 background-color: honeydew;
 }
 
+.iot {
+        background-color: MistyRose;
+        }
+
 .hardware ul,
 .coding ul,
 .skills ul,
+.iot ul,
 #future ul{
     list-style: disc;
     padding-left: 4%;
@@ -183,6 +188,7 @@ background-color: honeydew;
 .hardware ul li,
 .coding ul li,
 .skills ul li,
+.iot ul li,
 #future ul li{
     font-size: 15px;
     padding: 1% 0;
