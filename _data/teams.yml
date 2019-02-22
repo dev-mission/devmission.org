@@ -547,22 +547,22 @@
 #   website: kusalite.github.io
 #   description: Born and Raised in San Francisco; Passionate about Art and Technology. Currently a student at City College of San Francisco. I want to move back into the city one day, and I will be doing that by continuing school and learning coding with the support of dev/Mission.
 
- #- name: Gael Gil
- #title: Front End Development intern
- #mainImage: 
- # funImage: 
- # secImage: 
- # team: High School Student 
- # teamClass: webDevelopmentTeam
- # specialty:  
- # funFact: I like to play soccer. 
- # location: San Francisco 
- # email: 
- # linkedIn: https://www.linkedin.com/in/gael-gil-7a4baa172
- # twitter: 
- # github: https://github.com/GaelGil
- # facebook: 
- # googlePlus: 
- # Phone: 
- # website: 
- # description: "Currently a High School student just strying to learn as much I can<br><br>" 
+- name: Gael Gil
+  title: Front End Development Intern
+  mainImage: gaelgil.jpg
+  funImage: gaelgil.jpg
+  secImage: gaelgil.jpg
+  team: High School Student 
+  teamClass: webDevelopmentTeam
+  specialty:  
+  funFact: I like to play soccer. 
+  location: San Francisco 
+  email: 
+  linkedIn: https://www.linkedin.com/in/gael-gil-7a4baa172
+  twitter: 
+  github: https://github.com/GaelGil
+  facebook: 
+  googlePlus: 
+  Phone: 
+  website: 
+  description: "Currently a High School student just strying to learn as much I can<br><br>" 
