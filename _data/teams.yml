@@ -178,25 +178,25 @@
   website:
   description: "As Community Associate Director at Mission Housing, I enjoy working with residents, staff and Mission District stakeholders to create a supportive community at Valencia Gardens. My focus is to bring programs that will enrich the lives of our residents while building relationships and connections within and around Valencia Gardens."
 
-- name: Eiman Zolfaghari
-  title: IOS Developer
-  mainImage: EimanZolfaghari.png
-  funImage: coolEiman.jpg
-  secImage: inspEiman.jpg
-  team: Tech Mentor
-  teamClass: techMentorTeam
-  specialty: IOS Development
-  funFact: "#1 game in Iran!"
-  location: San Francisco
-  email: eiman@devmission.org
-  linkedIn: eiman-zolfaghari-6541263
-  twitter:
-  github:
-  facebook:
-  googlePlus:
-  Phone:
-  website:
-  description: "Eiman is a Mobile App Developer working at Uber. He wrote an iPhone card game for iOS and Android and its been the #1 game in Iran for a while now! <a href='https://play.google.com/store/apps/details?id=com.eimanz.hokmfree&hl=en'>Get it now!</a><br> <br>Eiman possesses the unique combination of both strong technical skills and product intuition. He has a true sense of ownership of his features, strong architectural aptitude, and is always looking to make huge impact for both his team and his mentees. "
+#- name: Eiman Zolfaghari
+#  title: IOS Developer
+#  mainImage: EimanZolfaghari.png
+#  funImage: coolEiman.jpg
+#  secImage: inspEiman.jpg
+#  team: Tech Mentor
+#  teamClass: techMentorTeam
+#  specialty: IOS Development
+#  funFact: "#1 game in Iran!"
+#  location: San Francisco
+#  email: eiman@devmission.org
+#  linkedIn: eiman-zolfaghari-6541263
+#  twitter:
+#  github:
+#  facebook:
+#  googlePlus:
+ # Phone:
+ # website:
+#  description: "Eiman is a Mobile App Developer working at Uber. He wrote an iPhone card game for iOS and Android and its been the #1 game in Iran for a while now! <a href='https://play.google.com/store/apps/details?id=com.eimanz.hokmfree&hl=en'>Get it now!</a><br> <br>Eiman possesses the unique combination of both strong technical skills and product intuition. He has a true sense of ownership of his features, strong architectural aptitude, and is always looking to make huge impact for both his team and his mentees. "
 
 - name: Armand Gray
   title: Mobile Developer
