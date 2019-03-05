@@ -198,45 +198,45 @@
  # website:
 #  description: "Eiman is a Mobile App Developer working at Uber. He wrote an iPhone card game for iOS and Android and its been the #1 game in Iran for a while now! <a href='https://play.google.com/store/apps/details?id=com.eimanz.hokmfree&hl=en'>Get it now!</a><br> <br>Eiman possesses the unique combination of both strong technical skills and product intuition. He has a true sense of ownership of his features, strong architectural aptitude, and is always looking to make huge impact for both his team and his mentees. "
 
-- name: Armand Gray
-  title: Mobile Developer
-  mainImage: ArmandGray.png
-  funImage: coolArmand.jpg
-  secImage: ArmandGray.png
-  team: Mobile developer
-  teamClass: techMentorTeam
-  specialty:  Android Development
-  funFact: I am color red-green color-blind
-  location: San Francisco
-  email:
-  linkedIn: armand-gray-03aa03a
-  twitter:
-  github:
-  facebook:
-  googlePlus:
-  Phone:
-  website: http://armandgray.com/about.html
-  description: "Current: Dev Mission coding camp as a Mobile Developer on an Android App and iOS Game app. I have dedicated the last 6 months towards developing the Bloc App, a project management & communication app for Android. Previous: Mission Techies Intern at Mission Economic Development Agency with a focus on Web Development & Principles of Programming. I am looking to make a career shift from my current position as a Math Teacher in the Oakland Unified School District. I am the Junior Varsity Basketball Coach and Varsity Assistant Basketball Coach at Skyline High School in Oakland."
+#- name: Armand Gray
+#  title: Mobile Developer
+#  mainImage: ArmandGray.png
+#  funImage: coolArmand.jpg
+#  secImage: ArmandGray.png
+#  team: Mobile developer
+#  teamClass: techMentorTeam
+#  specialty:  Android Development
+#  funFact: I am color red-green color-blind
+# location: San Francisco
+#  email:
+# linkedIn: armand-gray-03aa03a
+#  twitter:
+#  github:
+#  facebook:
+#  googlePlus:
+#  Phone:
+ # website: http://armandgray.com/about.html
+ # description: "Current: Dev Mission coding camp as a Mobile Developer on an Android App and iOS Game app. I have dedicated the last 6 months towards developing the Bloc App, a project management & communication app for Android. Previous: Mission Techies Intern at Mission Economic Development Agency with a focus on Web Development & Principles of Programming. I am looking to make a career shift from my current position as a Math Teacher in the Oakland Unified School District. I am the Junior Varsity Basketball Coach and Varsity Assistant Basketball Coach at Skyline High School in Oakland."
 
-- name: David Quang
-  title: IT Security Specialist
-  mainImage: DavidQuang.png
-  funImage: coolDavid.jpg
-  secImage: inspDavid.jpg
-  team: IT Security Specialist
-  teamClass: techMentorTeam
-  specialty: Software Developer
-  funFact: Strong believer in banana radiation
-  location: San Francisco
-  email: davquang@gmail.com
-  linkedIn: david-quang
-  twitter:
-  github: caramelq
-  facebook:
-  googlePlus:
-  Phone:
-  website: https://caramelqq.github.io/
-  description: "David is currently a computer technician at BAVC.  He graduated from UC Davis with degrees in Mechanical and Aerospace engineering.  He is familiar with C/C++, Assembly, HTML, CSS, and Javascript.  He has developed several websites including modeling fluid flows and showing popular San Francisco sights.  He aspires to be a software developer."
+#- name: David Quang
+#  title: IT Security Specialist
+ # mainImage: DavidQuang.png
+ # funImage: coolDavid.jpg
+ # secImage: inspDavid.jpg
+ # team: IT Security Specialist
+ # teamClass: techMentorTeam
+ # specialty: Software Developer
+ # funFact: Strong believer in banana radiation
+ # location: San Francisco
+ # email: davquang@gmail.com
+ # linkedIn: david-quang
+ # twitter:
+ # github: caramelq
+ # facebook:
+ # googlePlus:
+ # Phone:
+ # website: https://caramelqq.github.io/
+ # description: "David is currently a computer technician at BAVC.  He graduated from UC Davis with degrees in Mechanical and Aerospace engineering.  He is familiar with C/C++, Assembly, HTML, CSS, and Javascript.  He has developed several websites including modeling fluid flows and showing popular San Francisco sights.  He aspires to be a software developer."
 
 # - name: Rene Duran
 #   title: IT Technician
@@ -358,25 +358,25 @@
   website:
   description: Arya Zarrinkelk is the Steve Kerr of career counseling. Never officially being a career counselor before BAVC, Arya has helped over 250 clients ranging from ages seventeen to seventy find opportunities within his first two years at BAVC. Arya balances a warm and fun approach to career counseling with a strict level of accountability. Arya won't let his clients fail. His mantra is "lent now, mardi gras later." He attributes his success to his colleagues at BAVC, playing bass, and his innate ability to grow amazing beards.
 
-- name: Bryan Bierce
-  title: Software Engineer
-  mainImage: BryanBierce.jpg
-  funImage: coolBryan.jpg
-  secImage:
-  team: Tech Mentor
-  teamClass: techMentorTeam
-  specialty: JavaScript
-  funFact:
-  location: San Francisco
-  email: bryanbierce@gmail.com
-  linkedIn: bryanbierce
-  twitter: BryanBierce
-  github: bryanbierce
-  facebook:
-  googlePlus:
-  Phone:
-  website:  https://bryanbierce.com/
-  description:
+#- name: Bryan Bierce
+#  title: Software Engineer
+#  mainImage: BryanBierce.jpg
+#  funImage: coolBryan.jpg
+#  secImage:
+#  team: Tech Mentor
+#  teamClass: techMentorTeam
+#  specialty: JavaScript
+#  funFact:
+#  location: San Francisco
+#  email: bryanbierce@gmail.com
+#  linkedIn: bryanbierce
+#  twitter: BryanBierce
+#  github: bryanbierce
+#  facebook:
+#  googlePlus:
+#  Phone:
+#  website:  https://bryanbierce.com/
+#  description:
 
 # - name: Ana Medina
 #   title: Full Stack Developer
