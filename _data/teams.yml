@@ -493,7 +493,7 @@
   funImage: coolismael.jpg
   secImage: coolismael.jpg
   team: Digital Designer
-  teamClass: designMediaTeam webDevelopmentTeam
+  teamClass: designMediaTeam webDevelopmentTeam staff
   specialty: Photoshop
   funFact: "My Hobbies Include: Playing video games, reading comics, any type of Fantasy Sport, watching Star Wars for the 200 Hundredth time, and trying to explain to my grandparents what I do."
   location: San Francisco
@@ -566,3 +566,26 @@
   Phone: 
   website: 
   description: "Currently a High School student just strying to learn as much I can<br><br>" 
+ 
+
+ - name: Ivan Hurtado 
+  title: Lead Instructor 
+  mainImage: Ivan.jpg
+  funImage: Ivan.jpg
+  secImage: 
+  team: 
+  teamClass: staff
+  specialty: 
+  funFact: 
+  location: 
+  email: 
+  linkedIn: ivan-hurtado-97785b3
+  twitter:
+  github: 
+  facebook:
+  googlePlus:
+  Phone:
+  website: 
+  description: "I am an experienced Technology-based Facilitator with a demonstrated history of working in the non-profit organization management industry. I am also skilled in Youth Development, Classroom Management, Instructional Design, Team Building, and Public Speaking. I have very Strong community and social services professional with a A.S. focused in Computer Technology from Heald College." 
+
+
