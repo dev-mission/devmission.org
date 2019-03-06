@@ -567,8 +567,86 @@
   website: 
   description: "Currently a High School student just strying to learn as much I can<br><br>" 
   
- 
- 
+  
+  
+- name: Jocelyne Umanzor 
+  title: Intern
+  mainImage: JocelyneMain.jpg
+  funImage: JocelyneMain.jpg
+  secImage: JocelyneMain.jpg
+  team: Intern
+  teamClass: interns 
+  specialty: 
+  funFact: .
+  location: San Francisco
+  email: 
+  linkedIn: jocelyne-umanzor
+  twitter:
+  github: 
+  facebook:
+  googlePlus:
+  Phone:
+  website: 
+  description: " <br> "
 
+- name: Stephany Pescador 
+  title: Intern
+  mainImage: StephanyMain.jpg
+  funImage: StephanyMain.jpg
+  secImage: StephanyMain.jpg
+  team: Intern
+  teamClass: interns 
+  specialty: 
+  funFact: .
+  location: San Francisco
+  email: 
+  linkedIn: stephanypescador
+  twitter:
+  github: 
+  facebook:
+  googlePlus:
+  Phone:
+  website: 
+  description: " <br> "
 
+- name: Luis Jara
+  title: Intern
+  mainImage: LuisMain.jpg
+  funImage: LuisMain.jpg
+  secImage: LuisMain.jpg
+  team: Intern
+  teamClass: interns 
+  specialty: 
+  funFact: .
+  location: San Francisco
+  email: 
+  linkedIn: luis-jara-768baa172
+  twitter:
+  github: 
+  facebook:
+  googlePlus:
+  Phone:
+  website: 
+  description: " <br> "
+
+- name: Leroy Valle-Bermudez
+  title: Intern
+  mainImage: LeroyMain.jpg
+  funImage: LeroyMain.jpg
+  secImage: LeroyMain.jpg  
+  team: Intern
+  teamClass: interns 
+  specialty: 
+  funFact: .
+  location: San Francisco 
+  email: 
+  linkedIn: leroyvallebermudez
+  twitter:
+  github: 
+  facebook:
+  googlePlus:
+  Phone:
+  website: 
+  description: " <br> "
+  
 
