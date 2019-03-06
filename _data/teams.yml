@@ -284,7 +284,7 @@
   funImage: coolZuri2.jpg
   secImage: inspZuri.jpg
   team:
-  teamClass:
+  teamClass: dmstaff
   specialty: IT
   funFact: I like to learn about different cultures and read romance novels
   location: San Francisco
@@ -567,85 +567,7 @@
   website: 
   description: "Currently a High School student just strying to learn as much I can<br><br>" 
   
-  - name: Jocelyne Umanzor 
-  title: Intern
-  mainImage: jocelyne.jpg
-  funImage: jocelyne.jpg
-  secImage: jocelyne.jpg
-  team: Intern
-  teamClass: interns
-  specialty: 
-  funFact: 
-  location: 
-  email: 
-  linkedIn: jocelyne-umanzor
-  twitter:
-  github: 
-  facebook:
-  googlePlus:
-  Phone:
-  website: 
-  description: " "
-
-  - name: Stephany Pescador 
-  title: Intern
-  mainImage: stephany.jpg
-  funImage: stephany.jpg
-  secImage: stephany.jpg
-  team: Intern
-  teamClass: interns
-  specialty: 
-  funFact: 
-  location: 
-  email: 
-  linkedIn: stephanypescador 
-  twitter:
-  github: 
-  facebook:
-  googlePlus:
-  Phone:
-  website: 
-  description: " "
-
-  - name: Luis Jara
-  title: Intern
-  mainImage: luis.jpg
-  funImage: luis.jpg
-  secImage: luis.jpg
-  team: Intern
-  teamClass: interns
-  specialty: 
-  funFact: 
-  location: 
-  email: 
-  linkedIn: luis-jara-768baa172
-  twitter:
-  github: 
-  facebook:
-  googlePlus:
-  Phone:
-  website: 
-  description: " "
-
-  - name: Leroy Valle-Bermudez
-  title: Intern
-  mainImage: leroy.jpg
-  funImage: leroy.jpg
-  secImage: leroy.jpg
-  team: Intern
-  teamClass: interns
-  specialty: 
-  funFact: 
-  location: 
-  email: 
-  linkedIn: leroyvallebermudez
-  twitter:
-  github: 
-  facebook:
-  googlePlus:
-  Phone:
-  website: 
-  description: " " 
+ 
  
 
 
