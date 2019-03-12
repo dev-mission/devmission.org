@@ -549,9 +549,9 @@
 
 - name: Gael Gil
   title: Front End Development Intern
-  mainImage: GaelGil.jpg
-  funImage: GaelGil.jpg
-  secImage: GaelGil.jpg
+  mainImage: GaelMain.jpg
+  funImage: GaelMain.jpg
+  secImage: GaelMain.jpg
   team: High School Student 
   teamClass: webDevelopmentTeam designMediaTeam interns dmStaff
   specialty:  
@@ -778,6 +778,25 @@
   description: "Gary 'G BiZ' Bizer attended San Jose State University where he obtained a media degree in Radio, Television, Film and Theatre & a minor in Journalism. He began working with youth and non-profit organizations in the fall of 2009. He started his career teaching audio production and video production in San Francisco’s Visitacion Valley district while simultaneously pursuing his dream of becoming an On-Air Radio Personality. In 2014 G BiZ won a contest to become a co-host for the Sana G Morning Show on 106.1 KMEL, where he has remained since and become an integral part of iHeart Media SF. Along with his success in radio he has taught media technology & music production on every level of K-12 SFUSD academics as well as within grassroots organization in San Francisco & Oakland."
                                   
                                   
-                                  
+
+- name: Marvin Brizuela
+  title: Music Lab Instructor
+  mainImage: MarvinMain.jpg
+  funImage:  MarvinFunny.jpeg
+  secImage: MarvinFunny.jpeg
+  team: Staff
+  teamClass: dmStaff
+  specialty:
+  funFact:
+  location: San Francisco
+  email:
+  linkedIn: marvin-brizuela-7887bb181
+  twitter:
+  github:
+  facebook:
+  googlePlus:
+  Phone:
+  website:
+  description: "At 20 years old YoungMars has effectively produced his own sound. From mixing up sounds from his latino roots with the sounds of smooth to now be “trapsoul” he has made it his own. Performing both in english and spanish he is a mix of both worlds. Coming out from one of the smaller cities in San Francisco CA YoungMars is on the come up. Watch out!"
                                   
                                   
