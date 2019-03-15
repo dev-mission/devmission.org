@@ -553,7 +553,7 @@
   funImage: GaelMain.jpg
   secImage: GaelMain.jpg
   team: High School Student 
-  teamClass: webDevelopmentTeam designMediaTeam interns dmStaff
+  teamClass: webDevelopmentTeam designMediaTeam interns 
   specialty:  
   funFact: I like to play soccer. 
   location: San Francisco 
@@ -654,10 +654,10 @@
   mainImage: IvanMain.jpg
   funImage: IvanMain.jpg
   secImage: IvanMain.jpg
-  team: 
+  team: Staff
   teamClass: dmStaff
-  specialty: 
-  funFact: 
+  specialty: Information Technology
+  funFact: Use to play semi pro baseball.
   location: San Francisco
   email: 
   linkedIn: ivan-hurtado-97785b3
