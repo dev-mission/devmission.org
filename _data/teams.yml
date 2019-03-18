@@ -547,27 +547,27 @@
 #   website: kusalite.github.io
 #   description: Born and Raised in San Francisco; Passionate about Art and Technology. Currently a student at City College of San Francisco. I want to move back into the city one day, and I will be doing that by continuing school and learning coding with the support of dev/Mission.
 
-#- name: Gael Gil
-#  title: Front End Development Intern
-#  mainImage: GaelMain.jpg
-#  funImage: GaelMain.jpg
-#  secImage: GaelMain.jpg
-#  team: High School Student 
-#  teamClass: webDevelopmentTeam designMediaTeam interns 
-#  specialty:  
-#  funFact: I like to play soccer. 
-#  location: San Francisco 
-#  email: 
-#  linkedIn: gael-gil-7a4baa172
-#  twitter: 
-#  github: GaelGil
-#  facebook: 
-#  googlePlus: 
-#  Phone: 
-#  website: 
-#  description: "Hi my name is Gael Gil, <br><br>
-#                I am currently a high school senior and was part of dev/Mission’s 5th cohort back in the fall of 2018!<br><br>
-#               While in the program I learned a lot of new things such as IoT, javascript and critical career skills, as well as getting to know a lot of new people such as volunteers and staff that helped us. After graduating in the fall devmission was offering a internship and I decided to give it a shot and try it. I am now the front end web developer intern, so far I've been doing well and currently learning a lot about front end web development but would as well like to learn about back end development."
+- name: Gael Gil
+  title: Front End Development Intern
+  mainImage: GaelMain.jpg
+  funImage: GaelMain.jpg
+  secImage: GaelMain.jpg
+  team: High School Student 
+  teamClass: webDevelopmentTeam designMediaTeam interns 
+  specialty:  
+  funFact: I like to play soccer. 
+  location: San Francisco 
+  email: 
+  linkedIn: gael-gil-7a4baa172
+  twitter: 
+  github: GaelGil
+  facebook: 
+  googlePlus: 
+  Phone: 
+  website: 
+  description: "Hi my name is Gael Gil, <br><br>
+                I am currently a high school senior and was part of dev/Mission’s 5th cohort back in the fall of 2018!<br><br>
+               While in the program I learned a lot of new things such as IoT, javascript and critical career skills, as well as getting to know a lot of new people such as volunteers and staff that helped us. After graduating in the fall devmission was offering a internship and I decided to give it a shot and try it. I am now the front end web developer intern, so far I've been doing well and currently learning a lot about front end web development but would as well like to learn about back end development."
   
   
   
