@@ -75,7 +75,7 @@ main h4 {
 
 .locations th {
      padding: 2%;
-    border: 1px solid white;
+    border: 1px solid SlateGray;
     text-align: inherit;
 }
 
@@ -187,7 +187,7 @@ background-color: honeydew;
 }
 
 .locations {
-      background-color: SlateGray;
+      background-color: black;
 }
 
 .hardware ul,
