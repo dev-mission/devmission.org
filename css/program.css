@@ -68,7 +68,8 @@ main h4 {
     margin-top: 5%;
     font-family: 'Montserrat', serif;
 }
-.locations table {
+
+  .locations table {
     width: 100%;
     margin: auto;
 }
@@ -184,6 +185,10 @@ background-color: honeydew;
 
 .iot {
         background-color: MistyRose;
+}
+
+.locations {
+    color: black;
 }
 
 .hardware ul,
