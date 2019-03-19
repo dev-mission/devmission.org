@@ -13,7 +13,7 @@
   twitter: leonardoysosa
   github: dev-mission
   facebook: leonardoysosa
-  googlePlus: u/0/+LeonardoSosaSF
+  googlePlus:
   Phone: (415) 572-3947
   website:
   description: "Leonardo Sosa has shared his insights on the digital divide at seminars, technology conventions, and tech companies. He is the Founder, CEO and Executive Director of dev/Mission and he was previously the technology manager at the Digital Opportunity Center for MEDA, a multi-tiered resource that connects community members to computer training, broadband access to low income families that receive free/reduce lunch, wireless access, support for job searches, financial education, and many other services.<br><br> He has connected over 1,000 adults to Basic and Intermediate Digital Literacy Trainings, proctoring more than 500 workforce participants to MOS Certifications, connecting more than 1,100 low income families to Comcast Internet Essentials Program, enrolling more than 150 untapped young adults to the Mission Techies Program and connecting close to a 100 young adults to IT entry level jobs earning an average wage of $22.00. Mr. Sosa holds a California teaching credential, multiple Microsoft Office Certifications, a CompTIA+ Certification and an associate of science (information technology) from CCSF. <br><br>Leonardo Sosa’s personal and professional history gives him extensive insight into the challenges that confront Latino youths aiming to succeed as first-generation college students. He is an enthusiastic role model whose professional path illustrates the wide range of career opportunities that begin with technical training. His greatest passion is directing leadership and tech training program for low-income youth in the Mission. His extensive contacts in San Francisco’s tech industries are invaluable to youths striving to bridge the digital divide and make a place for themselves in the most exciting sector of the region’s economy. "
@@ -342,7 +342,7 @@
   title: Career Counselor Specialist
   mainImage: Arya.jpg
   funImage: coolArya.jpg
-  secImage:
+  secImage: coolArya.jpg
   team: Leadership Team
   teamClass: leadershipTeam
   specialty: As described by people he has served over the years "Arya is a career rockstar/motivational badass."
@@ -415,7 +415,7 @@
   facebook:
   googlePlus:
   Phone:
-  website: https://yaritzaperez.tech
+  website:
   description: "Yaritza attended Dev Bootcamp to learn web development skills, meanwhile going to San Francisco state university part-time. She loves to help people out with coding questions! On her free time she tutors anyone who needs help with code. <br><br>Building projects is something she loves to do, her proudest project is:<a href='http://sanctuaryapp.herokuapp.com/'>http://sanctuaryapp.herokuapp.com/</a>. Yaritza is just your average person trying to do extraordinary things through code!!<br>What she does with her extra time: dancing, drawing, writing, and harry potter enthusiast...because why not try new things."
 
 - name: Christian Salas
@@ -741,7 +741,7 @@
   title: Administrative Assistant
   mainImage: JessicaLinares.jpg
   funImage: JessicaLinares.jpg
-  secImage: JessicaLinares.jpgß
+  secImage: JessicaLinares.jpg
   team: Staff
   teamClass: dmStaff
   specialty: 
