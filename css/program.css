@@ -77,7 +77,7 @@ main h4 {
     width: 100%;
   }
 
-  .locations td, th {
+  .locations tr, td {
     border: 1px solid #dddddd;
     text-align: left;
     padding: 8px;
