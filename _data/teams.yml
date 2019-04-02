@@ -651,25 +651,25 @@
   website: 
   description: " <br> "
   
-#- name: Rayonna Anderson
-#  title: Intern
-#  mainImage: Rayonna.jpg
-#  funImage: Rayonna.jpg
-#  secImage: Rayonna.jpg
-#  team: Intern
-#  teamClass: intenrs
-#  specialty:
-#  funFact: .  
-#  location: San Francisco
-#  email:
-#  linkedIn:
-#  twitter:
-#  github:
-#  facebook:
-#  googlePlus:
-#  Phone:
-#  website:
-#  description: "<br>"
+- name: Rayonna Anderson
+  title: Intern
+  mainImage: RayonnaMain.jpg
+  funImage: RayonnaMain.jpg
+  secImage: RayonnaMain.jpg
+  team: Intern
+  teamClass: intenrs
+  specialty:
+  funFact: .  
+  location: San Francisco
+  email:
+  linkedIn:
+  twitter:
+  github:
+  facebook:
+  googlePlus:
+  Phone:
+  website:
+  description: "<br>"
 
   
 - name: Ivan Hurtado 
