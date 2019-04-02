@@ -804,9 +804,9 @@
 
 - name: Raven Boddie
   title: Instructor for Robert B.Pitts site
-  mainImage: RavenMain
-  funImage: RavenMain
-  secImage: RavenMain
+  mainImage: RavenMain.jpg
+  funImage: RavenMain.jpg
+  secImage: RavenMain.jpg
   team: Staff
   teamClass: dmStaff
   specialty:
