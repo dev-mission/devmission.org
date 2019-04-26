@@ -98,6 +98,28 @@
   website: http://abraham.mx/
   description: 'Abraham Velazquez Tello from the dev/Mission leadership team, is a Sr Frontend Engineer at Dropbox, proprietor of <a href="http://lunaroja.org">lunaroja.org</a> and the founder of <a href="http://Gozamos.com">gozamos.com</a>. His goal as a hybrid developer-designer, is to executing high‑quality user experiences for the open web. Abraham has worked for clients ranging from not‑for‑profit organizations serving minority communities to Fortune 500 companies. <br><br>After teaching 4 Mission Techie Cohorts, more than 100 hours of HTML, CSS and JavaScript to over 75 Young Adults from underserved communities, Abraham have also help create not only a pipeline for diversity but the next wave of full stack developers, engineers, programmers, and IT Technicians. '
 
+- name: Francis Li
+  title: Software Engineer
+  mainImage: FrancisMain.jpg
+  funImage:  FrancisSecond.jpg
+  secImage: FrancisMain.jpg
+  team: Staff
+  teamClass: leadershipTeam
+  specialty: Softa
+  funFact: Attends Comic-Con every year, and one of these days is going to cosplay with a costume outfitted with custom wearable electronics.
+  location: San Francisco
+  email:
+  linkedIn: francisli
+  twitter:
+  github:
+  facebook:
+  googlePlus:
+  Phone:
+  website:
+  description: "Francis Li is a software engineer and an interaction designer, a serial entrepreneur in Silicon Valley and an educator of creative coding technologies and practices. A Bay Area native, Francis holds BA and MS degrees in Computer Science from U.C. Berkeley and a Master in Interaction Design degree from the Interaction Design Institute Ivrea."
+                                 
+
+
 - name: Sam Moss
   title: Mission Housing
   mainImage: SamMoss.png
@@ -843,23 +865,4 @@
   website:
   description: "At 20 years old YoungMars has effectively produced his own sound. From mixing up sounds from his latino roots with the sounds of smooth to now be “trapsoul” he has made it his own. Performing both in english and spanish he is a mix of both worlds. Coming out from one of the smaller cities in San Francisco CA YoungMars is on the come up. Watch out!"
 
-# - name: Francis Li
-#   title: Software Engineer
-#   mainImage: FrancisMain.
-#   funImage:  FrancisSecond.
-#   secImage: FrancisMain.
-#   team: Staff
-#   teamClass: leadershipTeam
-#   specialty: Softa
-#   funFact: Attends Comic-Con every year, and one of these days is going to cosplay with a costume outfitted with custom wearable electronics.
-#   location: San Francisco
-#   email:
-#   linkedIn: francisli
-#   twitter:
-#   github:
-#   facebook:
-#   googlePlus:
-#   Phone:
-#   website:
-#   description: "Francis Li is a software engineer and an interaction designer, a serial entrepreneur in Silicon Valley and an educator of creative coding technologies and practices. A Bay Area native, Francis holds BA and MS degrees in Computer Science from U.C. Berkeley and a Master in Interaction Design degree from the Interaction Design Institute Ivrea."
-                                  
+ 
