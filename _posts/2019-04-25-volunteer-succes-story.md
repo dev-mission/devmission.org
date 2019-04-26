@@ -35,7 +35,7 @@ As every teacher learns, there is also so much to learn when teaching. The stude
 
 
 
-<strong>Share any personal anecdotes involved with <dev/Mission>? <strong><br>
+<strong>Share any personal anecdotes involved with <dev/Mission>? </strong><br>
 That feeling when some new-fangled device just doesn’t seem to work with the WiFi? We get that with a class of 20 students simultaneously. In our pursuit of ever better signals, we’ve climbed on and rearranged furniture, mapped all corners of the room and then the building, and burned through a lot of personal data plans for hotspots. It’s all worth it to see what the students can build and watching them devour new content even if we need to fall back to analogue teaching.<br>
 
 
