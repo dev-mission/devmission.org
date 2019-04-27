@@ -1,22 +1,14 @@
 ---
 layout: post
 title: Working in Tech and Giving Back
-subtitle: Press Release
+subtitle: Volunteer Story
 date: 2019-04-25
 author: Leonardo Sosa
 image:  BryanTeaching.jpg
 alt: volunteer_success_story
 ---
-Leonardo Sosa, Executive Director<br>
-(415) 572.3947<br>
-leo@devmission.org<br>
 
-<br>FOR IMMEDIATE RELEASE<br/>
-
-
-<br>April 25, 2019<br/>
-
-<strong>Name, hometown:</strong><br>
+<strong>Name, Hometown:</strong><br>
 Bryan Seybold, New Brighton, MN / San Francisco, CA<br>
 
 <strong>How long have you been a <dev/Mission> volunteer?</strong><br>
