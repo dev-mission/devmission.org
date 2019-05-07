@@ -660,8 +660,8 @@
   secImage: LeroyMain.jpg  
   team: Intern
   teamClass: interns 
-  specialty: 
-  funFact: .
+  specialty: C++
+  funFact:  
   location: San Francisco 
   email: 
   linkedIn: leroyvallebermudez
@@ -691,7 +691,27 @@
   googlePlus:
   Phone:
   website:
-  description: "<br>"
+  description: "<br>"  
+  
+# - name: Alise Minor 
+#   title: Staff
+#   mainImage: AliseMain.jpeg
+#   funImage: AliseMain.jpeg
+#   secImage: AliseMain.jpeg 
+#   team: Staff
+#   teamClass: Staff
+#   specialty: 
+#   funFact:  A fun fact about myself is always smiling, people call me Smiley.
+#   location: San Francisco 
+#   email: 
+#   linkedIn: alise-minor-77392a176
+#   twitter:
+#   github: 
+#   facebook:
+#   googlePlus:
+#   Phone:
+#   website: 
+#   description: "My name is Alise Minor I was born and raised in San Francisco. I been living in hunters point for about 10 years now. I have volunteer and work experience with Girls 2000, the Kirkwood food pantry, Wise Health, and Hunters Point Families. I feel I can bring many qualities and fun activities to my position in this program."
 
   
 - name: Ivan Hurtado 
