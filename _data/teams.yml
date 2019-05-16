@@ -886,24 +886,24 @@
   website:
   description: "At 20 years old YoungMars has effectively produced his own sound. From mixing up sounds from his latino roots with the sounds of smooth to now be “trapsoul” he has made it his own. Performing both in english and spanish he is a mix of both worlds. Coming out from one of the smaller cities in San Francisco CA YoungMars is on the come up. Watch out!"
 
-# - name: Britt Hayse
-#   title: Staff
-#   mainImage: BrittHayse.jpeg
-#   funImage:  BrittHayse.jpeg
-#   secImage: BrittHayse.jpeg
-#   team: Staff
-#   teamClass: leadershipTeam
-#   specialty:
-#   funFact: Britt played NCAA Division I water polo at UC Santa Barbara while completing her BA. 
-#   location: San Francisco
-#   email:
-#   linkedIn: britt-hayse-9067a4116
-#   twitter:
-#   github:
-#   facebook:
-#   googlePlus:
-#   Phone:
-#   website:
-#   description: "President of Hayse Group, Inc, has been working in resource development and grants administration since 2007. She has raised over $10 million in public and private sources for diverse nonprofits in sectors such as education, health, and economic development. She held progressive development positions before founding her consulting firm and now offers grant writing, grant administration, fundraising, and related services to clients in the San Francisco Bay Area and beyond. She holds an MA in International Policy from the  Middlebury Institute of International Studies at Monterey and a BA in Global Studies from UC Santa Barbara."
+- name: Britt Hayse
+  title: Staff
+  mainImage: BrittHayse.jpg
+  funImage:  BrittFun.jpg
+  secImage: BrittHayse.jpg
+  team: Staff
+  teamClass: leadershipTeam
+  specialty:
+  funFact: Britt played NCAA Division I water polo at UC Santa Barbara while completing her BA. 
+  location: San Francisco
+  email:
+  linkedIn: britt-hayse-9067a4116
+  twitter:
+  github:
+  facebook:
+  googlePlus:
+  Phone:
+  website:
+  description: "President of Hayse Group, Inc, has been working in resource development and grants administration since 2007. She has raised over $10 million in public and private sources for diverse nonprofits in sectors such as education, health, and economic development. She held progressive development positions before founding her consulting firm and now offers grant writing, grant administration, fundraising, and related services to clients in the San Francisco Bay Area and beyond. She holds an MA in International Policy from the  Middlebury Institute of International Studies at Monterey and a BA in Global Studies from UC Santa Barbara."
 
  
