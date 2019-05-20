@@ -804,9 +804,9 @@
   
 - name: Tangy Franks
   title: Education Workforce Development Specialist
-  mainImage: TangyFunny.jpg
+  mainImage: TangyMain.jpg
   funImage: TangyFunny.jpg
-  secImage: TangyFunny.jpg
+  secImage: TangyMain.jpg
   team: Education Workforce Development Specialist
   teamClass: dmStaff
   specialty: Workforce Management Analyst
