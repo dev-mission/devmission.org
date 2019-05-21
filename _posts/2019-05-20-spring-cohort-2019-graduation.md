@@ -32,7 +32,7 @@ projects.<br>
 The program is unique in that instruction takes place exclusively onsite in affordable housing communities in <br>San Francisco, and youth participants are required to provide much-needed free tech support and repair services to <br>
 low-income families in their communities when they graduate from their program.<br>
 
-The graduation was an opportunity to honored students for their hard work in the presence of their families and<br> friends. Speakers included partners from the tech industry and members of the graduation class, and internship <br
+The graduation was an opportunity to honored students for their hard work in the presence of their families and<br> friends. Speakers included partners from the tech industry and members of the graduation class, and internship <br>
 placements were also be announced.<br>
 
 To learn more about &lt;dev/Mission&gt; which aims to train untapped young adults ages 16-24 for careers in tech,<br>
