@@ -16,13 +16,13 @@ FOR IMMEDIATE RELEASE<br>
 
 June 3, 2019<br>
 
-dev/Mission Announces New Lease Agreement with Mission Housing<br>
+&lt;dev/Mission&gt; Announces New Lease Agreement with Mission Housing<br>
 
 (SAN FRANCISCO, Calif.) — One of the premier Resident Services collaborations in San Francisco is<br>
 taking another step forward. On June 3, 2019, two years after agreeing to partner and incubate at<br> 
 one of Mission Housing Development Corporation’s marquee buildings, &lt;dev/Mission&gt;  has signed a new <br>
-lease agreement with the nonprofit developer making Valencia Gardens, located at 360 Valencia St., t<br>
-he official headquarters of the tech nonprofit.
+lease agreement with the nonprofit developer making Valencia Gardens, located at 360 Valencia St., <br>
+the official headquarters of the tech nonprofit.
 
 "When we incubated dev/Mission two years ago, we could only dream that Leo and his team would<br>
 reward our faith the way that they have,” said Sam Moss, Executive Director at Mission Housing. “We're<br>
@@ -32,11 +32,11 @@ assets to our communities because that is the Mission Housing way."<br>
 
 Mission Housing and dev/Mission are pleased to extend an invitation to the public on June 3, 2019 for<br>
 the official ribbon cutting ceremony at the official headquarters of dev/Mission — 360 Valencia St. <br>
-In the heart of the Mission District. <br><br>
+In the heart of the Mission District. <br>
 
 “Dev/Mission is very thankful to our partner Mission Housing Development Corporation for working<br>
 together with our leadership team to develop this amazing lease that will help us enhance and deliver<br>
-programming in the Mission District for years to come,” said Leo Sosa, Executive Director of &lt;dev/Mission&gt;<br><br>
+programming in the Mission District for years to come,” said Leo Sosa, Executive Director of &lt;dev/Mission&gt;<br>
 
 
 “You know your work matters when you support an amazing organization and partner such as &lt;dev/Mission&gt;,” <br>
@@ -52,7 +52,7 @@ Leonardo Sosa, Executive Director<br>
 leonardososa@devmission.org<br>
 Julio Lara, Communications Manager<br>
 (650) 678.4957<br>
-jlara@missionhousing.org<br><br>
+jlara@missionhousing.org<br>
 
 leaders in the tech industry. They will now be responsible to open doors to others coming behind them<br>
 within our own community.”<br>
@@ -69,7 +69,7 @@ Mission Housing Development Corporation is a nonprofit, community-based organiza
 preserving high-quality affordable housing, and providing supportive services for residents of low and<br>
 moderate incomes in the Mission District and throughout San Francisco. For more information on<br>
 Mission Housing, visit MissionHousing.org.<br>
-ABOUT <DEV/MISSION>:<br>
+ABOUT <strong>&lt;dev/Mission&gt;</strong>:<br>
 Our Mission: To train untapped young adults for careers in technology.<br>
 Our Vision: To build wealth and prosperity in our local diverse communities through jobs in technology.<br>
 Our Goal: Our goal is to connect the most overlooked population in San Francisco, Bay Area and<br>
