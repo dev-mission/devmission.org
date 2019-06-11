@@ -764,26 +764,25 @@
   website:
   description: "At 20 years old YoungMars has effectively produced his own sound. From mixing up sounds from his latino roots with the sounds of smooth to now be “trapsoul” he has made it his own. Performing both in english and spanish he is a mix of both worlds. Coming out from one of the smaller cities in San Francisco CA YoungMars is on the come up. Watch out!"
 
-# - name: Eduardo Ramirez
-#   title: Intern
-#   mainImage: 
-#   funImage: 
-#   secImage:
-#   team: Intern
-#   teamClass: interns
-#   specialty:
-#   funFact:
-#   location: San Francisco
-#   email:
-#   linkedIn:
-#   twitter:
-#   github:
-#   facebook:
-#   googlePlus:
-#   Phone:
-#   website:
-#   description:
-
+- name: Eduardo Ramirez
+  title: Intern
+  mainImage: EddieMain.jpg
+  funImage: EddieMain.jpg
+  secImage: EddieMain.jpg
+  team: Intern
+  teamClass: interns
+  specialty:
+  funFact: Music was one of my dream careers at somepoint. I still sing and play my accordion as a hobbyto not forget my roots and where I come from
+  location: San Francisco
+  email:
+  linkedIn: eduardo0518
+  twitter:
+  github:
+  facebook:
+  googlePlus:
+  Phone:
+  website:
+  description: I am a dreamer in the bay area striving for success. I am a family person that’s responsible and loves to take on challenges. Back in the 2018 fall, I graduated from a 12-week Pre-Apprenticeship program at “<dev/Mission>” where I acquired multiple skills such as Troubleshooting, IOT, Soft Skills, HTML, CSS, and Javascript. Once I completed the training I was given the opportunity to join an internship where I got to get hands-on Tech Support, Asset Inventory, crimping cables, running wiring to designated sites and OS Installation. I plan on obtaining a career in IT Support/Helpdesk.
 
 - name: Gael Gil
   title: Front End Development Intern
