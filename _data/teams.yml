@@ -380,54 +380,54 @@
   website: http://csalas.tech/
   description: "Christian loves to break things down to fully understand what's going on behind the hood and then go back to fix them. He has a theoretical background from Computer Science and a practical background from Dev Bootcamp."
 
-- name: Stephanie Cueto
-  title: Aspiring Developer
-  mainImage: stephanieCueto.jpg
-  funImage: coolSteph.jpg
-  secImage: inspStephanie.jpg
-  team: Aspiring Developer
-  teamClass: 
-  specialty: Latin Studies
-  funFact: I like to paint and read Spanish literature.
-  location: San Francisco
-  email: stephanie@gmail.com
-  linkedIn: stephaniecueto
-  twitter:
-  github: smcueto
-  facebook:
-  googlePlus:
-  Phone:
+# - name: Stephanie Cueto
+#   title: Aspiring Developer
+#   mainImage: stephanieCueto.jpg
+#   funImage: coolSteph.jpg
+#   secImage: inspStephanie.jpg
+#   team: Aspiring Developer
+#   teamClass: 
+#   specialty: Latin Studies
+#   funFact: I like to paint and read Spanish literature.
+#   location: San Francisco
+#   email: stephanie@gmail.com
+#   linkedIn: stephaniecueto
+#   twitter:
+#   github: smcueto
+#   facebook:
+#   googlePlus:
+#   Phone:
 
-- name: Daniela Meza-Gray
-  title: Program Development Coordinator
-  mainImage: danielaMeza.jpg
-  funImage: funnyDanielaMeza.jpg
-  secImage: funnyDanielaMeza.jpg
-  team: Program Development Coordinator
-  teamClass: 
-  specialty: Leadership
-  funFact: Foodie with a donut obsession.
-  location: Oakland
-  email:
-  linkedIn: danielameza
-  twitter: danee_m
-  github:
-  facebook:
-  googlePlus:
-  Phone:
-  website:
-  description: "Daniela is currently the Program Coordinator of the Volunteer Legal Services
-  Corporation in Oakland, a nonprofit dedicated to improving access to justice to the low-income
-  residents of Alameda County. As a first generation college graduate and DACA recipient, Daniela
-  has a strong commitment to facilitating and creating pathways for low-income diverse communities
-  to succeed in education and in the workforce.</br></br>Previous to her role at VLSC, Daniela
-  worked for the Pomona College Academy for Youth Success, a college access program committed to
-  increasing the number of students from low-income and historically underrepresented backgrounds in
-  highly selective colleges and universities. Through her personal experience and work with
-  low-income and minority communities, Daniela has seen the limitless potential of diverse
-  communities when given the tools and opportunities to succeed. She hopes to one day lead diversity
-  initiatives for tech companies that are ready to invest in the infrastructure necessary to recruit
-  and retain the most talented and diverse candidates in our communities. "
+# - name: Daniela Meza-Gray
+#   title: Program Development Coordinator
+#   mainImage: danielaMeza.jpg
+#   funImage: funnyDanielaMeza.jpg
+#   secImage: funnyDanielaMeza.jpg
+#   team: Program Development Coordinator
+#   teamClass: 
+#   specialty: Leadership
+#   funFact: Foodie with a donut obsession.
+#   location: Oakland
+#   email:
+#   linkedIn: danielameza
+#   twitter: danee_m
+#   github:
+#   facebook:
+#   googlePlus:
+#   Phone:
+#   website:
+#   description: "Daniela is currently the Program Coordinator of the Volunteer Legal Services
+#   Corporation in Oakland, a nonprofit dedicated to improving access to justice to the low-income
+#   residents of Alameda County. As a first generation college graduate and DACA recipient, Daniela
+#   has a strong commitment to facilitating and creating pathways for low-income diverse communities
+#   to succeed in education and in the workforce.</br></br>Previous to her role at VLSC, Daniela
+#   worked for the Pomona College Academy for Youth Success, a college access program committed to
+#   increasing the number of students from low-income and historically underrepresented backgrounds in
+#   highly selective colleges and universities. Through her personal experience and work with
+#   low-income and minority communities, Daniela has seen the limitless potential of diverse
+#   communities when given the tools and opportunities to succeed. She hopes to one day lead diversity
+#   initiatives for tech companies that are ready to invest in the infrastructure necessary to recruit
+#   and retain the most talented and diverse candidates in our communities. "
 
 - name: Ismael Sosa
   title: Digital Designer
@@ -449,25 +449,25 @@
   website: http://www.ismaelsosadesign.com/
   description: "Born and raised in San Francisco, I wanted to experience the world faster so I finished High School a year early. Took the fall off and now I'm currently studying Digital Design at Miami Ad School.<br> <a href='https://www.pinterest.com/ismaelsosa98/' target='_blank'><i class='fa fa-pinterest-p'></i>  Pinterest Page</a><br><a href='https://www.behance.net/IsmaelSosa' target='_blank'><i class='fa fa-behance'></i>  Behance Page</a>"
 
-- name: Aura Barba Serrato
-  title: Marketing & Communications Volunteer
-  mainImage: AuraBarba.jpg
-  funImage: coolAura.jpg
-  secImage: inspAura.jpg
-  team:
-  teamClass: designMediaTeam
-  specialty: Marketing and Data Analytics
-  funFact: I’m not a professional dancer but anyways I’ve been dancing with “La Cumbiamba Colombiana” at the San Francisco Carnaval
-  location: San Francisco
-  email: auramil1988@gmail.com
-  linkedIn: aura-barba-serrato-7393384a
-  twitter:
-  github:
-  facebook: aura.barva
-  googlePlus:
-  Phone: (415) 632-9764
-  website:
-  description: I’m from Cartagena, Colombia and I’ve been living in San Francisco for four years. I have an Industrial Engineering bachelor’s degree from Colombia and a Marketing associate from CCSF. Also I have experience in data analytics. Even though my two backgrounds are different, I love getting insights from the numbers and at the same time I like to be creative all the time. For me marketing and data results work together. Moving here it has been a great experience with a lot of growth personally and professionally. <br>If I can describe my self in five words, they will be Latina, Independent, Feminist, Folklore Lover, and Passionate.
+# - name: Aura Barba Serrato
+#   title: Marketing & Communications Volunteer
+#   mainImage: AuraBarba.jpg
+#   funImage: coolAura.jpg
+#   secImage: inspAura.jpg
+#   team:
+#   teamClass: designMediaTeam
+#   specialty: Marketing and Data Analytics
+#   funFact: I’m not a professional dancer but anyways I’ve been dancing with “La Cumbiamba Colombiana” at the San Francisco Carnaval
+#   location: San Francisco
+#   email: auramil1988@gmail.com
+#   linkedIn: aura-barba-serrato-7393384a
+#   twitter:
+#   github:
+#   facebook: aura.barva
+#   googlePlus:
+#   Phone: (415) 632-9764
+#   website:
+#   description: I’m from Cartagena, Colombia and I’ve been living in San Francisco for four years. I have an Industrial Engineering bachelor’s degree from Colombia and a Marketing associate from CCSF. Also I have experience in data analytics. Even though my two backgrounds are different, I love getting insights from the numbers and at the same time I like to be creative all the time. For me marketing and data results work together. Moving here it has been a great experience with a lot of growth personally and professionally. <br>If I can describe my self in five words, they will be Latina, Independent, Feminist, Folklore Lover, and Passionate.
 
 # - name: Noé Roman
 #   title: Communications Volunteer
