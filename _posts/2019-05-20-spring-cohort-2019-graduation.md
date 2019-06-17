@@ -7,7 +7,7 @@ author: Leonardo Sosa
 image:  spring_2019_graduation.jpg
 alt: spring 2019 grduation
 ---
-Leonardo Sosa, Executive DirectoR<br>
+Leonardo Sosa, Executive Director<br>
 (415) 572.3947<br>
 leo@devmission.org<br>
 
