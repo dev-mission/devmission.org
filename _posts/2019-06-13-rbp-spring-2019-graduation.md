@@ -24,9 +24,9 @@ careers in the tech sector as well as post-secondary educational programs.<br><b
 In partnership with FRH Consulting, Danielle Banks and Evie Barranco, we provided technology<br>
 instruction to 6 transitional-age youth, ages 16-24 since February 2019, in the following competencies:<br>
 
-A+ Training: 1st crucial step to advance IT Certifications.<br>
-Intro to Programming: Learn HTML, CSS, and JavaScript as youth build their own website, web app or mobile app.<br>
-Critical Career Skills: Youth learn about Job Readiness, business communication, professionalism, and team building projects.<br><br>
+<strong>A+ Training</strong>: 1st crucial step to advance IT Certifications.<br>
+<strong>Intro to Programming</strong>: Learn HTML, CSS, and JavaScript as youth build their own website, web app or mobile app.<br>
+<strong>Critical Career Skills</strong>: Youth learn about Job Readiness, business communication, professionalism, and team building projects.<br><br>
 
 The program is unique in that instruction takes place exclusively onsite in affordable housing<br> communities in San Francisco, and youth participants are required to provide much-needed free <br>
 tech support and repair services to low-income families in their communities when they graduate<br>
