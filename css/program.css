@@ -93,7 +93,7 @@ main h4 {
 
 section .program-menu,
 .wrapper-sub-menu {
-    background-color: #1D3557;
+    background-color: #1377FF;
 }
 
 .wrapper-sub-menu .sub-menu {
@@ -216,7 +216,7 @@ background-color: honeydew;
 
 #faqs .panel-default .panel-heading {
     color: azure;
-    background-color: #1D3557;
+    background-color: #1377FF;
     border-color: black;
 }
 /*---Media Queries---*/
