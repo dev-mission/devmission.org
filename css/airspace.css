@@ -324,7 +324,7 @@
               right: 0;
               width: 100%;
               height: 100%;
-              background: linear-gradient(to bottom, #1377FF, #1D354F);
+              background: linear-gradient(to bottom, #1377FF, #1377f7);
               opacity: 0.8;
             }
 
@@ -536,7 +536,7 @@
                 right: 0;
                 width: 100%;
                 height: 100%;
-                background: linear-gradient(to bottom, #1377FF, #1D354F);
+                background: linear-gradient(to bottom, #1377FF, #1377f7);
                 opacity: 0.8;
               }
               #feature p {
@@ -671,7 +671,7 @@
               right: 0;
               width: 100%;
               height: 100%;
-              background: linear-gradient(to left, #1377FF, #1D354F 70%);
+              background: linear-gradient(to left, #1377FF, #1377f7 70%);
               opacity: 0.8;
             }
 
