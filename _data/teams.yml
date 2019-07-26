@@ -19,11 +19,11 @@
   description: "Leonardo Sosa has shared his insights on the digital divide at seminars, technology conventions, and tech companies. He is the Founder, CEO and Executive Director of dev/Mission and he was previously the technology manager at the Digital Opportunity Center for MEDA, a multi-tiered resource that connects community members to computer training, broadband access to low income families that receive free/reduce lunch, wireless access, support for job searches, financial education, and many other services.<br><br> He has connected over 1,000 adults to Basic and Intermediate Digital Literacy Trainings, proctoring more than 500 workforce participants to MOS Certifications, connecting more than 1,100 low income families to Comcast Internet Essentials Program, enrolling more than 150 untapped young adults to the Mission Techies Program and connecting close to a 100 young adults to IT entry level jobs earning an average wage of $22.00. Mr. Sosa holds a California teaching credential, multiple Microsoft Office Certifications, a CompTIA+ Certification and an associate of science (information technology) from CCSF. <br><br>Leonardo Sosa’s personal and professional history gives him extensive insight into the challenges that confront Latino youths aiming to succeed as first-generation college students. He is an enthusiastic role model whose professional path illustrates the wide range of career opportunities that begin with technical training. His greatest passion is directing leadership and tech training program for low-income youth in the Mission. His extensive contacts in San Francisco’s tech industries are invaluable to youths striving to bridge the digital divide and make a place for themselves in the most exciting sector of the region’s economy. "
 
 - name: Kurtis Nusbaum
-  title: Deputy Director and CTO
+  title: Dev Mission Board Co-Chair
   mainImage: kurtis.png
   funImage: kurtisfunny.jpg
   secImage: inspKurtis.jpg
-  team: Deputy Director and CTO
+  team: Dev Mission Board Co-Chair
   teamClass: leadershipTeam
   specialty: Software Engineering
   funFact: I will run forever - Love running
@@ -40,11 +40,11 @@
 
 
 - name: Deborah Jaramillo
-  title: Financial Advisor and CFO
+  title: CFO and Board Treasurer
   mainImage: deborah.jpg
   funImage: funnyDeborah.jpg
   secImage: inspDeborah.jpg
-  team: Financial Advisor and CFO
+  team: CFO and Board Treasurer
   teamClass: leadershipTeam
   specialty: Management
   funFact: Started singing at the age of 4!
@@ -60,11 +60,11 @@
   description: "Current VP, Branch Manager at JP Morgan Chase. Deborah was born and raised in San Francisco where she then went on to completing her MBA from Dominican University of CA. Previously, Deborah was a Digital Connector from 2003 to 2006 and volunteered/interned for One Economy Corporation as a Development Intern working with the development team to raise money for undeserved technology programs.<br><br> Deborah has 7 years of work experience in the finance industry and over 10 years of experience partnering with nonprofits in the Bay Area aiming to bridge the gap of untapped youth into tech industry. <br><br>Deborah has always been reliable, responsible and passionate for working with low income families."
 
 - name: Abraham Velazquez
-  title: Full Stack Engineer
+  title: Board Chair
   mainImage: AbrahamVelazquez.jpg
   funImage: darkAbraham.jpg
   secImage: inspAbraham.jpg
-  team: Leadership Team
+  team: Board Chair
   teamClass: leadershipTeam
   specialty: Front-End Engineer
   funFact: Best Salsa Dancer
@@ -80,11 +80,11 @@
   description: 'Abraham Velazquez Tello from the dev/Mission leadership team, is a Sr Frontend Engineer at Dropbox, proprietor of <a href="http://lunaroja.org">lunaroja.org</a> and the founder of <a href="http://Gozamos.com">gozamos.com</a>. His goal as a hybrid developer-designer, is to executing high‑quality user experiences for the open web. Abraham has worked for clients ranging from not‑for‑profit organizations serving minority communities to Fortune 500 companies. <br><br>After teaching 4 Mission Techie Cohorts, more than 100 hours of HTML, CSS and JavaScript to over 75 Young Adults from underserved communities, Abraham have also help create not only a pipeline for diversity but the next wave of full stack developers, engineers, programmers, and IT Technicians. '
 
 - name: Francis Li
-  title: Software Engineer
+  title: Board Secretary
   mainImage: FrancisMain.jpg
   funImage:  FrancisSecond.jpg
   secImage: FrancisMain.jpg
-  team: Staff
+  team: Board Secretary
   teamClass: leadershipTeam
   specialty: Softa
   funFact: Attends Comic-Con every year, and one of these days is going to cosplay with a costume outfitted with custom wearable electronics.
@@ -98,7 +98,27 @@
   Phone:
   website:
   description: "Francis Li is a software engineer and an interaction designer, a serial entrepreneur in Silicon Valley and an educator of creative coding technologies and practices. A Bay Area native, Francis holds BA and MS degrees in Computer Science from U.C. Berkeley and a Master in Interaction Design degree from the Interaction Design Institute Ivrea."
-                                 
+
+- name: April Alvarez
+  title: Board Member
+  mainImage: aprilMain.jpeg
+  funImage: aprilFun.jpg
+  secImage: arpilMain.jpeg
+  team: Board of Directors Member
+  teamClass: leadershipTeam 
+  specialty: Mass Communications
+  funFact: April is a half Ironman, she's completed two triathlons 70.3miles in distance and has NO desire to become a full Ironman.
+  location: San Francisco
+  email: 
+  linkedIn: alvarezapril
+  twitter: 
+  github: 
+  facebook: 
+  googlePlus: 
+  Phone: 
+  website:
+  description: "April grew up in California’s Central Valley and was the first to attend college in her family. April graduated from UC Berkeley with a B.A. in Mass Communications from UC Berkeley. After graduating, April joined Teach For America and taught thirty-two third grade students in New York City, while also completing her master’s degree in education. She returned to the west coast and continued to work in education at Eastside College Preparatory School in East Palo Alto, CA where she launched the Alumni Services Program at Eastside. After successfully building a team in providing college and career support to first-generation college students, April made the move to the tech industry. She is currently the Educational Equity Programs Manager for the Equity, Diversity and Inclusion team at Google. In this role, she manages key initiatives such as Code Next and Tech Exchange, Google’s programs to support and prepare more Black and Latinx students for a career in the tech industry. Her personal mission is to bridge the tech opportunity gap for Black and Latinx communities in major cities across the U.S. She is also the Co-Chair and a founding member of the Latinos in Tech Giving Circle, an active member of HOLA, Google’s employee resource group, and an alumna of HOPE."
+
 
 - name: Britt Hayse
   title: Developement
@@ -119,26 +139,6 @@
   Phone:
   website:
   description: "President of Hayse Group, Inc, has been working in resource development and grants administration since 2007. She has raised over $10 million in public and private sources for diverse nonprofits in sectors such as education, health, and economic development. She held progressive development positions before founding her consulting firm and now offers grant writing, grant administration, fundraising, and related services to clients in the San Francisco Bay Area and beyond. She holds an MA in International Policy from the  Middlebury Institute of International Studies at Monterey and a BA in Global Studies from UC Santa Barbara."
-
-- name: April Alvarez
-  title: Board of Directors Member
-  mainImage: aprilMain.jpeg
-  funImage: aprilFun.jpg
-  secImage: arpilMain.jpeg
-  team: Board of Directors Member
-  teamClass: leadershipTeam 
-  specialty: Mass Communications
-  funFact: April is a half Ironman, she's completed two triathlons 70.3miles in distance and has NO desire to become a full Ironman.
-  location: San Francisco
-  email: 
-  linkedIn: alvarezapril
-  twitter: 
-  github: 
-  facebook: 
-  googlePlus: 
-  Phone: 
-  website:
-  description: "April grew up in California’s Central Valley and was the first to attend college in her family. April graduated from UC Berkeley with a B.A. in Mass Communications from UC Berkeley. After graduating, April joined Teach For America and taught thirty-two third grade students in New York City, while also completing her master’s degree in education. She returned to the west coast and continued to work in education at Eastside College Preparatory School in East Palo Alto, CA where she launched the Alumni Services Program at Eastside. After successfully building a team in providing college and career support to first-generation college students, April made the move to the tech industry. She is currently the Educational Equity Programs Manager for the Equity, Diversity and Inclusion team at Google. In this role, she manages key initiatives such as Code Next and Tech Exchange, Google’s programs to support and prepare more Black and Latinx students for a career in the tech industry. Her personal mission is to bridge the tech opportunity gap for Black and Latinx communities in major cities across the U.S. She is also the Co-Chair and a founding member of the Latinos in Tech Giving Circle, an active member of HOLA, Google’s employee resource group, and an alumna of HOPE."
 
 #- name: Eiman Zolfaghari
 #  title: IOS Developer
