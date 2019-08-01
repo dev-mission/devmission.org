@@ -3,7 +3,7 @@ layout: post
 title: ABC 7 Corporate Site Visit
 subtitle: Press Release
 date: 2019-07-12
-author: Leonardo Sosa
+author: Maricar Esquivel
 image: abc_7_site_visit.jpg
 alt: abc 7 site visit
 ---
