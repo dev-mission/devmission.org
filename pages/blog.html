@@ -30,6 +30,7 @@ permalink: /blog/
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                     {% for post in site.posts %}
+                      {% unless post.draft %}
                     <div class="post-preview text-left">
                         <a href="{{ post.url | prepend: site.baseurl }}" style="color:black">
                             <h2 class="blog-h2 post-title">
@@ -45,6 +46,7 @@ permalink: /blog/
                         <p class="post-meta" style="color:grey">Posted by <a href="#" style="color:black">{{ post.author }}</a> on {{ post.date | date: "%B %-d, %Y" }}</p>
                     </div>
                     <hr style="border-top:1px solid #222;">
+                      {% endunless %}
                     {% endfor %}
                 </div>
             </div>
