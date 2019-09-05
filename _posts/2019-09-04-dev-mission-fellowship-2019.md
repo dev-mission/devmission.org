@@ -1,7 +1,7 @@
 ---
 draft: true
 layout: post
-title: "<dev/Mission> Fellowship 2019"
+title: dev/Mission Fellowship 2019
 subtitle: Calling all alumni!
 date: 2019-09-04
 author: Francis Li
