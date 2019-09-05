@@ -1,5 +1,4 @@
 ---
-draft: true
 layout: post
 title: dev/Mission Fellowship 2019
 subtitle: Calling all alumni!
