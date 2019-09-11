@@ -25,7 +25,7 @@ alt: <dev/Mission> Fellowship 2019
 </ul>
 <h3 class="c5" id="h.8qhsszjmevx0"><span class="c7">Stipend</span></h3>
 <ul class="c13 lst-kix_16aozpbi6ufb-0 start">
-<p><span>Fellows will receive a stipend of $1000, payable in two installments (after 12 weeks and at the end) subject to meeting the requirements above. A fellow must not be absent for more than </span><span>2 meetings every 6 </span><span class="c1">weeks to receive their stipend payments.</span></p>
+<p><span>Fellows will receive a stipend of $1000, payable in two installments (first at halfway point, second at the end) subject to meeting the requirements above. A fellow must not be absent for more than </span><span>2 meetings every 6 </span><span class="c1">weeks to receive their stipend payments.</span></p>
 </ul>
 <h3 class="c5" id="h.6kmkdv20iek6"><span class="c7">Info Session</span></h3>
 <p class="c2"><span>Interested alumni can attend an info session on </span><span class="c6"><b>Monday, September 16, 2019</b></span><span>&nbsp;at </span><span class="c6"><b>5pm</b></span><span>&nbsp;at </span><span class="c6"><b>Uber</b> </span><span>(555 Market St). </span><span class="c6 c9"><a class="c10" href="https://devmissionfellowship.splashthat.com/"><b>Click here to RSVP (Required!)</b></a></span><span>. </span><span>Alumni are also welcome to drop in at Code for San Francisco Weekly Civic Hack Nights every </span><span><b>Wednesday at 6pm</b></span><span class="c6">&nbsp;</span><span>(972 Mission St, 5th Floor), food provided, no RSVP required.</span></p>
