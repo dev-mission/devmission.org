@@ -16,6 +16,6 @@ FOR IMMEDIATE RELEASE<br>
 Sep 12th, 2019<br>
 
 
-<img src="..img/blog/reopening_part_one.png">
-<img src="..img/blog/reopening_part_two.png">
+<img src="../img/blog/reopening_part_one.png">
+<img src="../img/blog/reopening_part_two.png">
 
