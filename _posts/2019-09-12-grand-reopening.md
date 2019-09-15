@@ -4,7 +4,7 @@ title: Hunters Point East West & Westbrook Grand Reopening
 subtitle: Press Release
 date: 2019-09-12
 author: Leonardo Sosa
-image: grand_reopening.jpg
+image: GrantOpening.jpeg
 alt: group photo
 ---
 Leonardo Sosa, Executive Director<br>
