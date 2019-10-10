@@ -1,9 +1,9 @@
 - name: Leonardo Sosa
-  title: CEO and Executive Director
+  title: Founder & Executive Director
   mainImage: ceo.png
   funImage: cooldjleonardo.jpg
   secImage: focusLeo.png
-  team: CEO and Executive Director
+  team: Founder & Executive Director
   teamClass: leadershipTeam 
   specialty: Information Technology
   funFact: Yottabyte Sensei
@@ -19,11 +19,11 @@
   description: "Leonardo Sosa has shared his insights on the digital divide at seminars, technology conventions, and tech companies. He is the Founder, CEO and Executive Director of dev/Mission and he was previously the technology manager at the Digital Opportunity Center for MEDA, a multi-tiered resource that connects community members to computer training, broadband access to low income families that receive free/reduce lunch, wireless access, support for job searches, financial education, and many other services.<br><br> He has connected over 1,000 adults to Basic and Intermediate Digital Literacy Trainings, proctoring more than 500 workforce participants to MOS Certifications, connecting more than 1,100 low income families to Comcast Internet Essentials Program, enrolling more than 150 untapped young adults to the Mission Techies Program and connecting close to a 100 young adults to IT entry level jobs earning an average wage of $22.00. Mr. Sosa holds a California teaching credential, multiple Microsoft Office Certifications, a CompTIA+ Certification and an associate of science (information technology) from CCSF. <br><br>Leonardo Sosa’s personal and professional history gives him extensive insight into the challenges that confront Latino youths aiming to succeed as first-generation college students. He is an enthusiastic role model whose professional path illustrates the wide range of career opportunities that begin with technical training. His greatest passion is directing leadership and tech training program for low-income youth in the Mission. His extensive contacts in San Francisco’s tech industries are invaluable to youths striving to bridge the digital divide and make a place for themselves in the most exciting sector of the region’s economy. "
 
 - name: Kurtis Nusbaum
-  title: Deputy Director and CTO
+  title: Dev Mission Board Co-Chair
   mainImage: kurtis.png
   funImage: kurtisfunny.jpg
   secImage: inspKurtis.jpg
-  team: Deputy Director and CTO
+  team: Dev Mission Board Co-Chair
   teamClass: leadershipTeam
   specialty: Software Engineering
   funFact: I will run forever - Love running
@@ -38,32 +38,13 @@
   website: https://medium.com/@kurtisnusbaum
   description: "Kurtis, dev/mission co-founders and CTO, first started programming in high school and was hooked immediately. He went on to obtain his Bachelor's and Master's degree in Computer Science, and began his professional career as a software engineer at Facebook.<br><br> Today he is a Senior Software Engineer at Uber working to improve the lives of its drivers.Passionate about diversity, Kurtis believes that anyone should be able to pursue a career in Tech."
 
-- name: Jesse Martinez
-  title: Co-Founder
-  mainImage: JesseMartinez.png
-  funImage: coolJesse.jpg
-  secImage: inspJesse.jpg
-  team: Co-Founder
-  teamClass: leadershipTeam
-  specialty: Entrepeneur
-  funFact:
-  location: San Francisco
-  email: jesse@devmission.org
-  linkedIn: jessemartinez1
-  twitter: Chuy101
-  github:
-  facebook:
-  googlePlus:
-  Phone:
-  website:
-  description: "Originally from Houston, Texas, Jesse found his way to San Francisco in March 1997 where he first experienced what it meant to work for a startup. As employee 27, he got to see firsthand the building of a Silicon Valley company (funded by Sequoia Capital) that ultimately grew into a thousand employee+ corporation all in less than a year as it was acquired for $180 million by Frontier Communications. <br> That experience and access to his new mentors/advisors, led Jesse to cofound along with his brother in 1998 one of the first U.S. online bilingual Latino communities (Picosito.com) which was recognized by a U.S. Congressional Record by the House of Representatives in 1999 for their efforts around technology in Latino Community. They raised $2.3 million in seed capital and had two acquisition offers in less than six months.<br> After the dot com era, Jesse went back to Corporate America; he has over 10 years in the BPM industry & has worked with industry leaders such as Xerox Global Services, IKON, & Kofax as a Business Development Manager. He was also the cofounder of his 2nd startup – Giggo, a groupon-like venture delivering their messaging all in Spanish. Previously, he was the cofounder/COO of his third startup - Relevance, which took him to Brazil as the country director under the Startup Brasil Program.<br> Jesse is the Cofounder of AVION Ventures which is the 1st pre-accelerator focused on Latina women working on mobile ventures and based in San Francisco. His other personal passion is the Latino Startup Alliance, a non-profit supporting global Latino Tech Entrepreneurs and startup ecosystems where he serves as the Cofounder | Co-chair. He is also the Cofounder and Co-chair for the 1st Americas Summit – Bridging the Americas and SF/Silicon Valley. Currently, Jesse is the first Entrepreneur in Residence (EIR) for Salesforce Incubator working on a new venture at the intersection of Capital + Diverse Founders + Impact.<br> Lastly, Jesse was also the Cofounder of Spark America (Intro to tech entrepreneurship @ Mission High School), a program where he volunteered his time in teaching tech entrepreneurship to youth attending Mission High School (SFUSD). The program started as an after school pilot after seeing the disparity between the Mission Neighborhood and the Tech ecosystem. Just after one semester, the Youth Startups program turned to a class elective for credit and Jesse along with his brother taught for two semesters by volunteering their time to this important initiative."
 
 - name: Deborah Jaramillo
-  title: Financial Advisor and CFO
+  title: CFO and Board Treasurer
   mainImage: deborah.jpg
   funImage: funnyDeborah.jpg
   secImage: inspDeborah.jpg
-  team: Financial Advisor and CFO
+  team: CFO and Board Treasurer
   teamClass: leadershipTeam
   specialty: Management
   funFact: Started singing at the age of 4!
@@ -79,11 +60,11 @@
   description: "Current VP, Branch Manager at JP Morgan Chase. Deborah was born and raised in San Francisco where she then went on to completing her MBA from Dominican University of CA. Previously, Deborah was a Digital Connector from 2003 to 2006 and volunteered/interned for One Economy Corporation as a Development Intern working with the development team to raise money for undeserved technology programs.<br><br> Deborah has 7 years of work experience in the finance industry and over 10 years of experience partnering with nonprofits in the Bay Area aiming to bridge the gap of untapped youth into tech industry. <br><br>Deborah has always been reliable, responsible and passionate for working with low income families."
 
 - name: Abraham Velazquez
-  title: Full Stack Engineer
+  title: Board Chair
   mainImage: AbrahamVelazquez.jpg
   funImage: darkAbraham.jpg
   secImage: inspAbraham.jpg
-  team: Leadership Team
+  team: Board Chair
   teamClass: leadershipTeam
   specialty: Front-End Engineer
   funFact: Best Salsa Dancer
@@ -98,85 +79,66 @@
   website: http://abraham.mx/
   description: 'Abraham Velazquez Tello from the dev/Mission leadership team, is a Sr Frontend Engineer at Dropbox, proprietor of <a href="http://lunaroja.org">lunaroja.org</a> and the founder of <a href="http://Gozamos.com">gozamos.com</a>. His goal as a hybrid developer-designer, is to executing high‑quality user experiences for the open web. Abraham has worked for clients ranging from not‑for‑profit organizations serving minority communities to Fortune 500 companies. <br><br>After teaching 4 Mission Techie Cohorts, more than 100 hours of HTML, CSS and JavaScript to over 75 Young Adults from underserved communities, Abraham have also help create not only a pipeline for diversity but the next wave of full stack developers, engineers, programmers, and IT Technicians. '
 
-- name: Sam Moss
-  title: Mission Housing
-  mainImage: SamMoss.png
-  funImage: coolSam.jpg
-  secImage: inspSam.jpg
-  team: Executive Director at Mission Housing Development Corporation
-  specialty: Leadership
-  funFact: I enjoy seeing live music and going to Giants games. I’m also happy to play pool at my local bar and not do much else.
+- name: Francis Li
+  title: Board Secretary
+  mainImage: FrancisMain.jpg
+  funImage:  FrancisSecond.jpg
+  secImage: FrancisMain.jpg
+  team: Board Secretary
+  teamClass: leadershipTeam
+  specialty: Software Engineering, Interaction Design
+  funFact: Attends Comic-Con every year, and one of these days is going to cosplay with a costume outfitted with custom wearable electronics.
   location: San Francisco
   email:
-  linkedIn: sam-moss-132a9b9
-  twitter: sammymoss425?lang=en
-  github:
-  facebook:
-  googlePlus:
-  Phone:
-  website:
-  description: "I am originally from Fresno, then went to Pennsylvania and played D1 baseball at Bucknell University from 2000-2004. My wife and I met while living in Baltimore, then we moved to San Francisco in 2008. <br><br> Ever since graduating college, I’ve been involved in real estate in one way or another. Before joining Mission Housing, I managed real estate assets for union pension funds and various union locals throughout Northern California. I started with Mission Housing in December 2011 as an Asset Manager, then Director of Asset Management and became Executive Director in September 2013. <br><br> I oversee the administration of all Mission Housing assets, programs and services. I also make sure that each and every day our mission, and the short and long term vision for Mission Housing are achieved. Every day is different! I am often in meetings at City Hall and throughout various San Francisco communities pushing for more support of the Affordable Housing industry. On other days, my time at Mission Housing might be spent with issues like human resources, operations, budgets or board meetings. <br><br> Working in Affordable Housing is very rewarding, and I’m very thankful for finding Mission Housing. The most satisfying part of my job is watching our employees represent Mission Housing in the community, interacting with and supporting our residents and our neighbors in the Mission. Since 2012, our staff has grown from eight people to 25 people! Seeing how we can make change for the better is very gratifying. <br><br> I love working on behalf of the current and future residents of the Mission. The people before me who paved the way for Mission Housing sacrificed a great deal. I’m reminded of their hard work whenever I look at one of our 35 buildings, or meet one of our residents."
-
-- name: Marcia Contreras
-  title: Mission Housing
-  mainImage: MarciaContreras.jpg
-  funImage: coolMarcia.jpg
-  secImage: inspMarcia.jpg
-  team: Director of Operations and Resident Services at Mission Housing Development Corporation
-  teamClass:
-  specialty:
-  funFact: I won't miss a "Fast and Furious" or a "Star Trek" film and my kids have made me a Harry Potter fan!
-  location: San Francisco
-  email: mcontreras@missionhousing.org
-  linkedIn: marcia-contreras-a84a36
+  linkedIn: francisli
   twitter:
   github:
   facebook:
   googlePlus:
   Phone:
   website:
-  description: "Upon joining Misson Housing in 2009, I worked in various departments before becoming Director of Operations and Resident Services. My passion is helping staff break out of the silos that tend to form in organizations. Collaborate, collaborate, collaborate! It is also important to open up lines of communication between Mission Housing and our residents. This helps make sure we use our resources on things that make a difference in the quality-of-life for our residents.
-  <br>I also work hard at making sure Mission Housing is engaged in the communities around our developments. Our relationships with community-based organizations is important. I want to make sure Mission Housing shows solidarity with the leaders who are making passionate contributions to the fabric of our neighborhoods."
+  description: "Francis Li is a software engineer and an interaction designer, a serial entrepreneur in Silicon Valley and an educator of creative coding technologies and practices. A Bay Area native, Francis holds BA and MS degrees in Computer Science from U.C. Berkeley and a Master in Interaction Design degree from the Interaction Design Institute Ivrea."
 
-# - name: Tony Bear
-#   title: Mission Housing
-#   mainImage: TonyBear.jpg
-#   funImage:
-#   secImage:
-#   team: Communications Manager at Mission Housing Development Corporation
-#   teamClass:
-#   specialty: Branding
-#   funFact: I love shooting landscape and architectural photography.
-#   location: San Francisco
-#   email: tbear@missionhousing.org
-#   linkedIn: tonybear
-#   twitter: tonybear_dotcom
-#   github:
-#   facebook: https://www.facebook.com/tonybeardotcom/
-#   googlePlus:
-#   Phone:
-#   website: http://tonybear.com/#!/page_SPLASH
-#   description:  "The communications and branding of Mission Housing is my responsibility -- and a great outlet for my desire to help defend the right to affordable housing in the Bay Area. <br>The fun part of my work at Mission Housing is everything! A typical day is filled with lots of creative juice flowing, which makes the hours fly by! Website, magazine, signage, video production, flyers, and more. The goal is to tell the Mission Housing story and demonstrate our capacity to be a trusted corporate citizen in the Mission."
-
-- name: Veronica Green
-  title: Mission Housing
-  mainImage: VeronicaGreen.jpg
-  funImage: coolVeronica.jpg
-  secImage: inspVero.jpg
-  team: Community Associate Director at Mission Housing Development Corporation
-  teamClass:
-  specialty:
-  funFact: When I'm away from work, I love watching movies, hiking, cooking and spending time with family and friends.
+- name: April Alvarez
+  title: Board Member
+  mainImage: aprilMain.jpeg
+  funImage: aprilFun.jpg
+  secImage: aprilMain.jpeg
+  team: Board Member
+  teamClass: leadershipTeam 
+  specialty: Mass Communications
+  funFact: April is a half Ironman, she's completed two triathlons 70.3miles in distance and has NO desire to become a full Ironman.
   location: San Francisco
-  email: vgreen@missionhousing.org
-  linkedIn: veronica-green-28024741
+  email: 
+  linkedIn: alvarezapril
+  twitter: 
+  github: 
+  facebook: 
+  googlePlus: 
+  Phone: 
+  website:
+  description: "April grew up in California’s Central Valley and was the first to attend college in her family. April graduated from UC Berkeley with a B.A. in Mass Communications from UC Berkeley. After graduating, April joined Teach For America and taught thirty-two third grade students in New York City, while also completing her master’s degree in education. She returned to the west coast and continued to work in education at Eastside College Preparatory School in East Palo Alto, CA where she launched the Alumni Services Program at Eastside. After successfully building a team in providing college and career support to first-generation college students, April made the move to the tech industry. She is currently the Educational Equity Programs Manager for the Equity, Diversity and Inclusion team at Google. In this role, she manages key initiatives such as Code Next and Tech Exchange, Google’s programs to support and prepare more Black and Latinx students for a career in the tech industry. Her personal mission is to bridge the tech opportunity gap for Black and Latinx communities in major cities across the U.S. She is also the Co-Chair and a founding member of the Latinos in Tech Giving Circle, an active member of HOLA, Google’s employee resource group, and an alumna of HOPE."
+
+
+- name: Britt Hayse
+  title: Development (Grant Writer)
+  mainImage: BrittHayse.jpg
+  funImage:  BrittFun.jpg
+  secImage: BrittHayse.jpg
+  team: Development (Grant Writer)
+  teamClass: leadershipTeam
+  specialty:
+  funFact: Britt played NCAA Division I water polo at UC Santa Barbara while completing her BA. 
+  location: San Francisco
+  email:
+  linkedIn: britt-hayse-9067a4116
   twitter:
   github:
   facebook:
   googlePlus:
   Phone:
   website:
-  description: "As Community Associate Director at Mission Housing, I enjoy working with residents, staff and Mission District stakeholders to create a supportive community at Valencia Gardens. My focus is to bring programs that will enrich the lives of our residents while building relationships and connections within and around Valencia Gardens."
+  description: "President of Hayse Group, Inc, has been working in resource development and grants administration since 2007. She has raised over $10 million in public and private sources for diverse nonprofits in sectors such as education, health, and economic development. She held progressive development positions before founding her consulting firm and now offers grant writing, grant administration, fundraising, and related services to clients in the San Francisco Bay Area and beyond. She holds an MA in International Policy from the  Middlebury Institute of International Studies at Monterey and a BA in Global Studies from UC Santa Barbara."
 
 #- name: Eiman Zolfaghari
 #  title: IOS Developer
@@ -278,25 +240,25 @@
 #   website:
 #   description: Oscar is currently a IT Consultant Assistant. He currently is pursuing a BS Degree in Computer Science at San Francisco State. He also knows how to Refurbished Computers, and fix mobile devices. Oscar has worked with Leo Sosa on the Dev/mission computer lab roll outs and will be supporting our IT partnerships moving forward.
 
-- name: Zuri Gonzalez
-  title: STEM Coordinator
-  mainImage: Zuri.jpg
-  funImage: Zuri.jpg
-  secImage: inspZuri.jpg
-  team:
-  teamClass: dmStaff
-  specialty: IT
-  funFact: I like to learn about different cultures and read romance novels
-  location: San Francisco
-  email: zuri@devmission.org
-  linkedIn: zuri-gonzalez
-  twitter:
-  github: zurigo
-  facebook: zurisgom
-  googlePlus:
-  Phone:
-  website:
-  description: I started as a Volunteer and now I’m all over IT, I love programming because I can create a hole new world, but also I like getting my hands dirty by doing hardware. Every time I get to repair a lonely broken desktop or laptop, I get so exited!! I recently attended a Salesfore Admin 201 bootcamp but I want to pursue a degree on Computer Science and IT. In the future I want to become someone that helps inspire the empowerment in young adults who are passionate about technology.
+# - name: Zuri Gonzalez
+#   title: STEM Coordinator
+#   mainImage: Zuri.jpg
+#   funImage: colorZuri.jpg
+#   secImage: inspZuri.jpg
+#   team:
+#   teamClass: dmStaff
+#   specialty: IT
+#   funFact: I like to learn about different cultures and read romance novels
+#   location: San Francisco
+#   email: zuri@devmission.org
+#   linkedIn: zuri-gonzalez
+#   twitter:
+#   github: zurigo
+#   facebook: zurisgom
+#   googlePlus:
+#   Phone:
+#   website: http://www.zurisgo.com
+#   description: I started as a Volunteer and now I’m all over IT, I love programming because I can create a hole new world, but also I like getting my hands dirty by doing hardware. Every time I get to repair a lonely broken desktop or laptop, I get so exited!! I recently attended a Salesfore Admin 201 bootcamp but I want to pursue a degree on Computer Science and IT. In the future I want to become someone that helps inspire the empowerment in young adults who are passionate about technology.
 
 # - name: Emanuel Flores
 #   title: IT Technician
@@ -344,7 +306,7 @@
   funImage: coolArya.jpg
   secImage: coolArya.jpg
   team: Leadership Team
-  teamClass: leadershipTeam
+  teamClass: 
   specialty: As described by people he has served over the years "Arya is a career rockstar/motivational badass."
   funFact: I speak 3 different languages, served in the Peace Corps, play bass in 2 different bands, and I used to foster kitties in my spare time.
   location: San Francisco
@@ -404,7 +366,7 @@
   funImage: coolYaritza2.jpg
   secImage: inspYaritza.jpeg
   team: Full stack developer
-  teamClass: webDevelopmentTeam leadershipTeam
+  teamClass: webDevelopmentTeam 
   specialty: Ruby on Rails
   funFact: Dances to all kinds of music!
   location: San Francisco
@@ -424,7 +386,7 @@
   funImage: coolChristian.jpg
   secImage: inspChristian.jpeg
   team: Full Stack Developer
-  teamClass: webDevelopmentTeam leadershipTeam
+  teamClass: webDevelopmentTeam 
   specialty: Ruby
   funFact: Gym / Game enthusiast / Nerd / Love Grapes
   location: San Francisco
@@ -438,54 +400,54 @@
   website: http://csalas.tech/
   description: "Christian loves to break things down to fully understand what's going on behind the hood and then go back to fix them. He has a theoretical background from Computer Science and a practical background from Dev Bootcamp."
 
-- name: Stephanie Cueto
-  title: Aspiring Developer
-  mainImage: stephanieCueto.jpg
-  funImage: coolSteph.jpg
-  secImage: inspStephanie.jpg
-  team: Aspiring Developer
-  teamClass: leadershipTeam
-  specialty: Latin Studies
-  funFact: I like to paint and read Spanish literature.
-  location: San Francisco
-  email: stephanie@gmail.com
-  linkedIn: stephaniecueto
-  twitter:
-  github: smcueto
-  facebook:
-  googlePlus:
-  Phone:
+# - name: Stephanie Cueto
+#   title: Aspiring Developer
+#   mainImage: stephanieCueto.jpg
+#   funImage: coolSteph.jpg
+#   secImage: inspStephanie.jpg
+#   team: Aspiring Developer
+#   teamClass: 
+#   specialty: Latin Studies
+#   funFact: I like to paint and read Spanish literature.
+#   location: San Francisco
+#   email: stephanie@gmail.com
+#   linkedIn: stephaniecueto
+#   twitter:
+#   github: smcueto
+#   facebook:
+#   googlePlus:
+#   Phone:
 
-- name: Daniela Meza-Gray
-  title: Program Development Coordinator
-  mainImage: danielaMeza.jpg
-  funImage: funnyDanielaMeza.jpg
-  secImage: funnyDanielaMeza.jpg
-  team: Program Development Coordinator
-  teamClass: leadershipTeam
-  specialty: Leadership
-  funFact: Foodie with a donut obsession.
-  location: Oakland
-  email:
-  linkedIn: danielameza
-  twitter: danee_m
-  github:
-  facebook:
-  googlePlus:
-  Phone:
-  website:
-  description: "Daniela is currently the Program Coordinator of the Volunteer Legal Services
-  Corporation in Oakland, a nonprofit dedicated to improving access to justice to the low-income
-  residents of Alameda County. As a first generation college graduate and DACA recipient, Daniela
-  has a strong commitment to facilitating and creating pathways for low-income diverse communities
-  to succeed in education and in the workforce.</br></br>Previous to her role at VLSC, Daniela
-  worked for the Pomona College Academy for Youth Success, a college access program committed to
-  increasing the number of students from low-income and historically underrepresented backgrounds in
-  highly selective colleges and universities. Through her personal experience and work with
-  low-income and minority communities, Daniela has seen the limitless potential of diverse
-  communities when given the tools and opportunities to succeed. She hopes to one day lead diversity
-  initiatives for tech companies that are ready to invest in the infrastructure necessary to recruit
-  and retain the most talented and diverse candidates in our communities. "
+# - name: Daniela Meza-Gray
+#   title: Program Development Coordinator
+#   mainImage: danielaMeza.jpg
+#   funImage: funnyDanielaMeza.jpg
+#   secImage: funnyDanielaMeza.jpg
+#   team: Program Development Coordinator
+#   teamClass: 
+#   specialty: Leadership
+#   funFact: Foodie with a donut obsession.
+#   location: Oakland
+#   email:
+#   linkedIn: danielameza
+#   twitter: danee_m
+#   github:
+#   facebook:
+#   googlePlus:
+#   Phone:
+#   website:
+#   description: "Daniela is currently the Program Coordinator of the Volunteer Legal Services
+#   Corporation in Oakland, a nonprofit dedicated to improving access to justice to the low-income
+#   residents of Alameda County. As a first generation college graduate and DACA recipient, Daniela
+#   has a strong commitment to facilitating and creating pathways for low-income diverse communities
+#   to succeed in education and in the workforce.</br></br>Previous to her role at VLSC, Daniela
+#   worked for the Pomona College Academy for Youth Success, a college access program committed to
+#   increasing the number of students from low-income and historically underrepresented backgrounds in
+#   highly selective colleges and universities. Through her personal experience and work with
+#   low-income and minority communities, Daniela has seen the limitless potential of diverse
+#   communities when given the tools and opportunities to succeed. She hopes to one day lead diversity
+#   initiatives for tech companies that are ready to invest in the infrastructure necessary to recruit
+#   and retain the most talented and diverse candidates in our communities. "
 
 - name: Ismael Sosa
   title: Digital Designer
@@ -507,25 +469,25 @@
   website: http://www.ismaelsosadesign.com/
   description: "Born and raised in San Francisco, I wanted to experience the world faster so I finished High School a year early. Took the fall off and now I'm currently studying Digital Design at Miami Ad School.<br> <a href='https://www.pinterest.com/ismaelsosa98/' target='_blank'><i class='fa fa-pinterest-p'></i>  Pinterest Page</a><br><a href='https://www.behance.net/IsmaelSosa' target='_blank'><i class='fa fa-behance'></i>  Behance Page</a>"
 
-- name: Aura Barba Serrato
-  title: Marketing & Communications Volunteer
-  mainImage: AuraBarba.jpg
-  funImage: coolAura.jpg
-  secImage: inspAura.jpg
-  team:
-  teamClass: designMediaTeam
-  specialty: Marketing and Data Analytics
-  funFact: I’m not a professional dancer but anyways I’ve been dancing with “La Cumbiamba Colombiana” at the San Francisco Carnaval
-  location: San Francisco
-  email: auramil1988@gmail.com
-  linkedIn: aura-barba-serrato-7393384a
-  twitter:
-  github:
-  facebook: aura.barva
-  googlePlus:
-  Phone: (415) 632-9764
-  website:
-  description: I’m from Cartagena, Colombia and I’ve been living in San Francisco for four years. I have an Industrial Engineering bachelor’s degree from Colombia and a Marketing associate from CCSF. Also I have experience in data analytics. Even though my two backgrounds are different, I love getting insights from the numbers and at the same time I like to be creative all the time. For me marketing and data results work together. Moving here it has been a great experience with a lot of growth personally and professionally. <br>If I can describe my self in five words, they will be Latina, Independent, Feminist, Folklore Lover, and Passionate.
+# - name: Aura Barba Serrato
+#   title: Marketing & Communications Volunteer
+#   mainImage: AuraBarba.jpg
+#   funImage: coolAura.jpg
+#   secImage: inspAura.jpg
+#   team:
+#   teamClass: designMediaTeam
+#   specialty: Marketing and Data Analytics
+#   funFact: I’m not a professional dancer but anyways I’ve been dancing with “La Cumbiamba Colombiana” at the San Francisco Carnaval
+#   location: San Francisco
+#   email: auramil1988@gmail.com
+#   linkedIn: aura-barba-serrato-7393384a
+#   twitter:
+#   github:
+#   facebook: aura.barva
+#   googlePlus:
+#   Phone: (415) 632-9764
+#   website:
+#   description: I’m from Cartagena, Colombia and I’ve been living in San Francisco for four years. I have an Industrial Engineering bachelor’s degree from Colombia and a Marketing associate from CCSF. Also I have experience in data analytics. Even though my two backgrounds are different, I love getting insights from the numbers and at the same time I like to be creative all the time. For me marketing and data results work together. Moving here it has been a great experience with a lot of growth personally and professionally. <br>If I can describe my self in five words, they will be Latina, Independent, Feminist, Folklore Lover, and Passionate.
 
 # - name: Noé Roman
 #   title: Communications Volunteer
@@ -546,110 +508,70 @@
 #   Phone:
 #   website: kusalite.github.io
 #   description: Born and Raised in San Francisco; Passionate about Art and Technology. Currently a student at City College of San Francisco. I want to move back into the city one day, and I will be doing that by continuing school and learning coding with the support of dev/Mission.
+  
+  
+  
+# - name: Jocelyne Umanzor 
+#   title: Intern
+#   mainImage: JocelyneMain.jpg
+#   funImage: JocelyneMain.jpg
+#   secImage: JocelyneMain.jpg
+#   team: Intern
+#   teamClass: interns 
+#   specialty: 
+#   funFact: .
+#   location: San Francisco
+#   email: 
+#   linkedIn: jocelyne-umanzor
+#   twitter:
+#   github: 
+#   facebook:
+#   googlePlus:
+#   Phone:
+#   website: 
+#   description: " <br> "
 
-- name: Gael Gil
-  title: Front End Development Intern
-  mainImage: GaelMain.jpg
-  funImage: GaelMain.jpg
-  secImage: GaelMain.jpg
-  team: High School Student 
-  teamClass: webDevelopmentTeam designMediaTeam interns 
-  specialty:  
-  funFact: I like to play soccer. 
+# - name: Stephany Pescador 
+#   title: Intern
+#   mainImage: StephanyMain.jpg
+#   funImage: StephanyMain.jpg
+#   secImage: StephanyMain.jpg
+#   team: Intern
+#   teamClass: interns 
+#   specialty: 
+#   funFact: .
+#   location: San Francisco
+#   email: 
+#   linkedIn: stephanypescador
+#   twitter:
+#   github: 
+#   facebook:
+#   googlePlus:
+#   Phone:
+#   website: 
+#   description: " <br> "
+
+  
+- name: Alise Minor 
+  title: STEAM Admin
+  mainImage: AliseMain.jpeg
+  funImage: AliseMain.jpeg
+  secImage: AliseMain.jpeg 
+  team: Staff
+  teamClass: Staff
+  specialty: 
+  funFact:  A fun fact about myself is always smiling, people call me Smiley.
   location: San Francisco 
   email: 
-  linkedIn: gael-gil-7a4baa172
-  twitter: 
-  github: GaelGil
-  facebook: 
-  googlePlus: 
-  Phone: 
-  website: 
-  description: "Hi my name is Gael Gil, <br><br>
-                I am currently a high school senior and was part of dev/Mission’s 5th cohort back in the fall of 2018!<br><br>
-               While in the program I learned a lot of new things such as IoT, javascript and critical career skills, as well as getting to know a lot of new people such as volunteers and staff that helped us. After graduating in the fall devmission was offering a internship and I decided to give it a shot and try it. I am now the front end web developer intern, so far I've been doing well and currently learning a lot about front end web development but would as well like to learn about back end development."
-  
-  
-  
-- name: Jocelyne Umanzor 
-  title: Intern
-  mainImage: JocelyneMain.jpg
-  funImage: JocelyneMain.jpg
-  secImage: JocelyneMain.jpg
-  team: Intern
-  teamClass: interns 
-  specialty: 
-  funFact: .
-  location: San Francisco
-  email: 
-  linkedIn: jocelyne-umanzor
+  linkedIn: alise-minor-77392a176
   twitter:
   github: 
   facebook:
   googlePlus:
   Phone:
   website: 
-  description: " <br> "
+  description: "My name is Alise Minor I was born and raised in San Francisco. I been living in hunters point for about 10 years now. I have volunteer and work experience with Girls 2000, the Kirkwood food pantry, Wise Health, and Hunters Point Families. I feel I can bring many qualities and fun activities to my position in this program."
 
-- name: Stephany Pescador 
-  title: Intern
-  mainImage: StephanyMain.jpg
-  funImage: StephanyMain.jpg
-  secImage: StephanyMain.jpg
-  team: Intern
-  teamClass: interns 
-  specialty: 
-  funFact: .
-  location: San Francisco
-  email: 
-  linkedIn: stephanypescador
-  twitter:
-  github: 
-  facebook:
-  googlePlus:
-  Phone:
-  website: 
-  description: " <br> "
-
-- name: Luis Jara
-  title: Intern
-  mainImage: LuisMain.jpg
-  funImage: LuisMain.jpg
-  secImage: LuisMain.jpg
-  team: Intern
-  teamClass: interns 
-  specialty: 
-  funFact: .
-  location: San Francisco
-  email: 
-  linkedIn: luis-jara-768baa172
-  twitter:
-  github: 
-  facebook:
-  googlePlus:
-  Phone:
-  website: 
-  description: " <br> "
-
-- name: Leroy Valle-Bermudez
-  title: Intern
-  mainImage: LeroyMain.jpg
-  funImage: LeroyMain.jpg
-  secImage: LeroyMain.jpg  
-  team: Intern
-  teamClass: interns 
-  specialty: 
-  funFact: .
-  location: San Francisco 
-  email: 
-  linkedIn: leroyvallebermudez
-  twitter:
-  github: 
-  facebook:
-  googlePlus:
-  Phone:
-  website: 
-  description: " <br> "
   
 - name: Ivan Hurtado 
   title: Lead Instructor 
@@ -671,12 +593,33 @@
   website: 
   description: "I am an experienced Technology-based Facilitator with a demonstrated history of working in the non-profit organization management industry. I am also skilled in Youth Development, Classroom Management, Instructional Design, Team Building, and Public Speaking. I have very Strong community and social services professional with a A.S. focused in Computer Technology from Heald College." 
   
+# - name: Raven Boddie
+#   title: OST Instructor
+#   mainImage: RavenMain.jpg
+#   funImage: RavenMain.jpg
+#   secImage: RavenMain.jpg
+#   team: Staff
+#   teamClass: dmStaff
+#   specialty:
+#   funFact: .
+#   location: San Francisco
+#   email:
+#   linkedIn: raven-carroll-91bb0715b
+#   twitter:
+#   github:
+#   facebook:
+#   googlePlus:
+#   Phone:
+#   website:
+#   description: "Hi! My name is Raven I was born and raised in San Francisco, Ca. I grew up in the Western Addition, and I’ve been involved with the community since I was 12 years old. I’ve volunteered at Juneteenth for the past 7 years and other events in the Fillmore District. I just graduated high school in December, and since then I’ve been involved in several coding programs with Code Tenderloin, and Code on point at the success center. A fun fact about myself is that I’ve met the Brooklyn Nets at my old job working at Tosca."
+  
+  
 - name: Nathaly De Leon
   title: Program Coordinator 
-  mainImage: NathalyMain.jpg
-  funImage: NathalyMain.jpg
-  secImage: NathalyMain.jpg
-  team: 
+  mainImage: NathalyMain.png	
+  funImage: NathalyMain.png	
+  secImage: NathalyMain.png	
+  team: Staff
   teamClass: dmStaff
   specialty: 
   funFact: 
@@ -699,43 +642,6 @@
         As well as, to have the opportunity to network with people who work in the tech industry. (Critical Career Skills)
         Having an understanding of how the program ran as a student gives me insight now as a Program Coordinator on how to enhance the program to best meet the needs of participants, simultaneously, complying with the requirements of community partners and funders."
   
-- name: Tangy Franks
-  title: Education Workforce Development Specialist
-  mainImage: TangyFunny.jpg
-  funImage: TangyFunny.jpg
-  secImage: TangyFunny.jpg
-  team: Education Workforce Development Specialist
-  teamClass: dmStaff
-  specialty: Workforce Management Analyst
-  funFact: I enjoy open Mic Night
-  location: Bay Area
-  email: 
-  linkedIn: tangy-franks-cwdp-566a682b 
-  twitter:
-  github: 
-  facebook:
-  googlePlus:
-  Phone:
-  website: 
-  description: "Multi – skilled, dependable Workforce Development (CWDP) professional, Tangy Franks was born and raised in the heart of the Bay Area.
-                She thrives in community activism with impacting local advocacy through public and private sector. In her vast experiences she has  
-                                created a platform that has offered a well rounded approach and perspective through state and local counties. Tangy Franks ambition
-                                has a multifunctional facet that drives the industry with her relentless commitment to social change, In the past delivering recruiting
-                                services for the City of San Francisco’s Office of Economic and Workforce Development. Providing technical assistance to 50+ SF-funded 
-                                agencies to champion SF Jobs Portal launch & special projects. Screening over 1,500+ job seekers. Responsible for all aspects of program 
-                                development & managerial duties with Government Solutions, she exceeded program deliverables & compliance through the City of San Francisco workforce grant.
-                                She partnered with San Francisco’s Office of Economic and Workforce Development facilitating branding and marketing for the Workforce Innovation and Opportunity Act programs. 
-                                Which included but is not limited to the First Source Hiring Program to more than 300 San Francisco employers.
-                                <br>
-                                <br>
-                                She also functioned as the Multi-site human resource manager, analyzing and reporting on over 34 data points under surveillance of state &; federal policies 
-                                &amp; guidelines. Tangy is committed to learning, she has obtained multiple degrees and certificates including real estate, economics, accounting, 
-                                business administration, finance, and international sales and marketing. She’s an asset to any organization bringing valuable skills to both sectors.
-                                Tangy believes work is not just about what we do, but the change we can make. She feels it is our human obligation to build and empower 
-                                our communities to ensure equal access. Creating an inclusive culture that is truly reflective of humanity’s rich diversity.
-                                Positioning herself between organizations and public sectors has allowed her to embody an open-ended dialogue in transparency 
-                                creating a powerful mechanism of change." 
-
 
 - name: Jessica Linares
   title: Administrative Assistant
@@ -778,8 +684,27 @@
   Phone:
   website:
   description: "Gary 'G BiZ' Bizer attended San Jose State University where he obtained a media degree in Radio, Television, Film and Theatre & a minor in Journalism. He began working with youth and non-profit organizations in the fall of 2009. He started his career teaching audio production and video production in San Francisco’s Visitacion Valley district while simultaneously pursuing his dream of becoming an On-Air Radio Personality. In 2014 G BiZ won a contest to become a co-host for the Sana G Morning Show on 106.1 KMEL, where he has remained since and become an integral part of iHeart Media SF. Along with his success in radio he has taught media technology & music production on every level of K-12 SFUSD academics as well as within grassroots organization in San Francisco & Oakland."
-                                  
-                                  
+
+- name: Mellany Andrea Quiroz
+  title: OST Instructor
+  mainImage: MellanyMain.jpg
+  funImage: MellanyFun.jpg
+  secImage: MellanyMain.jpg
+  team: Staff
+  teamClass: dmStaff
+  specialty: 
+  funFact:  I love watching movies! Lets discuss!
+  location: San Francisco
+  email:
+  linkedIn: mellany-quiroz
+  twitter:
+  github:
+  facebook:
+  googlePlus:
+  Phone:
+  website:
+  description: I was born and raised in the city. My pronouns are she/her! My interest in tech started when I took my first coding class in college, programming feels like a puzzle to me! This fall I will be transferring from CCSF to UC Santa Cruz to pursue my degree in Computer Science (B.S.)! Besides tech, I am also a big advocate for social justice and want to actively help get more brown and black youth to pursue careers in tech. I know what it is like to navigate through these predominantly white institutions, and that is a huge problem that I want future generations to not be intimidated by, I want to help end this issue. How can technology advance if the people in charge are not a diverse group? Tech must cater to EVERYONE’S needs and it starts by having a diverse team. I am also a big believer in community, for as long as I am succeeding in tech I want to use my power to uplift my community, because at the end of the day the success of the overall community is my true accomplishment.
+
 
 - name: Marvin Brizuela
   title: Music Lab Instructor
@@ -800,5 +725,47 @@
   Phone:
   website:
   description: "At 20 years old YoungMars has effectively produced his own sound. From mixing up sounds from his latino roots with the sounds of smooth to now be “trapsoul” he has made it his own. Performing both in english and spanish he is a mix of both worlds. Coming out from one of the smaller cities in San Francisco CA YoungMars is on the come up. Watch out!"
-                                  
-                                  
+
+- name: Ruqaiyah Angeles
+  title: Intern
+  mainImage: RuqaiyahMain.jpg
+  funImage: RuqaiyahMain.jpg
+  secImage: RuqaiyahMain.jpg
+  team: Intern
+  teamClass: interns
+  specialty:
+  funFact: I am apart of two sets of twins, all three of us are siblings, but none of us have the exact same birthday.
+  location: San Francisco
+  email:
+  linkedIn: ruqaiyah-angeles-262675166
+  twitter:
+  github:
+  facebook:
+  googlePlus:
+  Phone:
+  website:
+  description: Hey everyone, my name is Ruqaiyah Angeles and I am dev/Mission’s newest member to the team. I recently graduated from the Summer Cohort of 2019 from the Western Addition location. I have recently became the Valencia Garden’s Community Technology Associate who is a one stop shop for all the community member’s technological issues. I work closely with the community to assist in diagnosing, running tests, and advising them on further actions to take, in terms of their devices. I am also apart of a new pilot that is in partnership with the City and County of San Francisco Digital Equity Office that aims to refurbish donated computers and distribute them back into the low-income communities to assist in creating opportunities towards tech inclusion.
+
+
+- name: Gael Gil
+  title: Intern
+  mainImage: GaelMain.jpg
+  funImage: GaelMain.jpg
+  secImage: GaelMain.jpg
+  team: Intern 
+  teamClass: webDevelopmentTeam designMediaTeam interns 
+  specialty:  
+  funFact: I like to play soccer. 
+  location: San Francisco 
+  email: 
+  linkedIn: gael-gil-7a4baa172
+  twitter: 
+  github: GaelGil
+  facebook: 
+  googlePlus: 
+  Phone: 
+  website: 
+  description: "Hi my name is Gael Gil, <br><br>
+                I am currently a high school senior and was part of dev/Mission’s 5th cohort back in the fall of 2018!<br><br>
+               While in the program I learned a lot of new things such as IoT, javascript and critical career skills, as well as getting to know a lot of new people such as volunteers and staff that helped us. After graduating in the fall devmission was offering a internship and I decided to give it a shot and try it. I am now the front end web developer intern, so far I've been doing well and currently learning a lot about front end web development but would as well like to learn about back end development."
+

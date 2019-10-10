@@ -7,7 +7,7 @@ permalink: /blog/
 <link rel="stylesheet" href="{{ site.baseurl }}/css/program.css" />
 <main>
     <!--Slider-->
-    <section id="slider" class="wrapper-program-slider" style="background: url(../img/blog/slider.jpeg) no-repeat; background-size: cover;">
+    <section id="slider" class="wrapper-program-slider" style="background: url(../img/newImages/BlogSection.jpg) no-repeat; background-size: cover;">
         <div class="container">
             <div class="row">
                 <div class="col-md-1"></div>
@@ -15,7 +15,7 @@ permalink: /blog/
                 <div class="col-md-10">
                     <div class="program-slider">
                         <h1 class="text-color-white animated fadeInUp">Welcome to &lt;dev/Mission&gt; Blog</h1>
-                        <p class="animated fadeInUp lead">Creating the next generations of tech talent!</p>
+                        <p class="animated fadeInUp lead">Read our Volunteer Stories, Press Releases and Much More!</p>
                     </div>
                 </div>
                 <div class="col-md-1"></div>
@@ -30,6 +30,7 @@ permalink: /blog/
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                     {% for post in site.posts %}
+                      {% unless post.draft %}
                     <div class="post-preview text-left">
                         <a href="{{ post.url | prepend: site.baseurl }}" style="color:black">
                             <h2 class="blog-h2 post-title">
@@ -45,11 +46,14 @@ permalink: /blog/
                         <p class="post-meta" style="color:grey">Posted by <a href="#" style="color:black">{{ post.author }}</a> on {{ post.date | date: "%B %-d, %Y" }}</p>
                     </div>
                     <hr style="border-top:1px solid #222;">
+                      {% endunless %}
                     {% endfor %}
                 </div>
             </div>
                 <!--End of Program Content-->
 
 
+            
     </section>
 </main>
+

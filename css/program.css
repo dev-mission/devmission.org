@@ -2,7 +2,7 @@
 
 /*---Program General Atributtes---*/
 #slider {
-    background: url(../img/program/program.jpg) no-repeat;
+    background: url(../img/newImages/OurProgramSection.jpg) no-repeat;
     background-size: cover;
     background-attachment: fixed;
     background-position: 10% 0%;
@@ -68,16 +68,22 @@ main h4 {
     margin-top: 5%;
     font-family: 'Montserrat', serif;
 }
-.locations table {
-    width: 100%;
-    margin: auto;
-}
 
-.locations th {
-     padding: 2%;
-    border: 1px solid white;
-    text-align: inherit;
-}
+  
+
+  .locations table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+
+  .locations tr, td {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+
+
 
 /*---Sub-Menu of Program---*/
 
@@ -87,7 +93,7 @@ main h4 {
 
 section .program-menu,
 .wrapper-sub-menu {
-    background-color: #1D3557;
+    background-color: #1377FF;
 }
 
 .wrapper-sub-menu .sub-menu {
@@ -187,7 +193,7 @@ background-color: honeydew;
 }
 
 .locations {
-      background-color: SlateGray;
+    color: black;
 }
 
 .hardware ul,
@@ -210,7 +216,7 @@ background-color: honeydew;
 
 #faqs .panel-default .panel-heading {
     color: azure;
-    background-color: #1D3557;
+    background-color: #1377FF;
     border-color: black;
 }
 /*---Media Queries---*/
